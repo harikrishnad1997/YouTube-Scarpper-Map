@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Interactive Map with JSON Data</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-search@2.9.8/dist/leaflet-search.src.css" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            height: 80vh;
+            width: 100%;
+        }
+
+        #search-container {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1000;
+            background-color: white;
+            padding: 5px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Interactive Map</h1>
+    <p>Explore locations with detailed information and links.</p>
+    
+    <div id="search-container">
+        <input type="text" id="search-input" placeholder="Search...">
+    </div>
+
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+    <script src="https://unpkg.com/leaflet-search@2.9.8/dist/leaflet-search.src.js"></script>
+
+    <script>
+        var map = L.map('map').setView([12.9, 77.5], 5);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        L.Control.geocoder().addTo(map);
+
+        fetch('gmaps_to_link.json')
+            .then(response => response.json())
+            .then(data => {
+                var markersLayer = new L.LayerGroup();
+                map.addLayer(markersLayer);
+
+                data.locations.forEach(function(location) {
+                    var lat = location.lat;
+                    var lon = location.long;
+                    var title = location.title;
+                    var description = location.description;
+                    var youtubeLink = location.link;
+
+                    var popupContent = '<b>' + title + '</b><br>' + description +
+                        '<br><a href="' + youtubeLink + '" target="_blank">YouTube Link</a>';
+
+                    var marker = L.marker([lat, lon])
+                        .bindPopup(popupContent);
+                    markersLayer.addLayer(marker);
+                });
+
+                var controlSearch = new L.Control.Search({
+                    layer: markersLayer,
+                    initial: false,
+                    zoom: 17,
+                    marker: false
+                });
+
+                controlSearch.on('search:locationfound', function(e) {
+                    map.setView(e.latlng, 17);
+                });
+
+                map.addControl(controlSearch);
+            })
+            .catch(error => console.log('Error loading JSON data: ', error));
+    </script>
+</body>
+</html>
