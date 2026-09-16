@@ -1,0 +1,6 @@
+pandas>=2.0.0
+requests>=2.31.0
+folium>=0.16.0
+google-api-python-client>=2.131.0
+youtube-transcript-api>=0.6.2
+google-generativeai>=0.5.4

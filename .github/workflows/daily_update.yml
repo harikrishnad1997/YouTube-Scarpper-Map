@@ -1,0 +1,72 @@
+name: Daily Map Update & Deploy
+
+"on":
+  schedule:
+    # Runs at 02:00 UTC (07:30 AM IST) every day
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Allows manual run anytime from GitHub Actions tab
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: "requirements-pipeline.txt"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements-pipeline.txt
+
+      - name: Run Incremental Pipeline
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python pipeline.py --run-all
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add youtube_videos.csv no_gmaps_links.csv extracted_lat_long.csv \
+                  gmaps_to_link.json gmaps_to_link_w_labels_3.json final_data.json \
+                  app/list2.csv Website/youtube_map_4.html youtube_map.html
+          if git diff --staged --quiet; then
+            echo "No data changes detected. Skipping git commit."
+          else
+            git commit -m "Automated daily map update [skip ci]"
+            git push
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'Website'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
