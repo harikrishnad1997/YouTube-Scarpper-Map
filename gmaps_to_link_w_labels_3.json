@@ -28774,7 +28774,49 @@
             "description": "#Bheemas #AndhraFood #Bangalore\n\nandhra cuisine, bheema\u2019s, bengaluru, non vegetarian meal, lunch, fish fry, chilli chicken, mutton pepper fry, guntur chicken, mutton seeraga samba biryani, chicken biryani, nellore biryani, popular bengaluru lunch spot\n\nAfter many a vegetarian reviews over the last few weeks, I was craving the comfort of some hearty non vegetarian fare. And so we landed at Bheema\u2019s to savour a spicy Andhra bhojanam of fish fry, chilli chicken, mutton pepper fry, Guntur chicken, and a couple of biryanis, their staple Nellore version in addition to their ode to Bengaluru\u2019s dhonne style biryani! And needless to say, we also took a quick look behind the scenes to see how this popular restaurant is gearing up to serve customers in these challenging times. Enjoy and stay safe. \n\nFish Fry \nA tasty fry, though not the sort that will blow your socks off! It\u2019s a thin slice of fish, napped in a sprightly masala and fried crisp around the edges.\nRs. 370 (usd 4.9) \n7/10\n\nChilli Chicken\nNo Andhra non-vegetarian meal can be complete without a chilli chicken, rich in copious amounts of green chilli and pepper. The spice hit is tongue-numbing, but one that\u2019s vicariously addictive. The chicken is nice and juicy all the way down to the bone. \nRs. 270 (usd 3.6) \n8/10\n\nMutton Pepper Fry \nThe mutton is soft and yields to a gentle bite, draped in a pepper-onion masala. The meat is sheathed in some fat, which lends it its fulsome flavour. At Bheema\u2019s they pick their meat cuts well and certainly know how to cook it well too.\nRs. 350 (usd 4.6) \n9/10\n\nGuntur Chicken\nA chicken preparation that heroes the Guntur chilli.The creaminess of the coconut though and the acidity of tomatoes in this dish balances against the heat of this otherwise spicy Andhra chilli.\nRs. 305 (usd 4) \n8/10\n\nMutton Jeera Rice Biryani\nBheema\u2019s ode to the local Bengaluru biryani, this one is made with the short-grained seeraga samba rice. You can taste the fervour of coriander, mint and green chillies alongside other ingredients like the marat moggu, cloves that are typically used in this one-pot rice and meat preparation. The meat slides off the bone, it is cooked as well as that! \nRs. 295 (usd 3.9) \n8/10\n\nChicken Biryani \nBheema\u2019s most popular dish, this traditional Nellore-style biryani is made with basmati rice. There\u2019s flecks of pineapple that go into this biryani and you taste its acidity juxtaposed against the aromatic flavours of cloves, cinnamon and other warming spices that the chicken and rice are cooked in. The meat is soft and juicy, however it is the delicate spicing of the biryani that makes an impression on the palate and lingers long after one has finished eating.\nRs. 260 (usd 3.4) \n9/10\n\nADDRESS - Bheema's, 31, Asha Building, Ground Floor, Church Street, Bengaluru, Karnataka 560001; tell: 080 2558 7389\nLOCATION TAG - https://maps.app.goo.gl/gaDweeSNAwped...\n\n\nLinks to other Bheema videos:\nTasting BHEEMA'S Most Popular ANDHRA VEG MEALS | MUTTON BIRYANI | Chilli Chicken | KITCHEN TOUR!\nhttps://youtu.be/8-igroeATQ0\n\n\nSUPPORT FOOD LOVERS \nIf you enjoyed this video, please consider supporting Food Lovers TV by joining our membership community on YouTube by hitting the \u2018join\u2019 button below or on the home page. You could pledge a nominal sum and receive special privileges like behind the scenes footage, shoot updates, access to live q&a\u2019s and more. \n\nYou could also support us on our Patreon page. For more info, check out the links below. \n\nhttps://www.youtube.com/channel/UC-Lq6oBPTgTXT_K-ylWL6hg/join\nhttps://www.patreon.com/foodloverstv \n\nOur vision at Food Lovers is to be India\u2019s finest, and most importantly, trusted content platform in the field of food, wine & spirits and dining. Advertising is clearly demarcated and kept distinct from editorial. We do our best not to blur the lines between the two.\n\nAs guided by our credo: Truth in food, wine and dining, we have chosen not to put up a paywall as we want our rich content to remain accessible to all. Independent food journalism \u2013 free for those who can\u2019t afford it, supported by those who can.\n\nYou can also make a one time, direct contribution to our bank account (details as below) \n\nOur bank details are as below:\nA/c name: Hospitality Initiatives India Pvt. Ltd.\nA/c No: 0056444807\nIFSC code: CITI0000004\nBank: Citibank N A\nBranch: M G Road, Bangalore, Karnataka, India\nPlease email the transfer details to info@foodlovers.in once you have made a contribution.\n\nMembers of the Food Lovers TV Ambassador Tier on Patron\nV Malladi\n\nMembers of the Food Lovers TV Family Tier on Patreon:\nStanley Pinto\nNilesh D'souza \nYou too can be part of the Food Lovers Patron Network. Visit https://www.patreon.com/foodloverstv to join the Food Lovers family \ud83d\ude4f\ud83d\ude0b",
             "transcription": "Error: name 'Translator' is not defined",
             "lat": NaN,
-            "long": NaN
+            "long": NaN,
+            "rest_name": "Bheema's",
+            "address": "31, Asha Building, Ground Floor, Church Street, Bengaluru, Karnataka 560001",
+            "ph_no": "080 2558 7389",
+            "cuisine": [
+                "Andhra",
+                "South Indian"
+            ],
+            "price": "$$",
+            "v_n_ng": "Non-veg",
+            "best_dishes": [
+                {
+                    "name": "Fish Fry",
+                    "summary": "A thin slice of fish, napped in a sprightly masala and fried crisp around the edges.",
+                    "price": "Rs. 370"
+                },
+                {
+                    "name": "Chilli Chicken",
+                    "summary": "Rich in green chilli and pepper with an addictive spice hit and juicy chicken.",
+                    "price": "Rs. 270"
+                },
+                {
+                    "name": "Mutton Pepper Fry",
+                    "summary": "Soft and tender mutton draped in a rich pepper-onion masala.",
+                    "price": "Rs. 350"
+                },
+                {
+                    "name": "Guntur Chicken",
+                    "summary": "Featues spicy Guntur chillies balanced with creamy coconut and tomatoes.",
+                    "price": "Rs. 305"
+                },
+                {
+                    "name": "Mutton Jeera Rice Biryani",
+                    "summary": "Bengaluru dhonne style biryani made with short-grained seeraga samba rice and tender mutton.",
+                    "price": "Rs. 295"
+                },
+                {
+                    "name": "Chicken Biryani",
+                    "summary": "Traditional Nellore-style biryani made with basmati rice, subtle pineapple acidity, and warming spices.",
+                    "price": "Rs. 260"
+                }
+            ],
+            "summary": "Bheema's is a renowned Bengaluru lunch spot famous for its spicy and authentic Andhra non-vegetarian feast. Their iconic Nellore-style Chicken Biryani and flavorful Mutton Pepper Fry stand out as must-try dishes."
         }
     ],
     "https://maps.app.goo.gl/2AR4518mGf72T7RDA": [
@@ -28784,7 +28826,34 @@
             "description": "#Dosas #BangaloreFoodTour #GourmetOnTheRoad \n\nIn this exciting Gourmet On The Road episode, Food Lovers\u2019 Editor, Kripal Amanna takes off on a trip across Namma Bengaluru exploring the city\u2019s most popular dosa destinations!\n\nThe second and final part to this dosa trail begins at Shri Sagar - CTR, an establishment with legions of loyal fans. Food Lovers\u2019 Editor, Kripal Amanna tastes a Benne Masala Dose and the Set Dosa here. He then relishes a unique dill flavoured dosa at a streetside dosa haunt in the bylanes of Basavanagudi. He then tastes a smashing Podi Dosa at Umesh Dosa Point, and a Bath Masala and Khaali Dosa at Chikkanna Tiffin Room located in the narrow bylanes of Cubbonpet.\n\nHe finally rounds off this dosa trail in the evening with the famous Pav Bhaji Dosa at Shree Balaji 99 Variety Dosa. \n\nGOURMET ON THE ROAD RATING\n\nCENTRAL TIFFIN ROOM \nBENNE MASALA DOSA \nLove the texture of this thick yet crisp dosa roasted with oodles of ghee. it takes skill to roast a dosa like this. the chutney is fresh while the ghatti chutney is nice and spicy.\nRs 52.\n10/10\n\nSET DOSA\nFluffy yet crisp set dosa. the saagu here is unlike any other loaded with a bunch of seasonal veggies. An absolute find here!\nRs 47.\n9/10\n\nGOLI BAJJI \nThe ultimate tea or coffee time snack! crisp and stretchy outside, soft and porous inside.\nRs 32.\n9/10\n7th Cross Rd, Malleshwaram, Bengaluru, Karnataka 560003\n080 2331 7531\nhttps://maps.app.goo.gl/hdJWku2LcF4TGLcBA\n\nHANCHINA MANE \nSABAKKI DOSA \nAn aromatic dosa, made with a batter infused with dill. very different in flavour. The freshness of the dill takes over the palate.\nRs 20.\n6/10\nNetkalappa Circle\nSubram Chetty Rd, Basavanagudi, Bengaluru, Karnataka 560004\nhttps://maps.app.goo.gl/2AR4518mGf72T7RDA\n\nAIRLINES HOTEL \nBUTTER MASALA DOSA \nCrisp buttery dosa, stuffed with loads of potato. dining here is more about the experience than it is about the actual dosa.\nRs 120.\n7/10\nNo 4, State Bank of India Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001\n080 2227 3783\nhttps://maps.app.goo.gl/qS8RE3mKTaqKQFwM7\n\nUMESH DOSA POINT\nPODI PLAIN DOSA \nSmeared with a homemade podi, made of gram flour, spices, and jaggery. love this dosa it\u2019s got the sweet, spice and the crunch! Perfect balance of flavours. Certainly a discovery for me.\nRs 65.\n9/10\n21, 1st Main Rd, 4th Block, Kumara Park West, Seshadripuram, Bengaluru, Karnataka 560020\n098454 15768\nhttps://maps.google.com/?cid=12853698143630628717\n\nCHIKKANNA TIFFIN ROOM\nKHAALI DOSA\nOrder this with the extra ghee. the dosa just by itself is absolutely dry. You need to mix the chutney, aloo gadde palya and the tuppa to enjoy this dosa melt in your mouth.\nRs 54.\n8/10\n\nBATH MASALA DOSA\nPlain dosa topped with ghee, pulao, chutney, palya and ghee. a loaded dosa! Personally a little too much for me. But if you're looking for something filling this is your dosa. \nRs 70.\n7/10\n#32, 30th Cross Rd, Kanchan Nagar, Cubbonpete, Nagarathpete, Bengaluru, Karnataka 560002\n098459 17991\nhttps://maps.app.goo.gl/NoVFKn28eRSzFfM38\n\nSHREE BALAJI 99 VARIETY DOSA\nPAV BHAJI DOSA\nThis dosa is where the story of the 99 variety dosa began. bite into this and you could well be biting into a pav bhaji. A chatpata, butter laden, spicy dosa for the adventurous. \nRs 60.\n7/10\n\nDIL KHUSH DOSA\nLoaded with cabbage, spring onions, paneer and schezwan chutney. you taste all the salty cheese and then you taste the schezwan chutney. a whole new concept on dosa, a tasty one but not for the purist. \nRs 120.\n5/10\nPolice Station Road, Koramangala 5th Block, Near Ganesh Temple and Opposite Bajaj Storeroom, Bangalore 560 034; tel 81470 48251\nhttps://goo.gl/maps/j6eNMDScDi2i3wub9\n\nGourmet On The Road Dosa Trail In Bangalore Part 1: https://youtu.be/GN1g70_pbUk\n\nSUPPORT FOOD LOVERS https://www.patreon.com/foodloverstv\n\nOur vision at Food Lovers is to be India\u2019s finest, foremost and most importantly, trusted content platform in the field of food, wine & spirits and dining. Advertising is clearly demarcated and kept distinct from editorial. We do our best not to blur the lines between the two.\n\nWe guard the independent voice of our editorial features fiercely. Because ultimately, our loyalty lies to our viewers, as guided by our credo: Truth in food, wine and dining.\nWe have chosen not to put up a paywall as we want our rich content to remain accessible to all. Independent food journalism \u2013 free for all, supported by those who can.\n\nYou can also make a one time, direct contribution to our bank account (details as below) \nOur bank details are as below:\nA/c name: Hospitality Initiatives India Pvt. Ltd.\nA/c No: 0056444807\nIFSC code: CITI0000004\nBank: Citibank N A\nBranch: M G Road, Bangalore, Karnataka, India\nPlease email the transfer details to info@foodlovers.in once you have made a contribution.",
             "transcription": "No transcript available",
             "lat": NaN,
-            "long": NaN
+            "long": NaN,
+            "rest_name": "Central Tiffin Room (Shri Sagar)",
+            "address": "7th Cross Rd, Malleshwaram, Bengaluru, Karnataka 560003",
+            "ph_no": "080 2331 7531",
+            "cuisine": [
+                "South Indian",
+                "Kannada"
+            ],
+            "price": "$",
+            "v_n_ng": "Veg",
+            "best_dishes": [
+                {
+                    "name": "Benne Masala Dosa",
+                    "summary": "Thick yet crisp dosa roasted with oodles of ghee, served with fresh chutney and spicy ghatti chutney.",
+                    "price": "Rs 52"
+                },
+                {
+                    "name": "Set Dosa",
+                    "summary": "Fluffy yet crisp set dosa served with a unique saagu loaded with seasonal vegetables.",
+                    "price": "Rs 47"
+                },
+                {
+                    "name": "Goli Bajji",
+                    "summary": "Crisp and stretchy on the outside, soft and porous on the inside; a quintessential tea-time snack.",
+                    "price": "Rs 32"
+                }
+            ],
+            "summary": "Central Tiffin Room (Shri Sagar) in Malleshwaram is a legendary South Indian vegetarian establishment with a loyal fan base, world-famous for its perfectly ghee-roasted Benne Masala Dosa and fluffy Set Dosa."
         }
     ],
     "https://goo.gl/maps/Mfcwwje694kJvdYeA": [
@@ -28794,7 +28863,40 @@
             "description": "#Eggs #StreetFoodInBangalore #GourmetOnTheRoad\n\nEgg Factor \u2013 Street House, a street kiosk whips ups gourmet-style omelettes that are a far cry from the regular masala or cheese versions.\n\nUsing ingredients such as chicken, prawn, grilled fish, goat brain and even fruits such as pineapples or strawberries, ex-cruise line chef, Kumar is dishing up fancy, exotic and unheard of toppings and fillings to go with the humble omelette, in a street shop setting.\n\nIn this Gourmet On The Road video, Food Lovers\u2019 Editor, Kripal Amanna discovers what inspired this well-travelled, ex-cruise line chef\u2019s vision, the incidents that led to the creation of offbeat toppings and fillings, the delectable omelettes you can try here and more!\n\nGOURMET ON THE ROAD RATING\n\nChicken and Cheese Omelette\nA loaded omelette! chicken is well marinated. The crunchy veggies complement the gooey savouriness of the cheese. Can definitely feel the chilli kick in the seasoning!\nRs 150.\n8/10\n\nPepper Prawn Omelette\nYou smell the inviting aromas of freshly ground spices and fresh herbs. This makes all the difference! the prawns are torched, cooked just right, can taste the sweetness. The use of desi eggs gives this omelette a wholesome touch!\nRs 200\n8/10\n\nGoat Brain Omelette\nLuscious, creamy, custardy! The heavy masalas balance the rich flavours of the brain. The lush buttery texture of the brain with the fluffy egg is a delightful mouthful.\nRs 200\n10/10\n\nPineapple And Cheese Omelette\nA sweet, hot and sour medley on the palate! The garlic and chilli in the pineapple is a surprising touch. a tart zingy acidity and a chilli heat in the back of your throat. A savoury fruit omelette. This is definitely a first for me!\nRs 130\n6/10\n\nADDRESS - Eggfactor, # 367, 80th feet road, 17th Main Road, HSR Layout, Sector 3, Opposite to Sri Muneshwara Swamy Temple, Bengaluru 560102; Tel: +91 82484 54360/ 99028 05592\n\nLOCATION TAG - https://goo.gl/maps/Mfcwwje694kJvdYeA\nPlease note this is the latest location of Egg Factor, disregard the other two 'Egg Factor' locations that pop up on google maps. \n\nFood Lovers is India\u2019s finest content and experience platform on food, wines & spirits and dining. Watch our thrilling videos capturing fine dining, culinary traditions, new experiences and trends in the world of food. \n\nMore Ways to Follow Us: \nFacebook: https://www.facebook.com/foodloversmag/\nInstagram: https://www.instagram.com/foodloversindia\nTwitter: https://twitter.co\n\nYou can also make a one time, direct contribution to our bank account (details as below) \nOur bank details are as below:\nA/c name: Hospitality Initiatives India Pvt. Ltd.\nA/c No: 0056444807\nIFSC code: CITI0000004\nBank: Citibank N A\nBranch: M G Road, Bangalore, Karnataka, India\n\nPlease email the transfer details to info@foodlovers.in once you have made a contribution.",
             "transcription": "hi folks and welcome to yet another edition of gourmet on the road and this time we are at HSR layout in Bangalore well what brings me your eggs more specifically omelettes so I've heard of this eatery call egg factor that's doing some interesting things with omelets and that's really what we're here to check out I'm told it factors things up the world of omelets let's go in and check out the interesting omelets that are on offer an ick factor let's go so again seeing a whole range of omelets here I can see a grilled chicken omelet pepper chronomaly chili garlic squid goat brain omelets and even a mutton pepper fry omelet and I also see a japanese-style Oh Moo rice omelet so if you're looking for omelette heaven I think we've certainly arrived at the right place so chef Kumar I'm told the egg factor is your brainchild yes so that's Kumar who's a chef and I can see all these eggs that you have here so do you use different eggs in your omelets yes these are naughty egg this is also a TX and this is a Giri Raja sir these are much bigger eggs with - yo Wow so what should I start with you start with energy first so I'm going to start with the chicken and cheese omelet and then work my way through to some of the other omelets [Music] and I can really see the effort that's gone into the prep here whether it's the Hogs whether it's the chili whether it's the meats that have been marinated and kept this is certainly an establishment that takes its eggs that takes its omelettes seriously I can smell the garlic I can smell the thyme can wait to taste this omelet onions it's got Tomatoes it's got mushrooms it's got some capsicum and it also has some baby corn so egg factor is not just about omelets but it's about gourmet omelets so 3x is a standard omelet here that's really what it's about so you're coming here for an omelet meal wow that's a loaded omelet thank you very much [Music] it smells delicious this certainly is a loaded on there you can see the chicken you can see the baby corn the peppers the onions and the cheese this is going to be a delicious omelet here goes the first bite of the chicken and cheese omelet mmm I love the savoriness of the cheese that's the first thing that I'm getting on my bite I'm also getting the chicken and the nice thing is that the chicken is marinated well so the chicken has flavor it's not some bland chicken dice that you will typically find let's see ona feeds or something like that this chicken has been marinated well and I can really feel the flavors come alive look this is beautiful the vegetables give it that crunch and you definitely have that chili kick which sings up all the flavors in your mouth so next we're gonna taste of pepper predominate with country [Music] I think this probably has to be the most organized street food III that I've ever seen so what are the spices that would have typically gone into this once again salt pepper okay so you grind your own spices aromatic the fresh herbs of freshly ground spices you know that's the heart of a great meal so the prawns are getting tossed right there this is taking omelets to a whole new level lovely you look at the omelets here and you know that each omelet is a labor of love it's not an omelet that's just tossed together in a pan and dished out a lot of thought has gone into each omelet a lot of care and attention I think that's what makes the omelets here truly truly special the spiced torched Odyssey you can taste that sweetness in the prawn the prawns are absolutely fresh never a crunchy bite and they're cooked just perfectly when I saw the prawns being caught truth be told I was wondering whether the prawns will get overdone but no these prawns are just perfectly cooked perfectly seasoned you taste the spices and yet you taste the prawn you taste the sweetness of the prawn delicious I've got a nice piece of prawn inside my omelette I've got some vegetables you can see some broccoli you can see some peppers and some mushroom this certainly are denominates [Music] there was ever such a term as desi gourmet omelettes I think this would be and then these omelettes are full-on when it comes to flavor when it comes to ingredients when it comes to the stuffing these are omelettes that are designed to fill you up and fill you up happily [Music] good brain omelette that I'm gonna ask Kumar to do up next so there's a favor of chili or to balance the yes goat brain has a rich almost gamey flavor so there's a lot of spice there's a lot of ingredients that's going in to create a masala that's as robust so as to balance out the meaty gamey flavors of the goat brain this is going to be one decadent omelet [Music] Kumar spends about 10 minutes 15 minutes on each omelette these are omelettes taken to a whole new level and cooked with a lot of love and care this guy's not a cook is an omelet artistic as I was watching the goat brain cook with the onions with the tomato and all the spices I was watching the fat of the word brain bubble away this is gonna be a lusciously tasty omelet then I'm gonna taste the goat brain first just by itself all that creamy gooey custody board brain it is hot but it's so good you know the good brain its luscious texture it almost it melts in my mouth and you taste that slide booty gimme sort of a flavor but you can taste it slush buttery texture let's taste it now with the egg this is gonna be one mouthful and was something which is as robustly flavored as creamy as Jamie as buttery and as neatly as goat brain I think he's got the right amount of spicing that balances out the flavors of the good girl I think that's what's interesting in all the omelettes that I've tasted you're an attractor I'm told that Kumar does some flute based omelets as well so I'm gonna request him to do one of his flute omelets and that's a pineapple omelet I haven't tasted it I don't know if you have but let's find out what a pineapple omelet is all about so we have overripe pineapples the sweetness develops further so when you put them on a pan you have the sugars from the pineapple that concentrate that caramelize that comes together in that sweet caramel sort of flavor [Music] so he's torching the omelette to make sure that the cheese melts beautifully into the omelette there you have it my smoked pineapple and cheese omelet and what I really saw right at the beginning was the pineapple was tossed with some garlic and some chili so I'm gonna first taste the flavor of the pineapple just by itself so it has that tart zing he acidity and you have that chili hit at the back of your throat it makes for a nice sort of jiggle Bundy that's happening on your palate you got all these flavors that are coming together you've got the time here of course and also the rosemary [Music] the fact that he torches the pineapples that he torches the omelet after cooking the pineapples in them really ensures that your omelet is hot so although you are in a sweet food sort of an environment you're still enjoying hot tasty food and even a creaminess of the cheese brings the pineapple he brings all the spices together and rounds off all the flavors you know it should be told when I came here I didn't know what to expect but after having tasted four omelets I tasted a chicken and cheese I tasted a prawn I tasted a goat brain and of course now the pineapple omelet I think it factor takes eggs takes omelets to a whole new level it factor takes a humble ingredient like egg which typically people associate only with breakfast and takes it to a whole new level I'd love to know what you thought of the omelets you're a tech factor so do leave a comment below and stay tuned to food lovers TV until the next episode of gourmet on the road happy eating [Music]",
             "lat": NaN,
-            "long": NaN
+            "long": NaN,
+            "rest_name": "Egg Factor",
+            "address": "# 367, 80th feet road, 17th Main Road, HSR Layout, Sector 3, Opposite to Sri Muneshwara Swamy Temple, Bengaluru 560102",
+            "ph_no": "+91 82484 54360/ 99028 05592",
+            "cuisine": [
+                "Street Food",
+                "Fusion",
+                "Indian"
+            ],
+            "price": "$",
+            "v_n_ng": "Non-veg",
+            "best_dishes": [
+                {
+                    "name": "Chicken and Cheese Omelette",
+                    "summary": "Loaded omelette made with marinated chicken, crunchy fresh veggies, gooey cheese, and a punch of chili seasoning.",
+                    "price": "Rs 150"
+                },
+                {
+                    "name": "Pepper Prawn Omelette",
+                    "summary": "Made using desi eggs, freshly ground spices, herbs, and torched sweet fresh prawns cooked to perfection.",
+                    "price": "Rs 200"
+                },
+                {
+                    "name": "Goat Brain Omelette",
+                    "summary": "Luscious, creamy, custardy goat brain cooked with rich heavy masalas paired with a fluffy egg base.",
+                    "price": "Rs 200"
+                },
+                {
+                    "name": "Pineapple And Cheese Omelette",
+                    "summary": "Unusual savory fruit omelette featuring caramelized pineapple tossed with garlic and chili, torched with melted cheese.",
+                    "price": "Rs 130"
+                }
+            ],
+            "summary": "Egg Factor is a unique street kiosk in Bengaluru's HSR Layout run by ex-cruise line chef Kumar, who elevates humble eggs into gourmet street-style omelettes. The menu offers creative fusion options featuring marinated meats, seafood, goat brain, and caramelized fruits cooked with fresh herbs and hand-ground spices."
         }
     ],
     "https://maps.app.goo.gl/6o9TV3oVJBrAym5z9": [
@@ -28804,7 +28906,40 @@
             "description": "#RamadanFoodTrail #FrazerTown #GourmetOnTheRoad\n\nIn the second episode of the Gourmet On The Road Food Trail at Mosque Road, Food Lovers\u2019 Editor, Kripal Amanna and Mr Aslam Gafoor indulge in some juicy kebabs, some staple Ramadan time beverages and finish on a sweet note, with some royal desserts like the shahi tukda and more!\n\nTake this journey with them as they visit famous eateries like Charminar Kebab Paradise and Savera Tea Cafe.\n\nGOURMET ON THE ROAD RATING\nRoyal Shadi biryani\nPATTHAR GOSH \nThese chunks of meat cooked on a polished stone have a meaty bite. Rs100. 7/10\n\nSEEKH KEBAB\nexpected the kebab to be much more juicier, the meat is tasty and smokey nevertheless. \nRs100. 6/10\n\nCharminar Kebab Paradise\nBAIDA ROTI\nGreasy and delicious! the roti fried crisp, stuffed with a mixture of eggs, kheema, onions is  just what a egg and meat lover needs! Rs100. 8/10\n\nMUTTON CHOPS\nmeaty melt-in-your-mouth, slightly tangy marinade A happy find on this trail!  Rs 300. 10/10\n\nCHICKEN CHOPS \nChicken breast marinated with a very distinct masala and grilled perfectly to keep the moisture intact. \nRs 200. 8/10\n\nSHAHI TUKDA\nfried bread soaked in condensed milk and topped with a nuts, everything a dessert lover needs! Rs 60. 9/10\n\nMATKA PHIRNI\n A rice pudding made of rice and milk, infused with the right amount of sweetness and cooled in a matka. Rs 50 7/10\n\nSavera Tea Cafe\nHARIRA\nMilk cooked with spices, dry fruits and nuts makes this a very comforting and nutritious drink. Rs 15.  9/10\n\nSULAIMANI CHAI \njust what one needs to end a food trail here. the lemony-minty sweet tea refreshes and energizes!\nRs10. 10/10\n\nFood Lovers is India\u2019s finest content and experience platform on food, wines & spirits and dining. Watch our thrilling videos capturing fine dining, culinary traditions, new experiences and trends in the world of food. \n\nADDRESS & LOCATION TAG -Royal Shadi biryani, No.68, MM Road, Frazer Town, Bangalore - 560005, Opposite To Mosque; tel +91 88675 48606\n https://maps.app.goo.gl/6o9TV3oVJBrAym5z9\n\n-Charminar Kebab Paradise, Pulikeshi Nagar, Bengaluru 560 005; TEL \n+91 97406 00860\nhttps://maps.app.goo.gl/Qpb4QRnUeYVBwDnn9\n\n-Savera Tea Cafe, 144, MM Road, Pulikeshi Nagar, Bengaluru 560 005; tel +91 98454 50553\n https://maps.app.goo.gl/NCSNEPUTF38z9euG9\n\nMore Ways to Follow Us: \nFacebook: https://www.facebook.com/foodloversmag/\nInstagram: https://www.instagram.com/foodloversindia\nTwitter: https://twitter.co\n\nYou can also make a one time, direct contribution to our bank account (details as below) \nOur bank details are as below:\nA/c name: Hospitality Initiatives India Pvt. Ltd.\nA/c No: 0056444807\nIFSC code: CITI0000004\nBank: Citibank N A\nBranch: M G Road, Bangalore, Karnataka, India\n\nPlease email the transfer details to info@foodlovers.in once you have made a contribution.",
             "transcription": "Error: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=TkfgHPhs4AI! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
             "lat": NaN,
-            "long": NaN
+            "long": NaN,
+            "rest_name": "Charminar Kebab Paradise",
+            "address": "Pulikeshi Nagar, Bengaluru 560 005",
+            "ph_no": "+91 97406 00860",
+            "cuisine": [
+                "Mughlai",
+                "North Indian",
+                "Street Food"
+            ],
+            "price": "$",
+            "v_n_ng": "Non-veg",
+            "best_dishes": [
+                {
+                    "name": "Mutton Chops",
+                    "summary": "Meaty melt-in-your-mouth, slightly tangy marinade cooked to perfection.",
+                    "price": "Rs 300"
+                },
+                {
+                    "name": "Shahi Tukda",
+                    "summary": "Fried bread soaked in condensed milk and topped with nuts.",
+                    "price": "Rs 60"
+                },
+                {
+                    "name": "Baida Roti",
+                    "summary": "Greasy and delicious roti fried crisp, stuffed with a mixture of eggs, kheema, and onions.",
+                    "price": "Rs 100"
+                },
+                {
+                    "name": "Chicken Chops",
+                    "summary": "Chicken breast marinated with a distinct masala and grilled perfectly to keep moisture intact.",
+                    "price": "Rs 200"
+                }
+            ],
+            "summary": "Charminar Kebab Paradise is a popular eatery on the Mosque Road Ramadan food trail in Frazer Town, Bangalore. Known for its rich meat dishes, succulent grilled chicken and mutton chops, crispy baida roti, and traditional sweet treats like shahi tukda."
         }
     ],
     "https://maps.app.goo.gl/GF1UawDxiLD58dfi9": [
@@ -28814,7 +28949,52 @@
             "description": "#RamadanFoodTrail #FrazerTown #GourmetOnTheRoad\n\nFrazer town located in the heart of Bangalore is nothing less than a food lovers heaven! \n\nWith streets like Mosque Road and MM Road lined with restaurants and eateries dishing out some of the most delicious non vegetarian fare, this spot in the city is a must-visit.\n\nIn this episode of Gourmet On The Road, Food Lovers\u2019 Editor, Kripal Amanna takes off on this busy street, during the month of Ramadan together with a friend to taste and review much loved dishes such as the Haleem, Kheema Samosa, a delectable Nalli Nihari and more! \n\nGourmet On The Road Ratings\nMUTTON KHEEMA MINI SAMOSA \na speciality at Albert, he thin skin is fried to a crisp with a moist kheema filling. Delicious! Rs 480 a kilo. 10 /10\n\nBRAIN PUFF\npiping hot, flaky puff stuffed with a custardy mutton brain that dissolves in your mouth!  Rs 35 per puff. \n9/10\n\nKHEEMA NAAN\nprominent taste of onions and a meaty savouriness makes the kheema naan a tasty, filling indulgence! Rs120 6/10\n\nKHOVA NAAN \nthe filling of the khova or reduced milk solids shine in this dessert puff that isn\u2019t overly sweet. Rs100 7/10\n\nHYDERABADI MUTTON HALEEM \nA wholesome dish, this haleem is velvety, gooey and is crowned with fried onions, mint and lemon juice. The twang of the lemon and texture from the onion helps cut through the richness. Rs 250 8/10\n\nQUBANI KI MEETHA\nThis Hyderabadi speciality is a rich and pulpy apricot dessert laced with a  hint of saffron. The sugary goodness makes the perfect accompaniment to the haleem. Rs 190. 7/10\n\nPAYA WITH NAAN\nThis gelatinous, warm and nourishing stew made with lamb trotters is to be enjoyed steaming hot with some naan! Rs150. 8/10\n\nNALLI NIHARI\nThe slow cooked, rich nihari is superbly flavourful. You can tell that the gravy has been cooked for hours to intensify the deliciousness! Rs 350. 10/10\n\nKARACHI NAAN \nThe Karachi naan is a light yet dry making it the right accompaniment to soak up all the gravy and its unctuous goodness. Rs 45 for 2. 9/10\n\nFood Lovers is India\u2019s finest content and experience platform on food, wines & spirits and dining. Watch our thrilling videos capturing fine dining, culinary traditions, new experiences and trends in the world of food. \nADDRESS & LOCATION TAG  - Albert Bakery, 93, Mosque Road, Cleveland Town, Pulikeshi Nagar, Bengaluru 560 005; tel +91 98861 65349 \nhttps://maps.app.goo.gl/44crqhUcfLi9AZnU8\n\nPista House, 96, Mosque Road, Cleveland Town, Pulikeshi Nagar, Bengaluru 560 005; tel +9198455 71301\nhttps://maps.app.goo.gl/GF1UawDxiLD58dfi9\n\nKarama Restaurant, 55, Mosque Road, Opposite to Empire Restaurant, Pulikeshi Nagar, Bengaluru 560 005; tel +91 80 4094 7898\nhttps://maps.app.goo.gl/TPk5kCu2VQJGRu1T9\n\nMore Ways to Follow Us: \nFacebook: https://www.facebook.com/foodloversmag/\nInstagram: https://www.instagram.com/foodloversindia\nTwitter: https://twitter.co\n\nYou can also make a one time, direct contribution to our bank account (details as below) \nOur bank details are as below:\nA/c name: Hospitality Initiatives India Pvt. Ltd.\nA/c No: 0056444807\nIFSC code: CITI0000004\nBank: Citibank N A\nBranch: M G Road, Bangalore, Karnataka, India\n\nPlease email the transfer details to info@foodlovers.in once you have made a contribution.",
             "transcription": "Error: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=41KIKGW5D4I! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
             "lat": NaN,
-            "long": NaN
+            "long": NaN,
+            "rest_name": "Mosque Road Food Trail (Albert Bakery, Pista House & Karama Restaurant)",
+            "address": "Mosque Road, Cleveland Town, Pulikeshi Nagar, Frazer Town, Bengaluru, Karnataka 560005",
+            "ph_no": "+91 98861 65349",
+            "cuisine": [
+                "Mughlai",
+                "Hyderabadi",
+                "Bakery",
+                "North Indian",
+                "Bangalorean"
+            ],
+            "price": "$$",
+            "v_n_ng": "Non-veg",
+            "best_dishes": [
+                {
+                    "name": "Mutton Kheema Mini Samosa",
+                    "summary": "Crispy thin-skinned samosa packed with a delicious, moist mutton kheema filling.",
+                    "price": "Rs 480 per kg"
+                },
+                {
+                    "name": "Brain Puff",
+                    "summary": "Piping hot and flaky puff pastry stuffed with melt-in-the-mouth custardy mutton brain.",
+                    "price": "Rs 35"
+                },
+                {
+                    "name": "Hyderabadi Mutton Haleem",
+                    "summary": "A rich, velvety, and gooey meat dish crowned with fried onions, fresh mint, and lemon juice.",
+                    "price": "Rs 250"
+                },
+                {
+                    "name": "Nalli Nihari",
+                    "summary": "A slow-cooked, deeply flavorful and rich mutton stew with tender meat.",
+                    "price": "Rs 350"
+                },
+                {
+                    "name": "Paya With Naan",
+                    "summary": "Warm, gelatinous, and nourishing lamb trotter stew served steaming hot alongside naan.",
+                    "price": "Rs 150"
+                },
+                {
+                    "name": "Karachi Naan",
+                    "summary": "Light and dry naan perfect for soaking up rich gravies.",
+                    "price": "Rs 45 for 2"
+                }
+            ],
+            "summary": "A festive Ramadan food trail through Frazer Town's famous Mosque Road in Bangalore, reviewing iconic delicacies across Albert Bakery, Pista House, and Karama Restaurant, ranging from crisp mutton kheema samosas and brain puffs to Hyderabadi mutton haleem and slow-cooked nalli nihari."
         }
     ],
     "https://maps.app.goo.gl/TPk5kCu2VQJGRu1T9": [
@@ -28824,7 +29004,46 @@
             "description": "#RamadanFoodTrail #FrazerTown #GourmetOnTheRoad\n\nFrazer town located in the heart of Bangalore is nothing less than a food lovers heaven! \n\nWith streets like Mosque Road and MM Road lined with restaurants and eateries dishing out some of the most delicious non vegetarian fare, this spot in the city is a must-visit.\n\nIn this episode of Gourmet On The Road, Food Lovers\u2019 Editor, Kripal Amanna takes off on this busy street, during the month of Ramadan together with a friend to taste and review much loved dishes such as the Haleem, Kheema Samosa, a delectable Nalli Nihari and more! \n\nGourmet On The Road Ratings\nMUTTON KHEEMA MINI SAMOSA \na speciality at Albert, he thin skin is fried to a crisp with a moist kheema filling. Delicious! Rs 480 a kilo. 10 /10\n\nBRAIN PUFF\npiping hot, flaky puff stuffed with a custardy mutton brain that dissolves in your mouth!  Rs 35 per puff. \n9/10\n\nKHEEMA NAAN\nprominent taste of onions and a meaty savouriness makes the kheema naan a tasty, filling indulgence! Rs120 6/10\n\nKHOVA NAAN \nthe filling of the khova or reduced milk solids shine in this dessert puff that isn\u2019t overly sweet. Rs100 7/10\n\nHYDERABADI MUTTON HALEEM \nA wholesome dish, this haleem is velvety, gooey and is crowned with fried onions, mint and lemon juice. The twang of the lemon and texture from the onion helps cut through the richness. Rs 250 8/10\n\nQUBANI KI MEETHA\nThis Hyderabadi speciality is a rich and pulpy apricot dessert laced with a  hint of saffron. The sugary goodness makes the perfect accompaniment to the haleem. Rs 190. 7/10\n\nPAYA WITH NAAN\nThis gelatinous, warm and nourishing stew made with lamb trotters is to be enjoyed steaming hot with some naan! Rs150. 8/10\n\nNALLI NIHARI\nThe slow cooked, rich nihari is superbly flavourful. You can tell that the gravy has been cooked for hours to intensify the deliciousness! Rs 350. 10/10\n\nKARACHI NAAN \nThe Karachi naan is a light yet dry making it the right accompaniment to soak up all the gravy and its unctuous goodness. Rs 45 for 2. 9/10\n\nFood Lovers is India\u2019s finest content and experience platform on food, wines & spirits and dining. Watch our thrilling videos capturing fine dining, culinary traditions, new experiences and trends in the world of food. \nADDRESS & LOCATION TAG  - Albert Bakery, 93, Mosque Road, Cleveland Town, Pulikeshi Nagar, Bengaluru 560 005; tel +91 98861 65349 \nhttps://maps.app.goo.gl/44crqhUcfLi9AZnU8\n\nPista House, 96, Mosque Road, Cleveland Town, Pulikeshi Nagar, Bengaluru 560 005; tel +9198455 71301\nhttps://maps.app.goo.gl/GF1UawDxiLD58dfi9\n\nKarama Restaurant, 55, Mosque Road, Opposite to Empire Restaurant, Pulikeshi Nagar, Bengaluru 560 005; tel +91 80 4094 7898\nhttps://maps.app.goo.gl/TPk5kCu2VQJGRu1T9\n\nMore Ways to Follow Us: \nFacebook: https://www.facebook.com/foodloversmag/\nInstagram: https://www.instagram.com/foodloversindia\nTwitter: https://twitter.co\n\nYou can also make a one time, direct contribution to our bank account (details as below) \nOur bank details are as below:\nA/c name: Hospitality Initiatives India Pvt. Ltd.\nA/c No: 0056444807\nIFSC code: CITI0000004\nBank: Citibank N A\nBranch: M G Road, Bangalore, Karnataka, India\n\nPlease email the transfer details to info@foodlovers.in once you have made a contribution.",
             "transcription": "Error: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=41KIKGW5D4I! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
             "lat": NaN,
-            "long": NaN
+            "long": NaN,
+            "rest_name": "Albert Bakery, Pista House & Karama Restaurant (Mosque Road Food Trail)",
+            "address": "93, Mosque Road, Cleveland Town, Pulikeshi Nagar, Bengaluru, Karnataka 560005",
+            "ph_no": "+91 98861 65349",
+            "cuisine": [
+                "Bakery",
+                "Mughlai",
+                "Hyderabadi",
+                "Indian"
+            ],
+            "price": "$",
+            "v_n_ng": "Non-veg",
+            "best_dishes": [
+                {
+                    "name": "Mutton Kheema Mini Samosa",
+                    "summary": "A specialty with thin, crisp skin fried to perfection with a moist, delicious kheema filling.",
+                    "price": "Rs 480 per kg"
+                },
+                {
+                    "name": "Brain Puff",
+                    "summary": "Piping hot, flaky puff stuffed with a custardy mutton brain filling that melts in your mouth.",
+                    "price": "Rs 35"
+                },
+                {
+                    "name": "Hyderabadi Mutton Haleem",
+                    "summary": "Velvety, gooey, wholesome haleem topped with fried onions, mint, and a twang of fresh lemon juice.",
+                    "price": "Rs 250"
+                },
+                {
+                    "name": "Nalli Nihari",
+                    "summary": "Slow-cooked, rich, and superbly flavorful mutton nihari gravy cooked for hours to intensify the taste.",
+                    "price": "Rs 350"
+                },
+                {
+                    "name": "Paya with Naan",
+                    "summary": "Gelatinous, warm, nourishing stew made with lamb trotters, best paired piping hot with naan.",
+                    "price": "Rs 150"
+                }
+            ],
+            "summary": "A culinary exploration of Bangalore's famous Mosque Road in Frazer Town during Ramadan, reviewing iconic dishes from Albert Bakery (Mutton Kheema Samosas and Brain Puffs), Pista House (Hyderabadi Mutton Haleem), and Karama Restaurant (Nalli Nihari and Paya with Karachi Naan)."
         }
     ],
     "https://maps.app.goo.gl/r23WnvqBMhXfYvnt8": [
