@@ -26413,19 +26413,44 @@
       "summary": "This video explores the vibrant street food scene at Shivajinagar, Bengaluru, known for its non-vegetarian delicacies. The highlight of this place is its variety of offerings, from paya soup and boti to seekh kebabs and biryani, all available till 2 am."
     }
   ],
-  "Mangaluru\u2019s Coastal Breakfast Steal! 5 Tasty Non-Veg Dishes for \u20b9875!": [
+  "Khaana": [
     {
       "title": "Mangaluru\u2019s Coastal Breakfast Steal! 5 Tasty Non-Veg Dishes for \u20b9875!",
       "link": "https://www.youtube.com/watch?v=8PGLsrooWaE",
       "lat": 12.8805773,
       "long": 74.8514684,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "3-30-2379, Kadri Temple Rd, Mallikatte, Kadri, Mangaluru, Karnataka 575003",
+      "ph_no": "+91 90350 70742",
+      "cuisine": [
+        "Mangalorean",
+        "Coastal Karnataka",
+        "South Indian"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Mutton Masala",
+          "summary": "Rich and highly rated tender mutton dish infused with traditional coastal spices.",
+          "price": "Rs. 180"
+        },
+        {
+          "name": "Chicken Pulimunchi",
+          "summary": "Tangy and spicy Mangalorean coastal chicken specialty dish.",
+          "price": "Rs. 140"
+        },
+        {
+          "name": "Mutton Kheema Dosae",
+          "summary": "Crispy dosa stuffed with flavorful minced mutton kheema.",
+          "price": "Rs. 160"
+        },
+        {
+          "name": "Yetti Pundi",
+          "summary": "Traditional steamed rice dumplings served with a flavorful prawn masala.",
+          "price": "Rs. 120"
+        }
+      ],
+      "summary": "Khaana is a charming garden cafe in Kadri, Mangaluru, known for its affordable and authentic non-vegetarian coastal breakfast menu featuring items like Mutton Masala, Chicken Pulimunchi, and Yetti Pundi."
     }
   ],
   "Sri Vasantha Benne Dosae: A Davanagere Cook\u2019s Tribute To His Guru": [
@@ -26638,20 +26663,40 @@
       "summary": ""
     }
   ],
-  "Found Delicious Wood-Fired Momo, Thukpa & Chowmein At This Quiet Tibetan Village Near Nagarhole!": [
+  "Thupten & Dhasa Karma": [
     {
       "title": "Found Delicious Wood-Fired Momo, Thukpa & Chowmein At This Quiet Tibetan Village Near Nagarhole!",
       "link": "https://www.youtube.com/watch?v=W-H-mXGbYH4",
       "lat": 12.2111289,
       "long": 76.2584016,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Rabgaeling Tibetan Settlement, Kurubarahosahalli, Karnataka 571105",
+      "ph_no": "",
+      "cuisine": [
+        "Tibetan"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
+      "best_dishes": [
+        {
+          "name": "Buff Momos",
+          "summary": "Fresh meat momos prepared entirely to order and steamed over a traditional wood fire until rich juices soak into delicate casing.",
+          "price": "Rs. 100"
+        },
+        {
+          "name": "Chicken Chowmein",
+          "summary": "Stir-fried Tibetan-style chicken noodles served at Dhasa Karma caf\u00e9.",
+          "price": ""
+        },
+        {
+          "name": "Chicken Thukpa",
+          "summary": "A comforting, soul-warming bowl of Tibetan noodle soup served with chicken.",
+          "price": ""
+        }
+      ],
+      "summary": "Located in the quiet Rabgaeling Tibetan Settlement near Nagarhole forest, these humble spots offer authentic Tibetan comfort food. Thupten is a home kitchen serving sensational wood-fired buff momos made to order, while Dhasa Karma offers soul-warming thukpa and delicious stir-fried chowmein."
+    }
+  ],
+  "Found Delicious Wood-Fired Momo, Thukpa & Chowmein At This Quiet Tibetan Village Near Nagarhole!": [
     {
       "title": "Found Delicious Wood-Fired Momo, Thukpa & Chowmein At This Quiet Tibetan Village Near Nagarhole!",
       "link": "https://www.youtube.com/watch?v=W-H-mXGbYH4",
