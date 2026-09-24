@@ -7907,6 +7907,62 @@
         }
       ],
       "summary": "Malgudi Mylari Mane, a highway eatery located 40 kilometers from Bengaluru, is the brainchild of passionate young entrepreneurs. They aim to offer a unique dining experience by combining the iconic Mysore dosa style with local curries and palavs. Their signature Mylari Dosa, though not as delicate as the original from Mysuru Vinayaka Mylari, is still a delicious treat.  What sets this eatery apart is its dedication to serving traditional flavors with a twist, making it a refreshing change for travelers on the Bangalore-Mangalore highway"
+    },
+    {
+      "title": "The \u20b9400 Nati Mutton Feast at Malgudi Mylari Mane! #Shorts",
+      "link": "https://www.youtube.com/watch?v=ZgXRzYrNHcs",
+      "lat": 12.9374558,
+      "long": 77.6150478,
+      "address": "Ground Floor, SRS Tower, 21, near Mangala Kalyana Mantapa, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560030",
+      "ph_no": "+91 80 416 36730",
+      "cuisine": [
+        "Nati Style",
+        "Kannada",
+        "South Indian"
+      ],
+      "price": "$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [
+        {
+          "name": "Mutton Thali",
+          "summary": "A sumptuous Nati-style meat feast featuring Kaal Soup, Mylari Dosae, Mutton Curry, Mutton Fry, and Mutton Palav.",
+          "price": "\u20b9400"
+        },
+        {
+          "name": "Mutton Palav",
+          "summary": "Described as the real ace in the deck of the mutton feast.",
+          "price": ""
+        },
+        {
+          "name": "Mylari Dosae",
+          "summary": "Soft signature Mylari style dosa served as part of the thali.",
+          "price": ""
+        }
+      ],
+      "summary": "Malgudi Mylari Mane in Koramangala, Bengaluru serves an authentic Nati-style Mutton Feast priced at \u20b9400. The thali includes a rich assortment of dishes such as Kaal Soup, Mylari Dosae, Mutton Curry, Mutton Fry, and standout Mutton Palav."
+    },
+    {
+      "title": "Mylari Dosae Meets Mutton Thali? A \u20b9400 Nati Feast! Malgudi Mylari Mane | The Review",
+      "link": "https://www.youtube.com/watch?v=rM8UG2DUZyw",
+      "lat": 12.9374558,
+      "long": 77.6150478,
+      "address": "Ground Floor, SRS Tower, 21, near Mangala Kalyana Mantapa, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560030",
+      "ph_no": "+91 80 416 36730",
+      "cuisine": [
+        "Karnataka",
+        "Nati",
+        "South Indian"
+      ],
+      "price": "$$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [
+        {
+          "name": "Mutton Thali",
+          "summary": "A sumptuous weekday lunch spread featuring nati-style mutton palav, mutton curry, mutton fry, and Mysuru-style Mylari dosae served with sagoo and chutney.",
+          "price": "\u20b9400"
+        }
+      ],
+      "summary": "Malgudi Mylari Mane in Koramangala serves robust Nati-style flavours along with Mysore-inspired Mylari Dosae. The standout offering is their \u20b9400 Mutton Thali, available exclusively for weekday lunch, highlighted by an exceptional mutton palav, rich mutton curry, and succulent mutton fry."
     }
   ],
   "MALGUDI MYLARI MANE": [
@@ -26767,64 +26823,91 @@
       "summary": ""
     }
   ],
-  "The \u20b9400 Nati Mutton Feast at Malgudi Mylari Mane! #Shorts": [
-    {
-      "title": "The \u20b9400 Nati Mutton Feast at Malgudi Mylari Mane! #Shorts",
-      "link": "https://www.youtube.com/watch?v=ZgXRzYrNHcs",
-      "lat": 12.9374558,
-      "long": 77.6150478,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    }
-  ],
-  "Mylari Dosae Meets Mutton Thali? A \u20b9400 Nati Feast! Malgudi Mylari Mane | The Review": [
-    {
-      "title": "Mylari Dosae Meets Mutton Thali? A \u20b9400 Nati Feast! Malgudi Mylari Mane | The Review",
-      "link": "https://www.youtube.com/watch?v=rM8UG2DUZyw",
-      "lat": 12.9374558,
-      "long": 77.6150478,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    }
-  ],
-  "\ud83d\udccd Koramangala\u2019s Newest Seafood Contender: The \u20b9230 Fish Thali! \ud83d\udc1f": [
+  "Salt and Shores": [
     {
       "title": "\ud83d\udccd Koramangala\u2019s Newest Seafood Contender: The \u20b9230 Fish Thali! \ud83d\udc1f",
       "link": "https://www.youtube.com/watch?v=eQbrIJ3nF0k",
       "lat": 12.9334079,
       "long": 77.620563,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "1st floor, A Block, 62, 100 Feet Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560 095",
+      "ph_no": "+91 80 416 36730",
+      "cuisine": [
+        "Mangalorean",
+        "Seafood",
+        "Coastal Indian"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Mangalorean Fish Thali",
+          "summary": "A loaded, value-for-money coastal fish thali featuring punchy Bunt-style spices.",
+          "price": "\u20b9230"
+        },
+        {
+          "name": "Silver Fish Rava Fry",
+          "summary": "Crunchy silver fish rava fry.",
+          "price": ""
+        },
+        {
+          "name": "Kane Tava Fry",
+          "summary": "Flaky kane fish tava fried with coastal spices.",
+          "price": ""
+        },
+        {
+          "name": "Prawn Ghee Roast",
+          "summary": "Rich prawn ghee roast prepared with authentic Bunt spices.",
+          "price": ""
+        },
+        {
+          "name": "Tandoori Pomfret",
+          "summary": "Smoky tandoori cooked pomfret.",
+          "price": ""
+        }
+      ],
+      "summary": "Salt and Shores in Koramangala, Bengaluru offers loaded and authentic Mangalorean seafood thalis and rich Bunt-style dishes like Prawn Ghee Roast and Kane Tava Fry at budget-friendly prices."
     }
   ],
-  "Koramangala\u2019s Best Value Fish Thali! \ud83d\udc1f Only Rs. 230! Salt And Shores Review \ud83d\ude0b": [
+  "Salt And Shores": [
     {
       "title": "Koramangala\u2019s Best Value Fish Thali! \ud83d\udc1f Only Rs. 230! Salt And Shores Review \ud83d\ude0b",
       "link": "https://www.youtube.com/watch?v=QXKY7B72cKY",
       "lat": 12.9334079,
       "long": 77.620563,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "1st floor, A Block, 62, 100 Feet Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560 095",
+      "ph_no": "+91 80 416 36730",
+      "cuisine": [
+        "Mangalorean",
+        "Seafood",
+        "Kundapur",
+        "Bunt",
+        "Karnataka"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Seafood Thali",
+          "summary": "A high-value complete feast containing rice, fluffy neer dosae, fish fry (bolanjir rava fry), fish curry, veggies, rasam, chutneys, pickles, and crispy sandige.",
+          "price": "Rs. 230"
+        },
+        {
+          "name": "Prawn Ghee Roast",
+          "summary": "Classic Bunt-style prawn dish prepared with signature punchy spices.",
+          "price": "Rs. 399"
+        },
+        {
+          "name": "Kane Tava Fry",
+          "summary": "Authentic Bunt-style ladyfish tava fry with rich spices.",
+          "price": "Rs. 300"
+        },
+        {
+          "name": "Pomfret Tandoori",
+          "summary": "Tandoori pomfret spiced and grilled coastal style.",
+          "price": "Rs. 700"
+        }
+      ],
+      "summary": "Salt And Shores in Koramangala offers authentic and flavorful Mangalorean, Kundapur, and Bunt-style coastal seafood. Their standout offering is a complete Seafood Thali for just Rs. 230, alongside delicious a la carte dishes like Prawn Ghee Roast and Kane Tava Fry."
     }
   ],
   "Discovering Mai Prathum Thai Caf\u00e9: A Charming Hidden Gem! \ud83c\uddf9\ud83c\udded\ud83c\udf36\ufe0f\ud83c\udf5d": [
@@ -27031,19 +27114,39 @@
       "summary": ""
     }
   ],
-  "\ud83c\udf6c This Chikki Factory is a Must-Visit! Taste Testing the Incredible Flavour Range of Hanbal Chikki": [
+  "Hanbal Chikki Factory": [
     {
       "title": "\ud83c\udf6c This Chikki Factory is a Must-Visit! Taste Testing the Incredible Flavour Range of Hanbal Chikki",
       "link": "https://www.youtube.com/watch?v=Jm038N-Z4_s",
       "lat": 12.9607798,
       "long": 75.8389642,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "Bengaluru - Mangaluru Hwy, Gulagalale, Sakleshpur, Karnataka 573214",
+      "ph_no": "+91 93416 40187",
+      "cuisine": [
+        "Indian Sweets",
+        "Karnataka",
+        "Desserts"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Groundnut Chikki",
+          "summary": "Classic traditional peanut chikki.",
+          "price": ""
+        },
+        {
+          "name": "Fruit Flavour Chikki",
+          "summary": "Unique fruit-infused chikki variety.",
+          "price": ""
+        },
+        {
+          "name": "Spice Flavour Chikki",
+          "summary": "Distinctive spice-infused chikki variety.",
+          "price": ""
+        }
+      ],
+      "summary": "Located on the Bengaluru - Mangaluru Highway in Sakleshpur, Hanbal Chikki Factory offers a vast range of traditional and innovative chikki flavours, ranging from classic peanut to unique fruit and spice varieties."
     }
   ],
   "North Karnataka FEAST: Witness the MASSIVE Jolada Rotti Oota Dishes Served! \ud83e\udd2f": [
