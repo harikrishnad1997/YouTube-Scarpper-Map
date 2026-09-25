@@ -26539,49 +26539,129 @@
       "summary": ""
     }
   ],
-  "28 Years Of Legendary Girmit & Bajji! Meet Gadag\u2019s \u201cGirmit Pandavas\u201d | Sri Jagadamba": [
+  "Sri Jagadamba Special Girmits": [
     {
       "title": "28 Years Of Legendary Girmit & Bajji! Meet Gadag\u2019s \u201cGirmit Pandavas\u201d | Sri Jagadamba",
       "link": "https://www.youtube.com/watch?v=YUQpNI2hCTM",
       "lat": 15.431674,
       "long": 75.6333288,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "Tontadarya Matha, Tanga Koot, Gadag-Betageri, Karnataka 582101",
+      "ph_no": "+91 90367 41643",
+      "cuisine": [
+        "North Karnataka",
+        "Street Food",
+        "South Indian"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Girmit",
+          "summary": "Signature Gadag street food snack, packed with flavor, wonderfully dry and crisp.",
+          "price": "Rs. 50"
+        },
+        {
+          "name": "Badanekayi Bajji",
+          "summary": "Crispy eggplant fritters made using traditional family recipes.",
+          "price": "Rs. 30 per plate"
+        },
+        {
+          "name": "Bun Badanekayi",
+          "summary": "Unique street food combination of eggplant bajji served in a soft bun.",
+          "price": "Rs. 25"
+        },
+        {
+          "name": "Alasande Vade",
+          "summary": "Crisp savory vada fritters made from black-eyed peas.",
+          "price": ""
+        },
+        {
+          "name": "Mirchi Bajji",
+          "summary": "Classic deep-fried green chili fritters.",
+          "price": ""
+        }
+      ],
+      "summary": "Sri Jagadamba Special Girmits is a legendary 28-year-old street food angadi in Gadag run by five brothers, known as the 'Girmit Pandavas'. Carrying forward their mother's recipes, they specialize in iconic North Karnataka street food classics, most notably their signature crisp Girmit and eggplant bajjis."
     }
   ],
-  "40 Years Of Savaji Taste! Ramu Swagat Savaji Hotel, Gadag! Bold Flavours Of Uttara Karnataka": [
+  "Ramu Swagat Savaji Hotel": [
     {
       "title": "40 Years Of Savaji Taste! Ramu Swagat Savaji Hotel, Gadag! Bold Flavours Of Uttara Karnataka",
       "link": "https://www.youtube.com/watch?v=ugbwN31_5o8",
       "lat": 15.4456671,
       "long": 75.6448087,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Behind Ram Mandir, Near Betageri, Betageri, Busstand, Gadag-Betageri, Karnataka 582102",
+      "ph_no": "+91 98443 39940",
+      "cuisine": [
+        "Savaji",
+        "Uttara Karnataka",
+        "North Karnataka",
+        "Indian"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Boti Fry",
+          "summary": "Crispy and intensely spiced boti fry rated a perfect 10/10.",
+          "price": "Rs. 280"
+        },
+        {
+          "name": "Khara Boti",
+          "summary": "Flavorful and spicy mutton boti preparation.",
+          "price": "Rs. 280"
+        },
+        {
+          "name": "Minch Kheema",
+          "summary": "Richly spiced minced meat dish cooked with traditional Savaji spice blends.",
+          "price": "Rs. 280"
+        },
+        {
+          "name": "Khaim Unde Dry",
+          "summary": "Traditional hand-rolled meatball specialty.",
+          "price": "Rs. 300"
+        },
+        {
+          "name": "Javari Chicken Fry",
+          "summary": "Spicy chicken fry prepared with local country chicken.",
+          "price": "Rs. 280"
+        }
+      ],
+      "summary": "Ramu Swagat Savaji Hotel is a legendary 40-year-old family-run eatery in Gadag, North Karnataka. Run by Nagaraj, his mother Laxmibai, and his wife Deepa, the restaurant offers iconic and spicy Savaji delicacies prepared using authentic local spice blends and traditional hand-rolled techniques."
     }
   ],
-  "Davanagere's Legendary Benne Dosae | Ravi Benne Dosae | A 97-Year Family Legacy": [
+  "Ravi Benne Dose": [
     {
       "title": "Davanagere's Legendary Benne Dosae | Ravi Benne Dosae | A 97-Year Family Legacy",
       "link": "https://www.youtube.com/watch?v=QDLZYHwMRDU",
       "lat": 14.4623237,
       "long": 75.9128067,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "Church Rd, Prince Jayachamaraja Wodeyar, Davangere, Karnataka 577002",
+      "ph_no": "+91 81971 71982",
+      "cuisine": [
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Benne Dosae",
+          "summary": "Signature crisp wood-fired butter dosa topped with dollops of fresh halli benne, served with coconut chutney and potato palya.",
+          "price": "Rs. 65"
+        },
+        {
+          "name": "Khali Dosae",
+          "summary": "Soft, pillowy dosa cooked with fresh butter and served alongside chutney and potato palya.",
+          "price": "Rs. 20"
+        },
+        {
+          "name": "Open Dosae",
+          "summary": "Open-style benne dosa variant prepared over wood-fired heat.",
+          "price": ""
+        }
+      ],
+      "summary": "Ravi Benne Dose is a legendary 97-year-old family-run eatery in Davanagere, credited with pioneering the town's famous benne dosa tradition. Fourth-generation owner Rakesh Desai continues the legacy using traditional batter, wood-fired hearths, and fresh butter to serve crisp benne dosas and soft khali dosas with chutney and potato palya."
     }
   ],
   "People Queue Before This Biryani Is Even Ready! Hotel Mayura, Hiriyur": [
@@ -26795,32 +26875,6 @@
       "v_n_ng": "Non-veg",
       "best_dishes": null,
       "summary": ""
-    },
-    {
-      "title": "The Secret Biryanis of Bengaluru! \ud83e\udd2b | Hidden Gems Nobody Talks About!",
-      "link": "https://www.youtube.com/watch?v=HTC8jx-mXAA",
-      "lat": 12.966877,
-      "long": 77.5836325,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
-    {
-      "title": "The Secret Biryanis of Bengaluru! \ud83e\udd2b | Hidden Gems Nobody Talks About!",
-      "link": "https://www.youtube.com/watch?v=HTC8jx-mXAA",
-      "lat": 12.9235911,
-      "long": 77.6094359,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
     }
   ],
   "Salt and Shores": [
@@ -26955,60 +27009,146 @@
       "summary": ""
     }
   ],
-  "Serving Flavourful Curries \ud83c\udf5b & Saving Precious Lives\u2764\ufe0f:The Legend of Mr. Hassanabba & Charmady Hotel": [
+  "Hotel Charmady": [
     {
       "title": "Serving Flavourful Curries \ud83c\udf5b & Saving Precious Lives\u2764\ufe0f:The Legend of Mr. Hassanabba & Charmady Hotel",
       "link": "https://www.youtube.com/watch?v=qQRY8YPR4kA",
       "lat": 13.0579991,
       "long": 75.4294345,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Highway, Charmady, Karnataka 574228",
+      "ph_no": "+91 70126 66464",
+      "cuisine": [
+        "Coastal Karnataka",
+        "South Indian"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Kalthappa",
+          "summary": "A unique, thick rice bread slow-cooked over a wood fire, perfect for pairing with rich curries.",
+          "price": ""
+        },
+        {
+          "name": "Fish Curry",
+          "summary": "A robustly flavoured, traditional fish curry that serves as a top recommendation.",
+          "price": ""
+        }
+      ],
+      "summary": "Established in 1971 by Mr. Hassanabba at the foothills of the Charmady Ghats, Hotel Charmady serves simple, soul-satisfying Coastal Karnataka fare like wood-fired Kalthappa and fresh fish curries. Beyond its food, the eatery is famous for Hassanabba's selfless decades-long work as a first responder rescuing accident victims in the region."
     }
   ],
-  "The Bengaluru Pizza Trail Part 2 \ud83c\udf55 3 More Spots, 10+ Combinations! \ud83c\udfc3\u200d\u2642\ufe0f": [
+  "Rosmarino": [
     {
       "title": "The Bengaluru Pizza Trail Part 2 \ud83c\udf55 3 More Spots, 10+ Combinations! \ud83c\udfc3\u200d\u2642\ufe0f",
       "link": "https://www.youtube.com/watch?v=wv-7G5AwYyk",
       "lat": 12.9608662,
       "long": 77.6412508,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Unit Nos 21, 22, 23, Carlton Towers, 1, HAL Old Airport Rd, HAL 2nd Stage, Indiranagar, Kodihalli, Bengaluru, Karnataka 560008",
+      "ph_no": "+91 96060 19838",
+      "cuisine": [
+        "Italian",
+        "Pizza"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Gardenia Fresca",
+          "summary": "An exceptional vegetarian pizza rated 10/10 by Kripal Amanna.",
+          "price": "Rs. 750"
+        },
+        {
+          "name": "Burratta",
+          "summary": "A rich and flavorful pizza topped with fresh burrata cheese, rated 9/10.",
+          "price": ""
+        },
+        {
+          "name": "Smoked Chicken",
+          "summary": "A non-vegetarian pizza featuring smoked chicken, rated 9/10.",
+          "price": "Rs. 850"
+        },
+        {
+          "name": "Gamberetti",
+          "summary": "A seafood pizza featuring prawns, rated 8.5/10.",
+          "price": ""
+        }
+      ],
+      "summary": "Rosmarino is a relatively new artisanal pizzeria helmed by one of Bengaluru's top chefs, located at Carlton Towers in Indiranagar. Featured as part of the Bengaluru Pizza Trail, it serves outstanding sourdough and wood-fired pizzas with fresh, premium ingredients."
     },
     {
       "title": "The Bengaluru Pizza Trail Part 2 \ud83c\udf55 3 More Spots, 10+ Combinations! \ud83c\udfc3\u200d\u2642\ufe0f",
       "link": "https://www.youtube.com/watch?v=wv-7G5AwYyk",
       "lat": 12.9193015,
       "long": 77.5076477,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Unit Nos 21, 22, 23, Carlton Towers, 1, HAL Old Airport Rd, HAL 2nd Stage, Indiranagar, Kodihalli, Bengaluru, Karnataka 560008",
+      "ph_no": "+91 96060 19838",
+      "cuisine": [
+        "Italian",
+        "Pizza"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Gardenia Fresca",
+          "summary": "Fresh vegetarian pizza rated a perfect 10/10.",
+          "price": "Rs. 750"
+        },
+        {
+          "name": "Burratta",
+          "summary": "Decadent burrata pizza rated 9/10.",
+          "price": ""
+        },
+        {
+          "name": "Smoked Chicken",
+          "summary": "Flavorful smoked chicken pizza rated 9/10.",
+          "price": "Rs. 850"
+        },
+        {
+          "name": "Gamberetti",
+          "summary": "Delicious prawn-topped pizza rated 8.5/10.",
+          "price": ""
+        }
+      ],
+      "summary": "Helmed by one of Bengaluru's top chefs, Rosmarino is an artisanal pizzeria in Indiranagar showcased as part of the Bengaluru Pizza Trail. It serves outstanding wood-fired and sourdough pizzas featuring high-quality ingredients, with both vegetarian and non-vegetarian offerings receiving glowing praise."
     },
     {
       "title": "The Bengaluru Pizza Trail Part 2 \ud83c\udf55 3 More Spots, 10+ Combinations! \ud83c\udfc3\u200d\u2642\ufe0f",
       "link": "https://www.youtube.com/watch?v=wv-7G5AwYyk",
       "lat": 12.9884795,
       "long": 77.5891973,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Unit Nos 21, 22, 23, Carlton Towers, 1, HAL Old Airport Rd, HAL 2nd Stage, Indiranagar, Kodihalli, Bengaluru, Karnataka 560008",
+      "ph_no": "+91 96060 19838",
+      "cuisine": [
+        "Italian",
+        "Pizza"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Gardenia Fresca",
+          "summary": "A 10/10 rated fresh vegetarian artisanal pizza.",
+          "price": "Rs. 750"
+        },
+        {
+          "name": "Burratta",
+          "summary": "Artisanal pizza topped with creamy burrata cheese, rated 9/10.",
+          "price": "Rs. 750"
+        },
+        {
+          "name": "Smoked Chicken",
+          "summary": "Flavorful pizza topped with smoked chicken, rated 9/10.",
+          "price": "Rs. 850"
+        },
+        {
+          "name": "Gamberetti",
+          "summary": "Seafood pizza topped with succulent prawns, rated 8.5/10.",
+          "price": "Rs. 850"
+        }
+      ],
+      "summary": "Rosmarino is a pizzeria located in Indiranagar, Bengaluru, helmed by one of the city's top chefs. It offers artisanal vegetarian and non-vegetarian wood-fired sourdough pizzas with high-quality fresh ingredients."
     }
   ],
   "The Bengaluru Pizza Trail \ud83c\udf55 In Search Of The City\u2019s Preferred Slice!": [
@@ -27147,6 +27287,74 @@
         }
       ],
       "summary": "Located on the Bengaluru - Mangaluru Highway in Sakleshpur, Hanbal Chikki Factory offers a vast range of traditional and innovative chikki flavours, ranging from classic peanut to unique fruit and spice varieties."
+    }
+  ],
+  "HHS & HMS Restaurant": [
+    {
+      "title": "The Secret Biryanis of Bengaluru! \ud83e\udd2b | Hidden Gems Nobody Talks About!",
+      "link": "https://www.youtube.com/watch?v=HTC8jx-mXAA",
+      "lat": 12.966877,
+      "long": 77.5836325,
+      "address": "No.58/59, HHS & HMS Complex, Cubbonpet Main Rd, Bengaluru, Karnataka 560002",
+      "ph_no": "+91 98454 31623",
+      "cuisine": [
+        "Biryani",
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [
+        {
+          "name": "Mutton Biryani",
+          "summary": "Highly rated biryani with exceptionally aromatic and well-cooked rice and tender mutton.",
+          "price": "Rs. 310"
+        },
+        {
+          "name": "Chicken Biryani",
+          "summary": "Flavorful chicken biryani served with tasty seasoned rice.",
+          "price": "Rs. 150"
+        },
+        {
+          "name": "Mutton Handi",
+          "summary": "A rich and flavourful mutton curry dish.",
+          "price": "Rs. 250"
+        }
+      ],
+      "summary": "HHS & HMS Restaurant is a hidden gem in Bengaluru famous for its quiet charm and authentic, rich biryanis served specifically on Tuesdays, Wednesdays, and Fridays."
+    },
+    {
+      "title": "The Secret Biryanis of Bengaluru! \ud83e\udd2b | Hidden Gems Nobody Talks About!",
+      "link": "https://www.youtube.com/watch?v=HTC8jx-mXAA",
+      "lat": 12.9235911,
+      "long": 77.6094359,
+      "address": "No.58/59, HHS & HMS Complex, Cubbonpet Main Rd, Bengaluru, Karnataka 560002",
+      "ph_no": "+91 98454 31623",
+      "cuisine": [
+        "Biryani",
+        "South Indian",
+        "Indian"
+      ],
+      "price": "$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [
+        {
+          "name": "Mutton Biryani",
+          "summary": "Highly rated biryani featuring tender mutton and aromatic rice.",
+          "price": "Rs. 310"
+        },
+        {
+          "name": "Chicken Biryani",
+          "summary": "A flavorful chicken biryani prepared with a unique blend of spices.",
+          "price": "Rs. 150"
+        },
+        {
+          "name": "Mutton Handi",
+          "summary": "Rich and savory mutton handi served in a half portion.",
+          "price": "Rs. 250"
+        }
+      ],
+      "summary": "HHS & HMS Restaurant in Bengaluru is a hidden gem famous for its rich, authentic dum biryanis and specialty mutton dishes made on select days of the week."
     }
   ],
   "North Karnataka FEAST: Witness the MASSIVE Jolada Rotti Oota Dishes Served! \ud83e\udd2f": [
