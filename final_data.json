@@ -26524,19 +26524,54 @@
       "summary": ""
     }
   ],
-  "Davanagere\u2019s Iconic Naidu Hotel! Raghu Naidu\u2019s 47-Year Family Legacy | Traditional Non-Veg Feast": [
+  "Naidu Hotel": [
     {
       "title": "Davanagere\u2019s Iconic Naidu Hotel! Raghu Naidu\u2019s 47-Year Family Legacy | Traditional Non-Veg Feast",
       "link": "https://www.youtube.com/watch?v=z_K3a3tsMYA",
       "lat": 14.4644553,
       "long": 75.9225951,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "KB Extension, Davangere, Karnataka 577002",
+      "ph_no": "+91 81922 34611",
+      "cuisine": [
+        "Karnataka",
+        "North Karnataka",
+        "South Indian"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Mutton Dry",
+          "summary": "Tender and flavorful mutton dry dish, rated a perfect 10/10.",
+          "price": "Rs. 280"
+        },
+        {
+          "name": "Mutton Chops",
+          "summary": "Richly spiced traditional mutton chops, rated 9/10.",
+          "price": "Rs. 270"
+        },
+        {
+          "name": "Mutton Sukka",
+          "summary": "Flavorful mutton sukka preparation, rated 8.7/10.",
+          "price": "Rs. 270"
+        },
+        {
+          "name": "Khaima Unde",
+          "summary": "Traditional minced mutton meatballs, rated 8.5/10.",
+          "price": "Rs. 270"
+        },
+        {
+          "name": "Chicken Fry",
+          "summary": "Crispy and spiced chicken fry, rated 8/10.",
+          "price": "Rs. 200"
+        },
+        {
+          "name": "Mutton Biryani",
+          "summary": "A flavorful traditional biryani featuring mutton, rated 7.8/10.",
+          "price": "Rs. 300"
+        }
+      ],
+      "summary": "Naidu Hotel in Davanagere is an iconic 47-year family-run establishment famous for its traditional South Indian non-vegetarian feast featuring mutton dry, chicken fry, khaima, chops, sukka, and biryani."
     }
   ],
   "Sri Jagadamba Special Girmits": [
@@ -26664,19 +26699,44 @@
       "summary": "Ravi Benne Dose is a legendary 97-year-old family-run eatery in Davanagere, credited with pioneering the town's famous benne dosa tradition. Fourth-generation owner Rakesh Desai continues the legacy using traditional batter, wood-fired hearths, and fresh butter to serve crisp benne dosas and soft khali dosas with chutney and potato palya."
     }
   ],
-  "People Queue Before This Biryani Is Even Ready! Hotel Mayura, Hiriyur": [
+  "Hotel Mayura": [
     {
       "title": "People Queue Before This Biryani Is Even Ready! Hotel Mayura, Hiriyur",
       "link": "https://www.youtube.com/watch?v=s18UgQgsgIA",
       "lat": 13.9441788,
       "long": 76.6115616,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "SH 19, Hiriyur, Karnataka 577598",
+      "ph_no": "+91 76196 63120",
+      "cuisine": [
+        "Karnataka",
+        "South Indian",
+        "Biryani"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Mutton Biryani",
+          "summary": "A 37-year-old legacy recipe steaming hot dum biryani, highly recommended.",
+          "price": "Rs. 300"
+        },
+        {
+          "name": "Mutton Chops Kurma",
+          "summary": "Rich and flavorful mutton chops kurma.",
+          "price": "Rs. 220"
+        },
+        {
+          "name": "Catla Fry",
+          "summary": "Freshly cooked Catla fish fry.",
+          "price": "Rs. 100"
+        },
+        {
+          "name": "Chicken Biryani",
+          "summary": "Flavorful chicken biryani served in full portion.",
+          "price": "Rs. 150"
+        }
+      ],
+      "summary": "Hotel Mayura in Hiriyur is a iconic, no-frills rustic eatery run by a husband-wife duo carrying forward a 37-year-old biryani legacy. Famous among locals who queue up early, they serve legendary Mutton and Chicken Biryanis, Mutton Chops Kurma, and Catla Fish Fry."
     }
   ],
   "An Army Wife\u2019s Culinary Initiative! Mrs. Shobhana\u2019s All-Women Mess In Coorg: Vanitha Mess Gonikoppal": [
@@ -26994,19 +27054,45 @@
       "summary": ""
     }
   ],
-  "Finding the Flavours of Mumbai's Bhendi Bazaar in South Bengaluru! The Bombay Chapter 003 | Review": [
+  "The Bombay Chapter 003": [
     {
       "title": "Finding the Flavours of Mumbai's Bhendi Bazaar in South Bengaluru! The Bombay Chapter 003 | Review",
       "link": "https://www.youtube.com/watch?v=gQ_iDytW4I8",
       "lat": 12.9058732,
       "long": 77.5988911,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Maratt Estate, Bannerghatta Rd, opposite Shell Petrol Pump, Dollar Layout, 7th Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+      "ph_no": "+91 97426 61909",
+      "cuisine": [
+        "Mumbai Street Food",
+        "Mughlai",
+        "Parsi",
+        "North Indian"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Mutton Baida Roti",
+          "summary": "Crispy and savory egg-coated flatbread filled with minced mutton, rated 9/10.",
+          "price": "Rs. 320"
+        },
+        {
+          "name": "Chicken Farcha",
+          "summary": "Lacy, egg-washed fried chicken popular in Parsi and Mumbai street cuisine, rated 8/10.",
+          "price": "Rs. 270"
+        },
+        {
+          "name": "Mutton Nihari",
+          "summary": "Rich and hearty slow-cooked mutton stew, rated 7.7/10.",
+          "price": "Rs. 300"
+        },
+        {
+          "name": "Russian Cutlet",
+          "summary": "Crunchy street-style cutlets served in both vegetarian and chicken variations.",
+          "price": "Rs. 190"
+        }
+      ],
+      "summary": "The Bombay Chapter 003 attempts to capture the authentic, nostalgic flavors of Mumbai's Mohammed Ali Road and Bhendi Bazaar in South Bengaluru, serving classic Mughlai, Parsi, and Mumbai street foods alongside Pallonji's soda."
     }
   ],
   "Hotel Charmady": [
@@ -27537,47 +27623,62 @@
       "summary": ""
     }
   ],
-  "From a Shipping Container to a Coffee Dream! \u2615\ufe0f": [
+  "Motherland Coffee Club": [
     {
       "title": "From a Shipping Container to a Coffee Dream! \u2615\ufe0f",
       "link": "https://www.youtube.com/watch?v=QpwchD9_iWA",
       "lat": 13.2660576,
       "long": 75.7046315,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    }
-  ],
-  "Exploring Two Interesting Chikmagalur Coffee Spots! #shorts #foodvlog #coffee #foodie #coffeelover": [
+      "address": "Vastare Bus Stop, State Highway 64, Vastare, Karnataka 577133",
+      "ph_no": "+91 94810 24356",
+      "cuisine": [
+        "Cafe",
+        "Coffee"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Meticulous Coffee",
+          "summary": "Carefully brewed local coffee served at a shipping container cafe.",
+          "price": ""
+        }
+      ],
+      "summary": "Motherland Coffee Club is a highway caf\u00e9 in Chikmagalur, started inside a shipping container during the pandemic by owner Darshan. It offers meticulously prepared coffee as a heartfelt tribute to mothers."
+    },
     {
       "title": "Exploring Two Interesting Chikmagalur Coffee Spots! #shorts #foodvlog #coffee #foodie #coffeelover",
       "link": "https://www.youtube.com/watch?v=mIGDhHqxh5M",
       "lat": 13.2660576,
       "long": 75.7046315,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "Vastare Bus Stop, State Highway 64, Vastare, Karnataka 577133",
+      "ph_no": "+91 94810 24356",
+      "cuisine": [
+        "Cafe",
+        "Coffee",
+        "South Indian"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [],
+      "summary": "Motherland Coffee Club is an invigorating coffee stop located in Vastare, Chikmagalur, along State Highway 64."
     },
     {
-      "title": "Exploring Two Interesting Chikmagalur Coffee Spots! #shorts #foodvlog #coffee #foodie #coffeelover",
-      "link": "https://www.youtube.com/watch?v=mIGDhHqxh5M",
+      "title": "Exploring 50-Year-Old VASAVI COFFEE And A Young Start Up Caf\u00e9, MOTHERLAND COFFEE CLUB, Chikmagalur!",
+      "link": "https://www.youtube.com/watch?v=7T1LmkRS-dU",
       "lat": 13.3179337,
       "long": 75.771556,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "Vastare Bus Stop, State Highway 64, Vastare, Karnataka 577133",
+      "ph_no": "+91 94810 24356",
+      "cuisine": [
+        "Caf\u00e9",
+        "Coffee",
+        "South Indian"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [],
+      "summary": "Motherland Coffee Club is a modest start-up cafe located near Chikmagalur, born during the pandemic, that celebrates Chikmagalur's rich local coffee culture with artisanal and fresh brews."
     }
   ],
   "Exploring 50-Year-Old VASAVI COFFEE And A Young Start Up Caf\u00e9, MOTHERLAND COFFEE CLUB, Chikmagalur!": [
@@ -27586,19 +27687,6 @@
       "link": "https://www.youtube.com/watch?v=7T1LmkRS-dU",
       "lat": 13.2660576,
       "long": 75.7046315,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
-    {
-      "title": "Exploring 50-Year-Old VASAVI COFFEE And A Young Start Up Caf\u00e9, MOTHERLAND COFFEE CLUB, Chikmagalur!",
-      "link": "https://www.youtube.com/watch?v=7T1LmkRS-dU",
-      "lat": 13.3179337,
-      "long": 75.771556,
       "address": "",
       "ph_no": null,
       "cuisine": null,
@@ -28441,6 +28529,21 @@
       "summary": ""
     }
   ],
+  "Exploring Two Interesting Chikmagalur Coffee Spots! #shorts #foodvlog #coffee #foodie #coffeelover": [
+    {
+      "title": "Exploring Two Interesting Chikmagalur Coffee Spots! #shorts #foodvlog #coffee #foodie #coffeelover",
+      "link": "https://www.youtube.com/watch?v=mIGDhHqxh5M",
+      "lat": 13.3179337,
+      "long": 75.771556,
+      "address": "",
+      "ph_no": null,
+      "cuisine": null,
+      "price": "",
+      "v_n_ng": "Non-veg",
+      "best_dishes": null,
+      "summary": ""
+    }
+  ],
   "Can't Believe This Is A Veg Burger! #shorts #foodvlog #burger #mushroom #vegetarian #bangalore": [
     {
       "title": "Can't Believe This Is A Veg Burger! #shorts #foodvlog #burger #mushroom #vegetarian #bangalore",
@@ -28627,6 +28730,21 @@
       "link": "https://www.youtube.com/watch?v=yvuzFdvfN78",
       "lat": 12.7256174,
       "long": 77.2808005,
+      "address": "",
+      "ph_no": null,
+      "cuisine": null,
+      "price": "",
+      "v_n_ng": "Non-veg",
+      "best_dishes": null,
+      "summary": ""
+    }
+  ],
+  "Car Street, Manguluru - Charmuri & Conversations! Gokul Charmuri": [
+    {
+      "title": "Car Street, Manguluru - Charmuri & Conversations! Gokul Charmuri",
+      "link": "https://www.youtube.com/watch?v=mkM31z7ZVV0",
+      "lat": 12.8701006,
+      "long": 74.8372496,
       "address": "",
       "ph_no": null,
       "cuisine": null,
