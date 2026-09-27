@@ -26922,19 +26922,105 @@
       "summary": ""
     }
   ],
-  "The Secret Biryanis of Bengaluru! \ud83e\udd2b | Hidden Gems Nobody Talks About!": [
+  "HHS & HMS Restaurant": [
     {
       "title": "The Secret Biryanis of Bengaluru! \ud83e\udd2b | Hidden Gems Nobody Talks About!",
       "link": "https://www.youtube.com/watch?v=HTC8jx-mXAA",
       "lat": 13.042449,
       "long": 77.5765477,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "No.58/59, HHS & HMS Complex, Cubbonpet Main Rd, Bengaluru, Karnataka 560002",
+      "ph_no": "+91 98454 31623",
+      "cuisine": [
+        "Biryani",
+        "South Indian",
+        "Bangalore"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Chicken Biryani",
+          "summary": "Delicious biryani with rich, well-spiced biryani rice.",
+          "price": "Rs. 150"
+        },
+        {
+          "name": "Mutton Biryani",
+          "summary": "Highly recommended mutton biryani with exceptionally flavorful rice rated 9.5/10.",
+          "price": "Rs. 310"
+        },
+        {
+          "name": "Mutton Handi",
+          "summary": "Flavorful half portion mutton handi dish.",
+          "price": "Rs. 250"
+        }
+      ],
+      "summary": "HHS & HMS Restaurant in Cubbonpet, Bengaluru, is a humble hidden gem famous for its flavor-packed biryanis prepared exclusively on Tuesdays, Wednesdays, and Fridays."
+    },
+    {
+      "title": "The Secret Biryanis of Bengaluru! \ud83e\udd2b | Hidden Gems Nobody Talks About!",
+      "link": "https://www.youtube.com/watch?v=HTC8jx-mXAA",
+      "lat": 12.966877,
+      "long": 77.5836325,
+      "address": "No.58/59, HHS & HMS Complex, Cubbonpet Main Rd, Bengaluru, Karnataka 560002",
+      "ph_no": "+91 98454 31623",
+      "cuisine": [
+        "Biryani",
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [
+        {
+          "name": "Mutton Biryani",
+          "summary": "Highly rated biryani with exceptionally aromatic and well-cooked rice and tender mutton.",
+          "price": "Rs. 310"
+        },
+        {
+          "name": "Chicken Biryani",
+          "summary": "Flavorful chicken biryani served with tasty seasoned rice.",
+          "price": "Rs. 150"
+        },
+        {
+          "name": "Mutton Handi",
+          "summary": "A rich and flavourful mutton curry dish.",
+          "price": "Rs. 250"
+        }
+      ],
+      "summary": "HHS & HMS Restaurant is a hidden gem in Bengaluru famous for its quiet charm and authentic, rich biryanis served specifically on Tuesdays, Wednesdays, and Fridays."
+    },
+    {
+      "title": "The Secret Biryanis of Bengaluru! \ud83e\udd2b | Hidden Gems Nobody Talks About!",
+      "link": "https://www.youtube.com/watch?v=HTC8jx-mXAA",
+      "lat": 12.9235911,
+      "long": 77.6094359,
+      "address": "No.58/59, HHS & HMS Complex, Cubbonpet Main Rd, Bengaluru, Karnataka 560002",
+      "ph_no": "+91 98454 31623",
+      "cuisine": [
+        "Biryani",
+        "South Indian",
+        "Indian"
+      ],
+      "price": "$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [
+        {
+          "name": "Mutton Biryani",
+          "summary": "Highly rated biryani featuring tender mutton and aromatic rice.",
+          "price": "Rs. 310"
+        },
+        {
+          "name": "Chicken Biryani",
+          "summary": "A flavorful chicken biryani prepared with a unique blend of spices.",
+          "price": "Rs. 150"
+        },
+        {
+          "name": "Mutton Handi",
+          "summary": "Rich and savory mutton handi served in a half portion.",
+          "price": "Rs. 250"
+        }
+      ],
+      "summary": "HHS & HMS Restaurant in Bengaluru is a hidden gem famous for its rich, authentic dum biryanis and specialty mutton dishes made on select days of the week."
     }
   ],
   "Salt and Shores": [
@@ -27024,34 +27110,72 @@
       "summary": "Salt And Shores in Koramangala offers authentic and flavorful Mangalorean, Kundapur, and Bunt-style coastal seafood. Their standout offering is a complete Seafood Thali for just Rs. 230, alongside delicious a la carte dishes like Prawn Ghee Roast and Kane Tava Fry."
     }
   ],
-  "Discovering Mai Prathum Thai Caf\u00e9: A Charming Hidden Gem! \ud83c\uddf9\ud83c\udded\ud83c\udf36\ufe0f\ud83c\udf5d": [
+  "Mai Prathum Thai Caf\u00e9": [
     {
       "title": "Discovering Mai Prathum Thai Caf\u00e9: A Charming Hidden Gem! \ud83c\uddf9\ud83c\udded\ud83c\udf36\ufe0f\ud83c\udf5d",
       "link": "https://www.youtube.com/watch?v=768UEw0iXy0",
       "lat": 12.9142765,
       "long": 77.6007821,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "30, 1st C Main, 5th Cross Rd, Mico Layout, BTM Layout 2nd Stage, Bengaluru, Karnataka 560 076",
+      "ph_no": "+91 76191 66969",
+      "cuisine": [
+        "Thai"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Chicken Pad Kaprow",
+          "summary": "A classic Thai basil dish that is warm, honest, and full of flavor.",
+          "price": "Rs. 198 (add Rs. 29 for fried egg)"
+        },
+        {
+          "name": "Mushroom Spaghetti Pad Kaprow",
+          "summary": "An intriguing and comforting pasta variation on the classic Pad Krapow.",
+          "price": "Rs. 159"
+        },
+        {
+          "name": "Thai Milk Tea",
+          "summary": "A refreshing traditional Thai beverage.",
+          "price": "Rs. 129"
+        }
+      ],
+      "summary": "Mai Prathum Thai Caf\u00e9 is a quaint, charming hidden gem in BTM Layout, Bengaluru, run by New, an authentic Thai cook, along with her Indian partner Akarsh and his sister Amisha. The caf\u00e9 offers a Krapow-focused menu featuring warm, honest, and flavorful home-style Thai food paired with lovely hospitality."
     }
   ],
-  "Authentic Mysore Style Breakfast in Wayanad! \ud83c\udf3f Mysore Veg Caf\u00e9, Sulthan Bathery \u2615\ufe0f": [
+  "Mysore Veg Caf\u00e9": [
     {
       "title": "Authentic Mysore Style Breakfast in Wayanad! \ud83c\udf3f Mysore Veg Caf\u00e9, Sulthan Bathery \u2615\ufe0f",
       "link": "https://www.youtube.com/watch?v=2Y5IQIC8mh8",
       "lat": 11.6621497,
       "long": 76.2537378,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "Opp Aiswarya Theatre, Issac\u2019s Hotel Regency Building, Sultan Bathery, Kerala 673592",
+      "ph_no": "+91 97415 23455",
+      "cuisine": [
+        "South Indian",
+        "Karnataka",
+        "Mysore"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Pudi Thatte Idli",
+          "summary": "Melt-in-your-mouth soft Thatte Idli spiced with pudi and rich ghee.",
+          "price": "Rs. 70"
+        },
+        {
+          "name": "Masala Dosae",
+          "summary": "Crisp, golden dosa served with authentic chutneys and potato filling.",
+          "price": "Rs. 80"
+        },
+        {
+          "name": "Filter Coffee",
+          "summary": "Rich, authentic South Indian filter coffee.",
+          "price": "Rs. 30"
+        }
+      ],
+      "summary": "Founded by Mr. Nagaraj to serve travelers authentic Karnataka and Mysore-style vegetarian meals in Wayanad, Mysore Veg Caf\u00e9 sources milk, curd, and ghee directly from Nandini in Karnataka. Known for its Pudi Thatte Idli, crisp Masala Dosae, and classic filter coffee."
     }
   ],
   "The Bombay Chapter 003": [
@@ -27237,20 +27361,46 @@
       "summary": "Rosmarino is a pizzeria located in Indiranagar, Bengaluru, helmed by one of the city's top chefs. It offers artisanal vegetarian and non-vegetarian wood-fired sourdough pizzas with high-quality fresh ingredients."
     }
   ],
-  "The Bengaluru Pizza Trail \ud83c\udf55 In Search Of The City\u2019s Preferred Slice!": [
+  "Brik Oven": [
     {
       "title": "The Bengaluru Pizza Trail \ud83c\udf55 In Search Of The City\u2019s Preferred Slice!",
       "link": "https://www.youtube.com/watch?v=uoHqFlEn7H0",
       "lat": 12.9797709,
       "long": 77.6439918,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "872/a, 80 Feet Rd, HAL 2nd Stage, New Tippasandra, Bengaluru, Karnataka 560075",
+      "ph_no": "+91 80 4204 2111",
+      "cuisine": [
+        "Pizza",
+        "Italian"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
+      "best_dishes": [
+        {
+          "name": "Oink Oink",
+          "summary": "A highly recommended pizza with rich flavours and top quality pork toppings, rated 10/10.",
+          "price": "Rs. 870"
+        },
+        {
+          "name": "The Anna",
+          "summary": "A delicious pizza loaded with distinct flavours, rated 8.5/10.",
+          "price": ""
+        },
+        {
+          "name": "Bird In Hand",
+          "summary": "A flavourful chicken pizza option, rated 8.5/10.",
+          "price": ""
+        },
+        {
+          "name": "Margherita 2.0",
+          "summary": "A fresh vegetarian pizza with high-quality produce and artisanal crust, rated 8/10.",
+          "price": "Rs. 620"
+        }
+      ],
+      "summary": "Brik Oven is one of Bengaluru's premier pizzerias, celebrated for its artisanal wood-fired pizzas, high-quality ingredients, and expertly crafted sourdough crusts."
+    }
+  ],
+  "The Bengaluru Pizza Trail \ud83c\udf55 In Search Of The City\u2019s Preferred Slice!": [
     {
       "title": "The Bengaluru Pizza Trail \ud83c\udf55 In Search Of The City\u2019s Preferred Slice!",
       "link": "https://www.youtube.com/watch?v=uoHqFlEn7H0",
@@ -27375,74 +27525,6 @@
       "summary": "Located on the Bengaluru - Mangaluru Highway in Sakleshpur, Hanbal Chikki Factory offers a vast range of traditional and innovative chikki flavours, ranging from classic peanut to unique fruit and spice varieties."
     }
   ],
-  "HHS & HMS Restaurant": [
-    {
-      "title": "The Secret Biryanis of Bengaluru! \ud83e\udd2b | Hidden Gems Nobody Talks About!",
-      "link": "https://www.youtube.com/watch?v=HTC8jx-mXAA",
-      "lat": 12.966877,
-      "long": 77.5836325,
-      "address": "No.58/59, HHS & HMS Complex, Cubbonpet Main Rd, Bengaluru, Karnataka 560002",
-      "ph_no": "+91 98454 31623",
-      "cuisine": [
-        "Biryani",
-        "South Indian",
-        "Karnataka"
-      ],
-      "price": "$",
-      "v_n_ng": "Non-veg",
-      "best_dishes": [
-        {
-          "name": "Mutton Biryani",
-          "summary": "Highly rated biryani with exceptionally aromatic and well-cooked rice and tender mutton.",
-          "price": "Rs. 310"
-        },
-        {
-          "name": "Chicken Biryani",
-          "summary": "Flavorful chicken biryani served with tasty seasoned rice.",
-          "price": "Rs. 150"
-        },
-        {
-          "name": "Mutton Handi",
-          "summary": "A rich and flavourful mutton curry dish.",
-          "price": "Rs. 250"
-        }
-      ],
-      "summary": "HHS & HMS Restaurant is a hidden gem in Bengaluru famous for its quiet charm and authentic, rich biryanis served specifically on Tuesdays, Wednesdays, and Fridays."
-    },
-    {
-      "title": "The Secret Biryanis of Bengaluru! \ud83e\udd2b | Hidden Gems Nobody Talks About!",
-      "link": "https://www.youtube.com/watch?v=HTC8jx-mXAA",
-      "lat": 12.9235911,
-      "long": 77.6094359,
-      "address": "No.58/59, HHS & HMS Complex, Cubbonpet Main Rd, Bengaluru, Karnataka 560002",
-      "ph_no": "+91 98454 31623",
-      "cuisine": [
-        "Biryani",
-        "South Indian",
-        "Indian"
-      ],
-      "price": "$",
-      "v_n_ng": "Non-veg",
-      "best_dishes": [
-        {
-          "name": "Mutton Biryani",
-          "summary": "Highly rated biryani featuring tender mutton and aromatic rice.",
-          "price": "Rs. 310"
-        },
-        {
-          "name": "Chicken Biryani",
-          "summary": "A flavorful chicken biryani prepared with a unique blend of spices.",
-          "price": "Rs. 150"
-        },
-        {
-          "name": "Mutton Handi",
-          "summary": "Rich and savory mutton handi served in a half portion.",
-          "price": "Rs. 250"
-        }
-      ],
-      "summary": "HHS & HMS Restaurant in Bengaluru is a hidden gem famous for its rich, authentic dum biryanis and specialty mutton dishes made on select days of the week."
-    }
-  ],
   "North Karnataka FEAST: Witness the MASSIVE Jolada Rotti Oota Dishes Served! \ud83e\udd2f": [
     {
       "title": "North Karnataka FEAST: Witness the MASSIVE Jolada Rotti Oota Dishes Served! \ud83e\udd2f",
@@ -27518,34 +27600,69 @@
       "summary": ""
     }
   ],
-  "Mysuru\u2019s Most Honest Breakfast! The Taste of Pure Dedication!": [
+  "Karavali Thindis": [
     {
       "title": "Mysuru\u2019s Most Honest Breakfast! The Taste of Pure Dedication!",
       "link": "https://www.youtube.com/watch?v=x0u6w7nf2eo",
       "lat": 12.3073686,
       "long": 76.6367844,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "K.G Koppal, Chamarajapuram Mohalla, Chamrajpura, Mysuru, Karnataka 570005",
+      "ph_no": "+91 99168 90700",
+      "cuisine": [
+        "South Indian",
+        "Karavali",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [],
+      "summary": "Karavali Thindis is a food truck in Mysuru run by Raghavendra and Naina, serving fresh and authentic Karavali-style South Indian breakfast tiffins."
     }
   ],
-  "Wayanad's Nadan CULINARY Gem! Traditional Kerala Food & Paal Parotta You Won't Find! Olan Restaurant": [
+  "Olan Restaurant": [
     {
       "title": "Wayanad's Nadan CULINARY Gem! Traditional Kerala Food & Paal Parotta You Won't Find! Olan Restaurant",
       "link": "https://www.youtube.com/watch?v=Q_CdhdpXLCs",
       "lat": 11.6444241,
       "long": 76.1113001,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Muttil, Muttil North, Kerala 673122",
+      "ph_no": "+91 79025 64444",
+      "cuisine": [
+        "Kerala",
+        "Nadan",
+        "South Indian",
+        "Indian"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Paal Parotta",
+          "summary": "Flaky parottas generously drenched in rich coconut milk and infused with fragrant curry leaf seasoning.",
+          "price": "Rs. 270"
+        },
+        {
+          "name": "Pidiyum Kozhiyum",
+          "summary": "Soft, tiny rice dumplings (pidi) paired with a creamy, homestyle Nadan chicken curry.",
+          "price": "Rs. 250"
+        },
+        {
+          "name": "Mazhavil Puttu + Kadla Curry",
+          "summary": "Colorful rainbow puttu made from white rice, red rice, wheat, ragi, and corn, served alongside black chickpea curry.",
+          "price": "Rs. 250"
+        },
+        {
+          "name": "Pothu Erachi",
+          "summary": "Flavorful, traditional Kerala style slow-cooked meat dish.",
+          "price": "Rs. 270"
+        },
+        {
+          "name": "Paal Kappa + Meen Molakathatu",
+          "summary": "Creamy tapioca cooked in coconut milk paired with a robust, sour, and spicy fish curry.",
+          "price": "Rs. 230"
+        }
+      ],
+      "summary": "Olan Restaurant in Wayanad is a culinary gem led by two chefs dedicated to preserving authentic Kerala Nadan heritage. Rejecting multi-cuisine trends, they serve traditional homestyle dishes like Paal Parotta, Pidiyum Kozhiyum, and spicy Meen Molakathatu with Paal Kappa."
     }
   ],
   "She Took a Break to Raise a Baby, Now Serves Family Recipes at Home! Sihi Suprabhatham Mane": [
