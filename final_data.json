@@ -27555,34 +27555,83 @@
       "summary": ""
     }
   ],
-  "24 HOUR BIRYANI is the ULTIMATE Highway Food! | Janatha Restaurant, Mysuru - Kodagu Highway": [
+  "Janatha Restaurant": [
     {
       "title": "24 HOUR BIRYANI is the ULTIMATE Highway Food! | Janatha Restaurant, Mysuru - Kodagu Highway",
       "link": "https://www.youtube.com/watch?v=1KtNVn4q3yA",
       "lat": 12.3339059,
       "long": 76.4806782,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Check Post, Manuganahally, Bilikere, Mysuru-Kodagu Highway, Mysuru, Karnataka 571103",
+      "ph_no": "+91 99455 26758",
+      "cuisine": [
+        "Thalassery",
+        "Kerala",
+        "South Indian",
+        "Biryani"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    }
-  ],
-  "24-HOUR BIRYANI! Testing Bilikere's Famous Janatha Restaurant on the Mysuru-Kodagu Highway": [
+      "best_dishes": [
+        {
+          "name": "Thalassery Biryani",
+          "summary": "Hot and delicious biryani served 24 hours a day on the highway.",
+          "price": ""
+        },
+        {
+          "name": "Mutton Dry",
+          "summary": "Savory mutton dry dish, perfect as a side or starter.",
+          "price": ""
+        },
+        {
+          "name": "Fish Fry",
+          "summary": "Fresh and flavorful fried fish.",
+          "price": ""
+        }
+      ],
+      "summary": "Janatha Restaurant is a popular 24-hour highway food stop located on the Mysuru-Kodagu Highway in Bilikere. Famous for serving hot Thalassery Biryani even at late hours like 3 AM, alongside tasty dishes like Mutton Dry and Fish Fry."
+    },
     {
       "title": "24-HOUR BIRYANI! Testing Bilikere's Famous Janatha Restaurant on the Mysuru-Kodagu Highway",
       "link": "https://www.youtube.com/watch?v=MCSeVecSRwM",
       "lat": 12.3339059,
       "long": 76.4806782,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Check Post, Manuganahally, Bilikere, Mysuru-Kodagu Highway, Mysuru, Karnataka 571103",
+      "ph_no": "+91 99455 26758",
+      "cuisine": [
+        "Kerala",
+        "South Indian",
+        "Biryani"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Ayakora Fish Fry",
+          "summary": "Crispy and flavourful fried kingfish dish.",
+          "price": "Rs. 390"
+        },
+        {
+          "name": "Chicken Pepper Dry",
+          "summary": "Spicy chicken stir-fry packed with black pepper flavours.",
+          "price": "Rs. 190"
+        },
+        {
+          "name": "Mutton Fry",
+          "summary": "Rich, tender, and intensely seasoned dry mutton fry.",
+          "price": "Rs. 260"
+        },
+        {
+          "name": "Chicken Biryani",
+          "summary": "Thalassery style chicken biryani with flavourful rice and masala.",
+          "price": "Rs. 240"
+        },
+        {
+          "name": "Mutton Biryani",
+          "summary": "Flavourful Thalassery biryani prepared with tender pieces of mutton.",
+          "price": "Rs. 380"
+        }
+      ],
+      "summary": "Janatha Restaurant is a popular 24-hour highway eatery near Bilikere on the Mysuru-Kodagu Highway. Known as a lifeline for late-night drivers and early travellers, it serves round-the-clock hot meals including Thalassery biryanis, parottas, ghee rice, spicy chicken pepper fry, and tender mutton dry."
     }
   ],
   "\ud83e\udd29 The ULTIMATE 18-Item Kerala Sadya for \u20b9140! Must-Try Malabar Food in a 100-Year-Old Home! 1980's": [
