@@ -26829,34 +26829,68 @@
       "summary": ""
     }
   ],
-  "75-Year-Old Secret Home Palav In Mysuru | Ajji Palav, Nazarbad \ud83d\udc75\ud83c\udf5b": [
+  "Ajji Mane Palav": [
     {
       "title": "75-Year-Old Secret Home Palav In Mysuru | Ajji Palav, Nazarbad \ud83d\udc75\ud83c\udf5b",
       "link": "https://www.youtube.com/watch?v=CXuy1KQ8p0Y",
       "lat": 12.3075978,
       "long": 76.6656507,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "703, Nazarbad, Mysuru, Karnataka 570010",
+      "ph_no": "",
+      "cuisine": [
+        "Karnataka",
+        "South Indian",
+        "Mysuru"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Chicken Palav",
+          "summary": "Comforting and aromatic home-style chicken palav with flavorful rice masala.",
+          "price": "Rs. 160"
+        },
+        {
+          "name": "Mutton Palav",
+          "summary": "Traditional, rich, home-cooked mutton palav made with secret family recipe.",
+          "price": "Rs. 220"
+        },
+        {
+          "name": "Chicken Chops",
+          "summary": "Homestyle chicken chops cooked in a fragrant green masala.",
+          "price": "Rs. 140"
+        },
+        {
+          "name": "Mutton Khaima",
+          "summary": "Rich and flavorful mince meat khaima curry.",
+          "price": "Rs. 50"
+        }
+      ],
+      "summary": "Ajji Mane Palav is a 75-year-old hidden home dining experience located in Nazarbad, Mysuru. Run across generations by Mrs. Saraswathy and her family, they serve comforting, authentic home-cooked chicken and mutton palav, chicken chops, and khaima curry served on leaf plates (patravalis) in a traditional home environment."
     }
   ],
-  "\ud83c\udfac 40 Years Of Rural Karnataka Hospitality: Ragi Mudde & Upsaaru Meals At Sri Durga Mess": [
+  "Sri Durga Veg Mess": [
     {
       "title": "\ud83c\udfac 40 Years Of Rural Karnataka Hospitality: Ragi Mudde & Upsaaru Meals At Sri Durga Mess",
       "link": "https://www.youtube.com/watch?v=aYPOHwtWU-A",
       "lat": 12.1209936,
       "long": 76.4702143,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "#29 hommaragalli hampapura post hdkote taluk, Karnataka 571125",
+      "ph_no": "+91 99017 08389",
+      "cuisine": [
+        "Karnataka",
+        "South Indian"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Ragi Mudde Meals",
+          "summary": "Traditional home-cooked rural meal with ragi mudde, soft chapatis, upsaaru, basaaru, local vegetable preparations, sandige, spicy condiments, and buttermilk.",
+          "price": "Rs. 70"
+        }
+      ],
+      "summary": "Run by Mr. Bhaskar and Mrs. Rajeshwari for over forty years, Sri Durga Veg Mess offers authentic, home-cooked rural Karnataka hospitality. Operating out of an extension of their home enroute to Kabini, this small village eatery serves simple, wholesome vegetarian meals centered around ragi mudde, upsaaru, and traditional accompaniments."
     }
   ],
   "Thupten & Dhasa Karma": [
@@ -26890,21 +26924,37 @@
         }
       ],
       "summary": "Located in the quiet Rabgaeling Tibetan Settlement near Nagarhole forest, these humble spots offer authentic Tibetan comfort food. Thupten is a home kitchen serving sensational wood-fired buff momos made to order, while Dhasa Karma offers soul-warming thukpa and delicious stir-fried chowmein."
-    }
-  ],
-  "Found Delicious Wood-Fired Momo, Thukpa & Chowmein At This Quiet Tibetan Village Near Nagarhole!": [
+    },
     {
       "title": "Found Delicious Wood-Fired Momo, Thukpa & Chowmein At This Quiet Tibetan Village Near Nagarhole!",
       "link": "https://www.youtube.com/watch?v=W-H-mXGbYH4",
       "lat": 12.2182372,
       "long": 76.2529876,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Rabgaeling Tibetan Settlement, Kurubarahosahalli, Karnataka 571105",
+      "ph_no": "",
+      "cuisine": [
+        "Tibetan"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Buff Momos",
+          "summary": "Fresh meat momos steamed to order over a traditional wood fire, packed with rich juices and served with chili chutney.",
+          "price": "Rs. 100"
+        },
+        {
+          "name": "Chicken Chowmein",
+          "summary": "Delicious stir-fried chicken noodles cooked Tibetan style.",
+          "price": ""
+        },
+        {
+          "name": "Chicken Thukpa",
+          "summary": "A comforting, soul-warming bowl of Tibetan noodle soup.",
+          "price": ""
+        }
+      ],
+      "summary": "Located in the Rabgaeling Tibetan settlement near Nagarhole, these village eateries offer authentic Tibetan comfort food. Highlights include fresh wood-fired buff momos prepared out of a humble home kitchen at Thupten, as well as soul-warming thukpa and chowmein at Dhasa Karma."
     }
   ],
   "Loved The Amazing Hospitality of This Small Family Run Biryani Shop! #shorts": [
@@ -27540,19 +27590,40 @@
       "summary": ""
     }
   ],
-  "North Karnataka Feast! MASSIVE Jolada Rotti Oota + Unique Belgaum Ice Cream! | Kamat Yatrinivas": [
+  "Kamat Restaurant": [
     {
       "title": "North Karnataka Feast! MASSIVE Jolada Rotti Oota + Unique Belgaum Ice Cream! | Kamat Yatrinivas",
       "link": "https://www.youtube.com/watch?v=14OJJVa_Tto",
       "lat": 12.9940573,
       "long": 77.6978363,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "3rd Floor, 1, Whitefield Main Rd, Garudachar Palya, Mahadevapura, Bengaluru, Karnataka 560048",
+      "ph_no": "+91 9845100888",
+      "cuisine": [
+        "North Karnataka",
+        "Karnataka",
+        "South Indian",
+        "Indian"
+      ],
+      "price": "$$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Special Jowar Bhakri Meal",
+          "summary": "A massive, authentic North Karnataka feast featuring Jolada Rotti (jowar bhakri) served with classic curries, gravies, chutneys, and regional accompaniments.",
+          "price": "Rs. 390"
+        },
+        {
+          "name": "Girmit Mandakki",
+          "summary": "A newly introduced, flavourful and spicy puffed rice snack traditional to North Karnataka.",
+          "price": ""
+        },
+        {
+          "name": "Belgaum Ice Cream",
+          "summary": "A unique and delicious dessert paying homage to a much-loved Belgaum sweet tradition.",
+          "price": ""
+        }
+      ],
+      "summary": "Kamat Yatrinivas in Whitefield, Bengaluru serves an authentic North Karnataka feast, continuing a legacy that introduced the Jolada Rotti Oota to the city in 1993. Managed by third-generation brothers, the restaurant features traditional handmade Jowar Bhakri meals, regional snacks like Girmit Mandakki, and unique Belgaum-inspired ice cream."
     }
   ],
   "Janatha Restaurant": [
@@ -27634,19 +27705,49 @@
       "summary": "Janatha Restaurant is a popular 24-hour highway eatery near Bilikere on the Mysuru-Kodagu Highway. Known as a lifeline for late-night drivers and early travellers, it serves round-the-clock hot meals including Thalassery biryanis, parottas, ghee rice, spicy chicken pepper fry, and tender mutton dry."
     }
   ],
-  "\ud83e\udd29 The ULTIMATE 18-Item Kerala Sadya for \u20b9140! Must-Try Malabar Food in a 100-Year-Old Home! 1980's": [
+  "1980's Restaurant": [
     {
       "title": "\ud83e\udd29 The ULTIMATE 18-Item Kerala Sadya for \u20b9140! Must-Try Malabar Food in a 100-Year-Old Home! 1980's",
       "link": "https://www.youtube.com/watch?v=ArtPI7KzVeY",
       "lat": 11.6207118,
       "long": 76.0864176,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Kalpetta Bypass Road, Gudalai, Kairali Nagar, Kalpetta, Kerala 673122",
+      "ph_no": "+91 79025 64444",
+      "cuisine": [
+        "Kerala",
+        "Malabar",
+        "South Indian"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Vegetarian Sadya",
+          "summary": "An 18-item authentic Kerala Sadya served on a banana leaf offering exceptional value.",
+          "price": "\u20b9140"
+        },
+        {
+          "name": "Chemeen Fry",
+          "summary": "Delicious, perfectly seasoned prawn fry.",
+          "price": "\u20b9300"
+        },
+        {
+          "name": "Avoli Polichathu",
+          "summary": "Pomfret fish cooked with a rich and flavorful masala.",
+          "price": "\u20b9300"
+        },
+        {
+          "name": "Chicken Kondatam",
+          "summary": "A playful and spicy Kerala-style chicken specialty.",
+          "price": "\u20b9230"
+        },
+        {
+          "name": "Mutton Pepper Fry",
+          "summary": "Warming mutton cooked in a robust pepper masala.",
+          "price": "\u20b9300"
+        }
+      ],
+      "summary": "Located in a 100-year-old traditional Malabar bungalow in Kalpetta, Wayanad, 1980's Restaurant is a popular eatery known for its authentic Nadan cuisine. It serves an incredible 18-item vegetarian Kerala Sadya alongside a variety of flavorful non-vegetarian seafood and meat dishes."
     }
   ],
   "Karavali Thindis": [
@@ -27714,19 +27815,54 @@
       "summary": "Olan Restaurant in Wayanad is a culinary gem led by two chefs dedicated to preserving authentic Kerala Nadan heritage. Rejecting multi-cuisine trends, they serve traditional homestyle dishes like Paal Parotta, Pidiyum Kozhiyum, and spicy Meen Molakathatu with Paal Kappa."
     }
   ],
-  "She Took a Break to Raise a Baby, Now Serves Family Recipes at Home! Sihi Suprabhatham Mane": [
+  "Sihi Suprabhatham Mane": [
     {
       "title": "She Took a Break to Raise a Baby, Now Serves Family Recipes at Home! Sihi Suprabhatham Mane",
       "link": "https://www.youtube.com/watch?v=7eLahd9xxoQ",
       "lat": 12.9106369,
       "long": 77.5881041,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "GROUND FLOOR, 1756, 18th Main Rd, beside VIGNESH JEWEL EMPIRE, Marenahalli, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+      "ph_no": "+91 70191 29298",
+      "cuisine": [
+        "Iyengar",
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Gojju Avalakki",
+          "summary": "Piquant, seasoned beaten rice dish rated 10/10.",
+          "price": "Rs. 50"
+        },
+        {
+          "name": "Kadagu Oggare",
+          "summary": "Traditional, flavorful mustard-tempered rice dish rated 8.5/10.",
+          "price": "Rs. 50"
+        },
+        {
+          "name": "Khara Pongal",
+          "summary": "Savory rice and lentil porridge cooked with spices, rated 8.5/10.",
+          "price": "Rs. 60"
+        },
+        {
+          "name": "Vel Pongal",
+          "summary": "Sweet rice and jaggery dish cooked in traditional Iyengar style, rated 8/10.",
+          "price": "Rs. 40"
+        },
+        {
+          "name": "Avalakki Idli",
+          "summary": "Soft steamed rice cakes made with beaten rice, served with chutney rated 9/10.",
+          "price": "Rs. 15 per idli"
+        },
+        {
+          "name": "Sor Kadubu",
+          "summary": "Steamed dumpling delicacy rated 9/10 with coconut chutney rated 10/10.",
+          "price": ""
+        }
+      ],
+      "summary": "Sihi Suprabhatham Mane in JP Nagar, Bengaluru, is a heartwarming breakfast eatery founded by Shree, who left her banking job to share authentic family recipes. Operating out of a dedicated home setting, they serve fresh, traditional Iyengar vegetarian breakfast specialties like Gojju Avalakki, Pongal, Vade, and Kadubu."
     }
   ],
   "Big Sadya & Secret Biryani TASTING! Wilton Wayanad's Most Popular Restaurant | Part 2": [
