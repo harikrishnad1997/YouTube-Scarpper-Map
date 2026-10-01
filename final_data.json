@@ -26509,19 +26509,44 @@
       "summary": "Khaana is a charming garden cafe in Kadri, Mangaluru, known for its affordable and authentic non-vegetarian coastal breakfast menu featuring items like Mutton Masala, Chicken Pulimunchi, and Yetti Pundi."
     }
   ],
-  "Sri Vasantha Benne Dosae: A Davanagere Cook\u2019s Tribute To His Guru": [
+  "Sri Vasantha Benne Dose Hotel": [
     {
       "title": "Sri Vasantha Benne Dosae: A Davanagere Cook\u2019s Tribute To His Guru",
       "link": "https://www.youtube.com/watch?v=jxjYek159cY",
       "lat": 14.449568,
       "long": 75.9058014,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "BIET Rd, MCC B Block, MCC, Davangere, Karnataka 577004",
+      "ph_no": "+91 87480 88911",
+      "cuisine": [
+        "South Indian",
+        "Karnataka",
+        "Davanagere"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Benne Dosae",
+          "summary": "Crispy and aromatic Davanagere-style butter dosa cooked over a hanchu.",
+          "price": ""
+        },
+        {
+          "name": "Khali Dosae",
+          "summary": "Soft, thick, and fluffy Davanagere-style dosa.",
+          "price": ""
+        },
+        {
+          "name": "Special Benne Masala Dosae",
+          "summary": "Signature butter dosa filled with spiced potato potato palya.",
+          "price": ""
+        },
+        {
+          "name": "Open Khali Dosae",
+          "summary": "Open-style soft dosa topped with generous dollops of fresh butter.",
+          "price": ""
+        }
+      ],
+      "summary": "Sri Vasantha Benne Dose Hotel is a popular eatery in Davanagere, named by owner Nagaraj as a tribute to his guru. The restaurant specializes in authentic, traditional Davanagere-style butter dosas cooked crisp on the outside and soft on the inside, served with signature coconut chutney and potato palya."
     }
   ],
   "Naidu Hotel": [
@@ -28086,19 +28111,6 @@
     {
       "title": "New Age Caf\u00e9, Momos & Gajbaje! Mangalore Food Trail! #shorts #foodvlog #mangalore #streetfood #food",
       "link": "https://www.youtube.com/watch?v=NQ2v0O4h7pQ",
-      "lat": 12.8859527,
-      "long": 74.8302737,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
-    {
-      "title": "New Age Caf\u00e9, Momos & Gajbaje! Mangalore Food Trail! #shorts #foodvlog #mangalore #streetfood #food",
-      "link": "https://www.youtube.com/watch?v=NQ2v0O4h7pQ",
       "lat": 12.8740187,
       "long": 74.8491206,
       "address": "",
@@ -28129,19 +28141,6 @@
       "link": "https://www.youtube.com/watch?v=LmNdfxWqXUw",
       "lat": 12.8806722,
       "long": 74.8433884,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
-    {
-      "title": "Momos, Tiramisu & Gajbaje! A Mangalore Foodie Evening! NATURALS SUNDAES, BUCO CAF\u00c9, DARJEELING MOMOS",
-      "link": "https://www.youtube.com/watch?v=LmNdfxWqXUw",
-      "lat": 12.8859527,
-      "long": 74.8302737,
       "address": "",
       "ph_no": null,
       "cuisine": null,
@@ -28284,19 +28283,82 @@
       "summary": ""
     }
   ],
-  "Mangalore Loves This Ice Cream Shop! Naturals Just Sundaes! #shorts #foodvlog #icecream #mangalore": [
+  "Naturals Just Sundaes": [
     {
       "title": "Mangalore Loves This Ice Cream Shop! Naturals Just Sundaes! #shorts #foodvlog #icecream #mangalore",
       "link": "https://www.youtube.com/watch?v=xs2B4L3og2Y",
       "lat": 12.8859527,
       "long": 74.8302737,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Shop 1 & 2, Yamuna Gardens, 4th Cross, Mannagudda Rd, opp. Shree Gokarnatheshwara College, Gandhinagar, Mangaluru, Karnataka 575003",
+      "ph_no": "+91 73535 31984",
+      "cuisine": [
+        "Desserts",
+        "Ice Cream"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [],
+      "summary": "Naturals Just Sundaes is a beloved ice cream parlor in Mangaluru offering a variety of fresh ice creams and sundaes."
+    }
+  ],
+  "Buco": [
+    {
+      "title": "New Age Caf\u00e9, Momos & Gajbaje! Mangalore Food Trail! #shorts #foodvlog #mangalore #streetfood #food",
+      "link": "https://www.youtube.com/watch?v=NQ2v0O4h7pQ",
+      "lat": 12.8859527,
+      "long": 74.8302737,
+      "address": "1st floor, GML complex, Arya Samaj Rd, Mallikatte, Balmatta, Mangaluru, Karnataka 575002",
+      "ph_no": "+91 81050 83888",
+      "cuisine": [
+        "Caf\u00e9",
+        "Coffee",
+        "Desserts"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [],
+      "summary": "Buco is a modern cafe and coffee shop in Mangaluru, representing the evolving food scene in the city with its specialty coffee and new-age ambiance."
+    }
+  ],
+  "Buco Caf\u00e9": [
+    {
+      "title": "Momos, Tiramisu & Gajbaje! A Mangalore Foodie Evening! NATURALS SUNDAES, BUCO CAF\u00c9, DARJEELING MOMOS",
+      "link": "https://www.youtube.com/watch?v=LmNdfxWqXUw",
+      "lat": 12.8859527,
+      "long": 74.8302737,
+      "address": "1st floor, GML complex, Arya Samaj Rd, Mallikatte, Balmatta, Mangaluru, Karnataka 575002",
+      "ph_no": "+91 81050 83888",
+      "cuisine": [
+        "Cafe",
+        "Coffee",
+        "Desserts",
+        "Italian"
+      ],
+      "price": "$$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Andres Passion (Passionfruit Vanilla Cold Brew)",
+          "summary": "Refreshing cold brew infused with passionfruit and vanilla flavors.",
+          "price": "Rs. 238"
+        },
+        {
+          "name": "Baguette Rusk",
+          "summary": "Crisp toasted baguette rusk, perfect to pair with coffee.",
+          "price": ""
+        },
+        {
+          "name": "Filter Coffee",
+          "summary": "Traditional, aromatic South Indian filter coffee.",
+          "price": "Rs. 85"
+        },
+        {
+          "name": "Tiramisu",
+          "summary": "Classic Italian coffee-flavored layered dessert.",
+          "price": "Rs. 285"
+        }
+      ],
+      "summary": "Buco Caf\u00e9 is a contemporary new-age coffee shop in Mangaluru known for its specialty cold brews, coffee, rusk, and tiramisu dessert in a relaxed setting."
     }
   ],
   "Delicious Fish Thali At Bengaluru\u2019s Oldest Seafood Restaurant! HOTEL FISHLAND | Ghee Roast, Fish Fry": [
@@ -28449,19 +28511,28 @@
       "summary": ""
     }
   ],
-  "The Iconic Sri Gajanana Set Dosae Of Hassan! #shorts #foodvlog #breakfast #dosa #hassan #foodie": [
+  "Sri Gajanana Refreshments": [
     {
       "title": "The Iconic Sri Gajanana Set Dosae Of Hassan! #shorts #foodvlog #breakfast #dosa #hassan #foodie",
       "link": "https://www.youtube.com/watch?v=ju16lp_BYi4",
       "lat": 13.0074363,
       "long": 76.1045447,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "Krishnaraja Puram 5th cross st, Sampige Road, Hassan, Karnataka 573201",
+      "ph_no": "+91 91643 82724",
+      "cuisine": [
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Set Dosa",
+          "summary": "Light and fluffy set dosa roasted with generous lashings of benne and tuppa, served with chutney-sauteed onion and a ladle of hot melted butter.",
+          "price": ""
+        }
+      ],
+      "summary": "Established over 30 years ago in Hassan, Sri Gajanana Refreshments is famous for its iconic light and fluffy set dosa roasted with butter and ghee, paired uniquely with chutney-sauteed onions and hot melted butter."
     }
   ],
   "Found The Best Tuppa Set Dosae & Benne Dosa Here! #shorts #foodvlog #hassan #dosa #indianfood": [
