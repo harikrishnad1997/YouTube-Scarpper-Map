@@ -26764,49 +26764,130 @@
       "summary": "Hotel Mayura in Hiriyur is a iconic, no-frills rustic eatery run by a husband-wife duo carrying forward a 37-year-old biryani legacy. Famous among locals who queue up early, they serve legendary Mutton and Chicken Biryanis, Mutton Chops Kurma, and Catla Fish Fry."
     }
   ],
-  "An Army Wife\u2019s Culinary Initiative! Mrs. Shobhana\u2019s All-Women Mess In Coorg: Vanitha Mess Gonikoppal": [
+  "Vanitha Mess": [
     {
       "title": "An Army Wife\u2019s Culinary Initiative! Mrs. Shobhana\u2019s All-Women Mess In Coorg: Vanitha Mess Gonikoppal",
       "link": "https://www.youtube.com/watch?v=m9Lh7C9mo-4",
       "lat": 12.1846396,
       "long": 75.9347365,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Arvathoklu, Gonikoppa, Karnataka 571213",
+      "ph_no": "+91 87626 50652",
+      "cuisine": [
+        "Kodava",
+        "Coorg",
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Meals with Fish Sambar",
+          "summary": "Wholesome homestyle South Indian vegetarian Oota served with rich fish sambar.",
+          "price": "Rs. 80"
+        },
+        {
+          "name": "Butterfish Fry",
+          "summary": "Fresh butterfish marinated in local masalas and fried fresh to order.",
+          "price": "Rs. 150"
+        },
+        {
+          "name": "Red Snapper Fry",
+          "summary": "Crispy fried red snapper flavored with local Kodagu spices.",
+          "price": "Rs. 120"
+        },
+        {
+          "name": "Mackerel Fry",
+          "summary": "Delicious homestyle mackerel fry cooked with quiet pride and local masalas.",
+          "price": "Rs. 120"
+        }
+      ],
+      "summary": "Founded by Mrs. Shobhana Goutham, an army officer's wife, Vanitha Mess is an all-women-run eatery in Gonikoppal, South Kodagu. The mess serves delicious, affordable homestyle vegetarian meals alongside fresh, fried fish marinated in signature local masalas."
     }
   ],
-  "70 Years of Tradition: Making Butter Mysore Pak \ud83e\uddc8 & Classic Tiffin \ud83e\udd5e at Indra Caf\u00e9 Paras, Mysuru": [
+  "Indra Caf\u00e9 Paras": [
     {
       "title": "70 Years of Tradition: Making Butter Mysore Pak \ud83e\uddc8 & Classic Tiffin \ud83e\udd5e at Indra Caf\u00e9 Paras, Mysuru",
       "link": "https://www.youtube.com/watch?v=-dpuakJxD3Q",
       "lat": 12.3101021,
       "long": 76.6502657,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "1740, Sayyaji Rao Rd, Devaraja Mohalla, Mandi Mohalla, Mysuru, Karnataka 570001",
+      "ph_no": "+91 99169 84455",
+      "cuisine": [
+        "South Indian",
+        "Karnataka",
+        "Sweets"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Butter Mysore Pak",
+          "summary": "A rich, melt-in-the-mouth classic sweet made with single-thread sugar syrup, rich khova, gram flour, ghee, and generous amounts of butter.",
+          "price": "Rs. 35 per piece"
+        },
+        {
+          "name": "Benne Masala Dosae",
+          "summary": "Old-fashioned butter dosa smeared with fiery kempu chutney, stuffed with potato palya, and sprinkled with chutney pudi.",
+          "price": "Rs. 100"
+        },
+        {
+          "name": "Badam Halwa",
+          "summary": "Rich and delicious classic almond halwa.",
+          "price": "Rs. 30 per cup"
+        },
+        {
+          "name": "Idli & Vade",
+          "summary": "Steamed idli and crispy vada served with an addictive South Canara-style sambar.",
+          "price": "Rs. 24 (Idli), Rs. 40 (Vade)"
+        },
+        {
+          "name": "Kesari Bath",
+          "summary": "A glistening, sweet semolina delicacy.",
+          "price": "Rs. 50"
+        }
+      ],
+      "summary": "Established in 1956, Indra Caf\u00e9 Paras is a iconic fourth-generation restaurant and sweet institution in Mysuru. It is best known for its mouthwatering Butter Mysore Pak crafted in-house, alongside nostalgic South Indian breakfast items like Benne Masala Dosa and Idli-Vade served with addictive South Canara-style sambar."
     }
   ],
-  "Cooking Nati Koli Palav in 4-Kilo Batches! 30-Year-Old Legacy Non-Veg Supriya Mess in Mysuru \ud83c\udf72\ud83d\udd25": [
+  "Supriya Restaurant": [
     {
       "title": "Cooking Nati Koli Palav in 4-Kilo Batches! 30-Year-Old Legacy Non-Veg Supriya Mess in Mysuru \ud83c\udf72\ud83d\udd25",
       "link": "https://www.youtube.com/watch?v=5qqrcDFxtdU",
       "lat": 12.304613,
       "long": 76.6482551,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Kshetraiah Road, Chowk, near Banumaiah, Devamba Agrahara, Mysuru, Karnataka 570004",
+      "ph_no": "+91 99169 84455",
+      "cuisine": [
+        "South Indian",
+        "Karnataka",
+        "Mysuru"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Nati Koli Palav",
+          "summary": "Rustic country chicken palav cooked in small batches blending long-grain Basmati and short-grain Kolam rice.",
+          "price": "Rs. 220"
+        },
+        {
+          "name": "Liver + Country Eggs",
+          "summary": "Flavorful liver dish served alongside country chicken eggs.",
+          "price": ""
+        },
+        {
+          "name": "Khaima Curry",
+          "summary": "Traditional spiced minced meat curry.",
+          "price": ""
+        },
+        {
+          "name": "Mutton Chops Curry",
+          "summary": "Tender mutton chops prepared in a rich, flavorful gravy.",
+          "price": ""
+        }
+      ],
+      "summary": "Supriya Mess is a 30-year-old iconic eating house in Mysuru celebrated for its rustic, home-style non-vegetarian delicacies. They prepare their signature Nati Koli Palav in small 2-kilogram batches to ensure peak freshness alongside a delicious selection of mutton, chicken, and offal dishes."
     }
   ],
   "Chow Chow Bath, Coffee \u2615 And Community: The Inspiring Story of Mysuru's CCBC Caf\u00e9 \ud83c\udf7d\ufe0f": [
@@ -26982,19 +27063,29 @@
       "summary": "Located in the Rabgaeling Tibetan settlement near Nagarhole, these village eateries offer authentic Tibetan comfort food. Highlights include fresh wood-fired buff momos prepared out of a humble home kitchen at Thupten, as well as soul-warming thukpa and chowmein at Dhasa Karma."
     }
   ],
-  "Loved The Amazing Hospitality of This Small Family Run Biryani Shop! #shorts": [
+  "Manjanna Military Hotel": [
     {
       "title": "Loved The Amazing Hospitality of This Small Family Run Biryani Shop! #shorts",
       "link": "https://www.youtube.com/watch?v=MQA4vv_JHNM",
       "lat": 13.042449,
       "long": 77.5765477,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "15, Bhoopasandra Main Rd, RMV 2nd Stage, RMV, Stage 2, R.M.V. 2nd Stage, Bengaluru, Karnataka 560094",
+      "ph_no": "+91 98200 23530",
+      "cuisine": [
+        "Biryani",
+        "Karnataka",
+        "South Indian"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Biryani",
+          "summary": "Heartwarming, traditional biryani served with humble and welcoming family hospitality.",
+          "price": ""
+        }
+      ],
+      "summary": "A heartwarming, small family-run military hotel in Bengaluru offering authentic biryani with exceptionally humble, gracious, and warm hospitality."
     }
   ],
   "HHS & HMS Restaurant": [
@@ -27473,51 +27564,106 @@
         }
       ],
       "summary": "Brik Oven is one of Bengaluru's premier pizzerias, celebrated for its artisanal wood-fired pizzas, high-quality ingredients, and expertly crafted sourdough crusts."
-    }
-  ],
-  "The Bengaluru Pizza Trail \ud83c\udf55 In Search Of The City\u2019s Preferred Slice!": [
+    },
     {
       "title": "The Bengaluru Pizza Trail \ud83c\udf55 In Search Of The City\u2019s Preferred Slice!",
       "link": "https://www.youtube.com/watch?v=uoHqFlEn7H0",
       "lat": 12.9701444,
       "long": 77.6421307,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "872/a, 80 Feet Rd, HAL 2nd Stage, New Tippasandra, Bengaluru, Karnataka 560075",
+      "ph_no": "+91 80 4204 2111",
+      "cuisine": [
+        "Pizza",
+        "Italian"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Oink Oink",
+          "summary": "Topped with savory pork, rated 10/10.",
+          "price": "870"
+        },
+        {
+          "name": "The Anna",
+          "summary": "Delicious house creation, rated 8.5/10.",
+          "price": ""
+        },
+        {
+          "name": "Bird In Hand",
+          "summary": "Flavorful chicken pizza, rated 8.5/10.",
+          "price": ""
+        },
+        {
+          "name": "Margherita 2.0",
+          "summary": "An elevated classic vegetarian margherita pizza, rated 8/10.",
+          "price": "620"
+        }
+      ],
+      "summary": "Brik Oven is an established artisanal pizzeria in Bengaluru, celebrated for its fire-baked sourdough and handcrafted dough, featuring exceptional selections like the top-rated Oink Oink pizza."
     }
   ],
-  "Wayanad\u2019s Best Kept Secret? \ud83e\udd2b Authentic Wood-Fired Meat Feast at Raviyettan Kada, Kolagapara \ud83c\udf56\ud83d\udd25": [
+  "Raviyettan Kada": [
     {
       "title": "Wayanad\u2019s Best Kept Secret? \ud83e\udd2b Authentic Wood-Fired Meat Feast at Raviyettan Kada, Kolagapara \ud83c\udf56\ud83d\udd25",
       "link": "https://www.youtube.com/watch?v=4lmvpe3kiac",
       "lat": 11.6666654,
       "long": 76.207328,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Kolagappara School Road, Kolagapaara, Krishnagiri, Kerala 673591",
+      "ph_no": "+91 70126 66464",
+      "cuisine": [
+        "Kerala",
+        "South Indian"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Pork Fry",
+          "summary": "Crispy and flavorful wood-fired pork fry, rated a perfect 10/10.",
+          "price": "Rs. 110 / 160"
+        },
+        {
+          "name": "Pork Curry",
+          "summary": "Rich and comforting traditional wood-fired pork curry.",
+          "price": ""
+        },
+        {
+          "name": "Pork Chilli",
+          "summary": "Spicy and tender pork cooked with chili and spices over wood fire.",
+          "price": "Rs. 180"
+        },
+        {
+          "name": "Pork Barbecue",
+          "summary": "Smoky wood-fired pork barbecue.",
+          "price": "Rs. 125 / 250"
+        },
+        {
+          "name": "Pork Ribs",
+          "summary": "Succulent pork ribs cooked on traditional wood-fired stoves.",
+          "price": "Rs. 260"
+        }
+      ],
+      "summary": "Located in the village of Kolagapara in Wayanad, Raviyettan Kada is a hidden gem and home kitchen run by Ravi and his family. They cook authentic meaty delights, particularly pork specialties, over traditional wood-fired stoves, offering smoky aromas, rustic charm, and extremely affordable local meals."
     }
   ],
-  "Coconut Grove: Does the Food Still Deliver? \ud83c\udf34\ud83c\udf64": [
+  "Coconut Grove": [
     {
       "title": "Coconut Grove: Does the Food Still Deliver? \ud83c\udf34\ud83c\udf64",
       "link": "https://www.youtube.com/watch?v=JG7N4iuV0SY",
       "lat": 12.9750123,
       "long": 77.6019017,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "No. 86, Spencer's Building, Opposite Amoeba, Church Street, Brigade Road - 560001, Bengaluru, Karnataka",
+      "ph_no": "+91 80 2559 6149",
+      "cuisine": [
+        "Coastal Indian",
+        "Kerala",
+        "South Indian"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [],
+      "summary": "Coconut Grove is an iconic 90s dining destination located on Church Street in Bengaluru, popular for its nostalgic coastal and Kerala-style dishes."
     }
   ],
   "The Review: Coconut Grove \u2013 Does Bengaluru's 90s Coastal Gem Still Deliver the Spice? \ud83c\udf36\ufe0f": [
