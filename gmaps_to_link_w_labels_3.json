@@ -33305,7 +33305,51 @@
             "description": "Sometimes the most rewarding food experiences come from the most unassuming corners of the city. \ud83d\udccd Today, I\u2019m in JP Nagar at Swathi Restaurant, a spot that has been quietly serving robust coastal Mangalorean fare for 18 years. \ud83c\udf0a\ud83d\udc1a\n\nWhat makes this place stand out is the quiet dedication behind the scenes. The owner, Vasant Shetty, personally visits the fish market every single morning to handpick the freshest catch\u2014from crabs and prawns to squid and seasonal fish. \ud83e\udd91\ud83d\udc1f\n\nI dropped in unannounced and settled down for a spread that was flavourful, robustly spiced, and impressively fresh. It isn't about being fancy; it\u2019s about a kitchen that stays true to its roots and remains incredibly light on the pocket.\n \ud83c\udf5b\u2728 If you are a seafood lover in South Bengaluru looking for quality without the fuss, Swathi is definitely a place to check out. \ud83c\udf7d\ufe0f\ud83d\ude4c\n\nWhat I ate:\nFish Meals\nRs. 150\n8/10 (10/10 for value) \n\nPomfret Tava Fry\nRs. 410\n9/10 \n\nPrawn Ghee Roast\nRs. 300\n8.5/10 \n\nBondas Masala\nRs. 240\n8.5/10 \n\nAnjal Masala Fry\nRs. 340\n8/10 \n\nChicken Sukka\nRs. 150\n8/10 \n\nCrab Sukka\nRs. 250\n6.5/10 \n\nChicken Biryani\nRs. 150\n7/10 \n\nHappy Eating! \ud83d\ude4f\nKripal Amanna\nGourmet On The Road & Founder,\nFood Lovers TV\n\n\ud83d\udccd Details:\nSwathi Restaurant, No. 25/1, 9th Cross Rd, opposite Lakshmi Venkateshwara Temple, Marenahalli, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078; Tel: +91 99026 27945\nTimings: 12PM - 4PM, 7PM - 11PM  \nGoogle Maps: https://maps.app.goo.gl/W2eywaXWbNtHU1sg8   \n\n\u2764\ufe0f SUPPORT FOOD LOVERS TV \u2764\ufe0f\nIf you enjoyed this video, please consider supporting Food Lovers TV by joining our membership community on YouTube by hitting the \u2018Join\u2019 button below or on the home page. You could pledge a nominal sum and receive special privileges like behind-the-scenes footage, shoot updates, access to live Q&A's and more. You could also support us on our Patreon page.\n\n\ud83d\udd17https://www.youtube.com/channel/UC-Lq6oBPTgTXT_K-ylWL6hg/join\nhttps://www.patreon.com/foodloverstv\n\nOur vision at Food Lovers TV is to be India\u2019s most vibrant, and more importantly, trusted food content platform. As you may be aware, content on Food Lovers TV is free of commercial constraints as guided by our credo: truth in food. We seek out deserving stories to be told sans any financial consideration from eateries featured. We have chosen not to put up a paywall as we want our rich content to remain accessible to all. Independent food journalism \u2013 free for everyone, supported by those who can.\n\nYou can also make a one-time, direct contribution via UPI to our bank account (UPI details as below)\nA/c name: Hospitality Initiatives India Pvt. Ltd.\neditor-foodlovers.in@okhdfcbank\nPlease email the transfer details to info@foodlovers.in once you have made a contribution.\nNote: This is purely voluntary, no compulsions.\nThank you.\nTeam FLTV\n\ud83d\ude4f\ud83d\ude0b\n\n#gourmetontheroad  #foodloverstv #KripalAmanna #SeafoodDiscovery #MangaloreanFood #BengaluruEats #JPNagar #CoastalFlavours #FishFry #FreshSeafood #BangaloreFoodScene #LocalEats #VasantShetty #ValueForMoney #southbangalore \n\n\ud83d\udd17Subscribe: https://www.youtube.com/@FoodLoversTV\nConnect: \ud83d\udcf8 Instagram: https://www.instagram.com/foodloversindia\nhttps://www.instagram.com/kripalamanna\n\ud83d\udcd8 Facebook: https://www.facebook.com/foodloversmag\nSubscribe To our second channel at https://www.youtube.com/c/KripalAmannaVlogs",
             "transcription": "No transcript available (type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts')",
             "lat": 12.910522,
-            "long": 77.5862278
+            "long": 77.5862278,
+            "rest_name": "Swathi Restaurant",
+            "address": "No. 25/1, 9th Cross Rd, opposite Lakshmi Venkateshwara Temple, Marenahalli, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+            "ph_no": "+91 99026 27945",
+            "cuisine": [
+                "Mangalorean",
+                "Coastal Indian",
+                "South Indian",
+                "Seafood"
+            ],
+            "price": "$",
+            "v_n_ng": "Non-veg",
+            "best_dishes": [
+                {
+                    "name": "Fish Meals",
+                    "summary": "Classic coastal fish meal served at an incredible value.",
+                    "price": "Rs. 150"
+                },
+                {
+                    "name": "Pomfret Tava Fry",
+                    "summary": "Fresh pomfret pan-fried with robust Mangalorean spices.",
+                    "price": "Rs. 410"
+                },
+                {
+                    "name": "Prawn Ghee Roast",
+                    "summary": "Juicy prawns cooked in rich ghee roast masala.",
+                    "price": "Rs. 300"
+                },
+                {
+                    "name": "Bondas Masala",
+                    "summary": "Flavorful, spicy squid masala prepare coastal style.",
+                    "price": "Rs. 240"
+                },
+                {
+                    "name": "Anjal Masala Fry",
+                    "summary": "Seer fish (Anjal) coated in flavorful masala and fried.",
+                    "price": "Rs. 340"
+                },
+                {
+                    "name": "Chicken Sukka",
+                    "summary": "Traditional dry spiced Mangalorean style chicken.",
+                    "price": "Rs. 150"
+                }
+            ],
+            "summary": "Located in JP Nagar, Bengaluru, Swathi Restaurant has been serving honest, fresh, and robust Mangalorean coastal fare for over 18 years. Owner Vasant Shetty handpicks fresh seafood daily from the fish market, delivering authentic flavours at incredibly budget-friendly prices."
         }
     ],
     "https://maps.app.goo.gl/MqevGPUy545JzBV6A": [
@@ -33315,7 +33359,34 @@
             "description": "When you are on a road trip, you are looking for a tasty, nourishing meal to sustain you. I found this Akki Rotti Oota at a fantastic stop on the Bengaluru-Mangaluru Highway, set amidst a beautiful, verdant landscape! \ud83c\udf3f\nWhere is this spot? I found this meal at The Ossoor, Sakleshpur. Did it hit the spot? Watch to find out! \ud83d\udc47\n\nMy pick of the lot was the soft Akki Rotti paired with the flavourful Saagu, and followed by the sweet Sabbakki Payasa. Oh! And the great filter caf\u00e9 after lunch ensures you don't doze off at the wheel! \u2615\ufe0f\n\nWatch the full Shiradi Ghat Road Report where this meal was first featured: https://youtu.be/gWPDpzvH8Gk\n\nHappy Eating! \ud83d\ude4f\nKripal Amanna\nGourmet On The Road & Founder,\nFood Lovers TV\n\n\ud83d\udccd Details:\nThe Ossoor, Bangalore - Mangalore Hwy, Kollahalli, Hosur Estate, Karnataka 573134; Tel: +91 98459 25418\nTimings: 630AM \u2013 11PM \nGoogle Maps: https://maps.app.goo.gl/MqevGPUy545JzBV6A \n\n\n\u2764\ufe0f SUPPORT FOOD LOVERS TV \u2764\ufe0f\nIf you enjoyed this video, please consider supporting Food Lovers TV by joining our membership community on YouTube by hitting the \u2018Join\u2019 button below or on the home page. You could pledge a nominal sum and receive special privileges like behind-the-scenes footage, shoot updates, access to live Q&A's and more. You could also support us on our Patreon page.\n\n\ud83d\udd17https://www.youtube.com/channel/UC-Lq6oBPTgTXT_K-ylWL6hg/join\nhttps://www.patreon.com/foodloverstv\n\nOur vision at Food Lovers TV is to be India\u2019s most vibrant, and more importantly, trusted food content platform. As you may be aware, content on Food Lovers TV is free of commercial constraints as guided by our credo: truth in food. We seek out deserving stories to be told sans any financial consideration from eateries featured. We have chosen not to put up a paywall as we want our rich content to remain accessible to all. Independent food journalism \u2013 free for everyone, supported by those who can.\n\nYou can also make a one-time, direct contribution via UPI to our bank account (UPI details as below)\nA/c name: Hospitality Initiatives India Pvt. Ltd.\neditor-foodlovers.in@okhdfcbank\nPlease email the transfer details to info@foodlovers.in once you have made a contribution.\nNote: This is purely voluntary, no compulsions.\nThank you.\nTeam FLTV\n\ud83d\ude4f\ud83d\ude0b\n\n#AkkiRottiOota #RoadTripFood #GourmetOnTheRoad #foodloverstv #KripalAmanna #KarnatakaFood #FilterCaf\u00e9 #MangaloreHighway #TheOssoor #Sakleshpur #SouthIndianCuisine #RiceRoti #TravelFood #VegFood\n\n\ud83d\udd17Subscribe: https://www.youtube.com/@FoodLoversTV\nConnect: \ud83d\udcf8 Instagram: https://www.instagram.com/foodloversindia\nhttps://www.instagram.com/kripalamanna\n\ud83d\udcd8 Facebook: https://www.facebook.com/foodloversmag\nSubscribe To our second channel at https://www.youtube.com/c/KripalAmannaVlogs",
             "transcription": "No transcript available (type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts')",
             "lat": 12.9525358,
-            "long": 75.818653
+            "long": 75.818653,
+            "rest_name": "The Ossoor",
+            "address": "Bangalore - Mangalore Hwy, Kollahalli, Hosur Estate, Sakleshpur, Karnataka 573134",
+            "ph_no": "+91 98459 25418",
+            "cuisine": [
+                "South Indian",
+                "Karnataka"
+            ],
+            "price": "$",
+            "v_n_ng": "Veg",
+            "best_dishes": [
+                {
+                    "name": "Akki Rotti with Saagu",
+                    "summary": "Soft rice-flour flatbread paired with a rich and flavourful vegetable saagu.",
+                    "price": ""
+                },
+                {
+                    "name": "Sabbakki Payasa",
+                    "summary": "A sweet South Indian dessert made with tapioca pearls (sago), milk, and cardamom.",
+                    "price": ""
+                },
+                {
+                    "name": "Filter Coffee",
+                    "summary": "Strong and refreshing traditional South Indian filter coffee served post-meal.",
+                    "price": ""
+                }
+            ],
+            "summary": "Set amidst a beautiful verdant landscape along the Bengaluru-Mangaluru Highway in Sakleshpur, The Ossoor is a popular highway stop offering a tasty and nourishing Akki Rotti Oota meal along with traditional South Indian filter coffee."
         }
     ],
     "https://maps.app.goo.gl/KSt4vSZHL2JUV4wd6": [
@@ -33439,7 +33510,30 @@
             "description": "WATCH THE DISHES LAND! \ud83e\udd2f This is a sneak peek into the MASSIVE North Karnataka Jolada Rotti Oota (Jowar Bhakri Feast) at Kamat Yatrinivas! \ud83c\udf5a\nI got to film the satisfying moment all the authentic dishes\u2014from the fresh rotti and greens to the savory condiments and the glorious, drizzled Hollige\u2014land on the banana leaf!\nIf this preview has you drooling, you must watch the full review! We talk to the 3rd generation owners, see the rotti being made, and try a unique Belgaum dessert.\nClick to watch the full experience! \ud83d\udc47\nFull Video Link: https://youtu.be/14OJJVa_Tto\n\n\ud83d\udccd Details:\nKamat Restaurant, 3rd Floor, 1, Whitefield Main Rd, Garudachar Palya, Mahadevapura, Bengaluru, Karnataka 560048; Tel: +91 9845100888\nTimings: 7AM \u2013 1030PM \nGoogle Maps: https://maps.app.goo.gl/oi7WNXUHJiF3vCf88  \n\n#gourmetontheroad  #KripalAmanna #foodloverstv #JoladaRottiOota #KamatYatrinivas #NorthKarnatakaFood #IndianFood #FoodVideo #MASSIVEfeast",
             "transcription": "No transcript available (type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts')",
             "lat": 12.9940573,
-            "long": 77.6978363
+            "long": 77.6978363,
+            "rest_name": "Kamat Restaurant",
+            "address": "3rd Floor, 1, Whitefield Main Rd, Garudachar Palya, Mahadevapura, Bengaluru, Karnataka 560048",
+            "ph_no": "+91 9845100888",
+            "cuisine": [
+                "North Karnataka",
+                "South Indian",
+                "Indian"
+            ],
+            "price": "$",
+            "v_n_ng": "Veg",
+            "best_dishes": [
+                {
+                    "name": "Jolada Rotti Oota",
+                    "summary": "Massive authentic North Karnataka Jowar Bhakri feast served on a banana leaf with fresh rottis, greens, rice, and savory condiments.",
+                    "price": ""
+                },
+                {
+                    "name": "Holige",
+                    "summary": "Traditional sweet flatbread drizzled with ghee.",
+                    "price": ""
+                }
+            ],
+            "summary": "Kamat Restaurant serves a massive and authentic North Karnataka Jolada Rotti Oota (Jowar Bhakri Feast) served on banana leaves, accompanied by fresh rottis, greens, rich condiments, and delicious sweet Holige."
         },
         {
             "title": "North Karnataka Feast! MASSIVE Jolada Rotti Oota + Unique Belgaum Ice Cream! | Kamat Yatrinivas",
@@ -33743,7 +33837,46 @@
             "description": "Sulthan Bathery is for most an entry point into Wayanad, Kerala, and for travellers and locals alike, Wilton Restaurant in this town is perhaps the default stop for a meal. Out here, traditional cooks work alongside professional chefs to serve up a menu that is not only rooted in the culinary ethos of the land but is also open enough to assimilate other Indian and world flavours with serious proficiency.\n\nI spent four hours here on my recent Wayanad food tour, and after watching the coming together of some of the dishes (as seen in Part 1), I finally sat down to devour the incredible Seafood Sadya and their famous Wilton Biryani! \ud83e\udd24 Plus, I try \"some more\" of their highly-rated local specialties.\n\nIf you loved seeing the massive kitchen operation in Part 1, you won't want to miss the incredible flavors in Part 2!\n\nWatch Part 1 (The Kitchen Tour) here: \ud83d\udd17 https://youtu.be/plVkgLFpA3E\n\nWhat I ate:\n\nMandi (rice only)\n9/10\n\nAatinkaalu soup (goat trotter soup)\nRs. 330 ( for a big bowl that should feed two)\n9/10\n\nSeafood Sadya\nRs. 395 (great value)\nOverall 8.5/10; my top picks: squid roast (9/10),. crab masala (9/10), fish molagathatu (10/10), fish peera (9/10), fish pickle (10/10)\n\nMutton Biryani\nRs. 360\n9/10 (the rice 10/10)\n\nChicken 65\nRs. 190 (small portion)\n8.5/10\n\nHappy Eating! \ud83d\ude4f\nKripal Amanna\nGourmet On The Road & Founder,\nFood Lovers TV\n\n\ud83d\udccd Details:\nWilton Restaurant, Dhottappankulam, NH 766, Sultan Bathery, Kerala 673592; Tel: +91 79025 64444\nTimings: 7:00 AM \u2013 11:00 PM \nGoogle Maps: https://maps.app.goo.gl/QFTcmrGrtmBPtYyq7\n\n\u2764\ufe0f SUPPORT FOOD LOVERS TV \u2764\ufe0f\nIf you enjoyed this video, please consider supporting Food Lovers TV by joining our membership community on YouTube by hitting the \u2018Join\u2019 button below or on the home page. You could pledge a nominal sum and receive special privileges like behind-the-scenes footage, shoot updates, access to live Q&A's and more. You could also support us on our Patreon page.\n\n\ud83d\udd17https://www.youtube.com/channel/UC-Lq6oBPTgTXT_K-ylWL6hg/join\nhttps://www.patreon.com/foodloverstv\n\nOur vision at Food Lovers TV is to be India\u2019s most vibrant, and more importantly, trusted food content platform. As you may be aware, content on Food Lovers TV is free of commercial constraints as guided by our credo: truth in food. We seek out deserving stories to be told sans any financial consideration from eateries featured. We have chosen not to put up a paywall as we want our rich content to remain accessible to all. Independent food journalism \u2013 free for everyone, supported by those who can.\n\nYou can also make a one-time, direct contribution via UPI to our bank account (UPI details as below)\nA/c name: Hospitality Initiatives India Pvt. Ltd.\neditor-foodlovers.in@okhdfcbank\nPlease email the transfer details to info@foodlovers.in once you have made a contribution.\n\nNote: This is purely voluntary, no compulsions.\nThank you.\nTeam FLTV\n\ud83d\ude4f\ud83d\ude0b\n\n#GourmetOnTheRoad #foodloverstv #KripalAmanna #WiltonWayanad #WiltonRestaurant #WayanadFood #SulthanBathery #KeralaRestaurant #SeafoodSadya #WiltonBiryani #BiryaniTasting #KeralaFood #KeralaCuisine #IndianFood #Sadya #FoodReview #FoodTravel #IndianFoodie\n\n\ud83d\udd17Subscribe: https://www.youtube.com/@FoodLoversTV\nConnect: \ud83d\udcf8 Instagram: https://www.instagram.com/foodloversindia\nhttps://www.instagram.com/kripalamanna\n\ud83d\udcd8 Facebook: https://www.facebook.com/foodloversmag\nSubscribe To our second channel at https://www.youtube.com/c/KripalAmannaVlogs",
             "transcription": "No transcript available (type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts')",
             "lat": 11.6585731,
-            "long": 76.2444123
+            "long": 76.2444123,
+            "rest_name": "Wilton Restaurant",
+            "address": "Dhottappankulam, NH 766, Sultan Bathery, Kerala 673592",
+            "ph_no": "+91 79025 64444",
+            "cuisine": [
+                "Kerala",
+                "South Indian",
+                "Indian",
+                "Seafood"
+            ],
+            "price": "$$",
+            "v_n_ng": "Non-veg",
+            "best_dishes": [
+                {
+                    "name": "Seafood Sadya",
+                    "summary": "Extensive seafood feast with standouts including squid roast, crab masala, fish molagathatu, fish peera, and fish pickle.",
+                    "price": "Rs. 395"
+                },
+                {
+                    "name": "Mutton Biryani",
+                    "summary": "Famous Wilton mutton biryani with exceptionally flavorful rice.",
+                    "price": "Rs. 360"
+                },
+                {
+                    "name": "Aatinkaalu Soup",
+                    "summary": "Flavorful goat trotter soup served in a large portion suitable for two.",
+                    "price": "Rs. 330"
+                },
+                {
+                    "name": "Chicken 65",
+                    "summary": "Classic crispy spicy chicken appetizer.",
+                    "price": "Rs. 190"
+                },
+                {
+                    "name": "Mandi (rice only)",
+                    "summary": "Fragrant and flavorful mandi rice.",
+                    "price": ""
+                }
+            ],
+            "summary": "Wilton Restaurant in Sultan Bathery, Wayanad, is a popular dining destination blending traditional regional cooks with professional chefs. It serves an extensive menu featuring local Kerala delicacies, seafood sadya, and their signature biryanis."
         },
         {
             "title": "500 Guests! Kerala\u2019s Biggest Restaurant? Wilton Kitchen Tour: Secret Biryani & Seafood Sadya! Part 1",
@@ -34369,7 +34502,24 @@
             "description": "Watch the complete episode at https://youtu.be/md_pfQQycqU and subscribe for more like this.\n\nDetails:\nPalm Grove, No 4, 74/4, Residency Road, 3rd Cross Rd, behind Ballal Residency, Bengaluru, Karnataka 560025; tel: +91 80 2559 7275; timings: 7am to 1030pm; google maps coordinates: https://maps.app.goo.gl/CoTLeDX7315wWcs98    \n\n#thereview #kripalamanna #thereviewbykripalamanna #restaurantreview #gourmetontheroad #kripalamanna #foodloverstv #truthinfood #foodloversindia #palmgrove #ballalresidency #vegetarian #bengaluru #bangalore",
             "transcription": "No transcript available (type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts')",
             "lat": 12.9714814,
-            "long": 77.6059554
+            "long": 77.6059554,
+            "rest_name": "Palm Grove",
+            "address": "No 4, 74/4, Residency Road, 3rd Cross Rd, behind Ballal Residency, Bengaluru, Karnataka 560025",
+            "ph_no": "+91 80 2559 7275",
+            "cuisine": [
+                "South Indian",
+                "Vegetarian"
+            ],
+            "price": "$$",
+            "v_n_ng": "Veg",
+            "best_dishes": [
+                {
+                    "name": "Veg Meal",
+                    "summary": "A good old-fashioned traditional vegetarian meal served in a vintage setting.",
+                    "price": ""
+                }
+            ],
+            "summary": "Palm Grove, located at Ballal Residency in Bengaluru, is a vintage vegetarian restaurant celebrated for its classic, good old-fashioned vegetarian meals."
         },
         {
             "title": "Delicious South Indian Veg Thali & More At This Popular, Old World Bengaluru Restaurant! PALM GROVE",
@@ -34377,7 +34527,40 @@
             "description": "#ballalresidency #vegetarian #bangalore\n\npalm grove, palm grove restaurant, balal residency hotel, residency road, vegetarian restaurant, south indian cuisine, north indian cuisine, breakfast, mangalorean dishes, tiffin, dosa, thali, lunch, meals, old school vegetarian restaurant in the heart of bengaluru, bangalore, the review by kripal amanna, restaurant review, bengaluru, bangalore, kripal amanna, food review, food review show, new show, where to eat in bengaluru, restaurants of bangalore, best restaurants of bangalore, popular restaurants, restaurants from the 90s, kripal amanna, gourmet on the road, food lovers tv, truth in food \n\nI remember when this restaurant opened in the heart of Bengaluru in 1998, it was a popular destination for vegetarian dining in its cosy, comfortable ambience. However, since then, I had forgotten all about Palm Grove at Ballal Residency hotel on Residency Road. So when it came up as a recommendation for the 90s restaurant feature in the first season of our new show, the Review, I had to give it a go. And I must say, I was pleasantly surprised with the fare I tasted. From a robustly flavoured bonda rasam to sumptuously tasty South Indian thali and more. Regulars also favour their tiffin menu, so much so that long queues of customers are common here on weekends, I\u2019m told. If you\u2019re looking for pleasing, vegetarian fare in an atmosphere that has an old school vibe, definitely reconnect with this old Bengaluru gem.  \n\nI hope you\u2019re enjoying my outings in \u2018The Review\u2019. In its first season I am visiting Bengaluru restaurants from the nineties, that even with the passage of time are as relevant for a special outing as they were back then.\n\nDo drop a comment and let me know what you think of the show. Also, please subscribe and hit the bell to stay notified each time we post an episode. \n\nHappy eating!\n\nKripal Amanna\nGourmet On The Road, \nFood Lovers TV\n\nWhat I Ate:\n\nPulpy Grape Juice\nRs. 155\n7.5/10\n\nBonda Rasam\nRs. 79\n9/10\n\nSouth Indian Thali\nRs. 242 (limited)\n8/10\n\nBasundi\nRs. 115 \n8/10\n\nLink to The Review playlist: https://www.youtube.com/playlist?list=PLri_37vf6mmo_BHoszhAe-CDe2u10FJdZ \n\nSubscribe To our second channel at https://www.youtube.com/c/KripalAmannaVlogs \n\nDetails:\nPalm Grove, No 4, 74/4, Residency Road, 3rd Cross Rd, behind Ballal Residency, Bengaluru, Karnataka 560025; tel: +91 80 2559 7275; timings: 7am to 1030pm; google maps coordinates: https://maps.app.goo.gl/CoTLeDX7315wWcs98    \n\nSUPPORT FOOD LOVERS \nIf you enjoyed this video, please consider supporting Food Lovers TV by joining our membership community on YouTube by hitting the \u2018join\u2019 button below or on the home page. You could pledge a nominal sum and receive special privileges like behind the scenes footage, shoot updates, access to live q&a\u2019s and more. \n\nYou could also support us on our Patreon page. For more info, check out the links below. \nhttps://www.youtube.com/channel/UC-Lq6oBPTgTXT_K-ylWL6hg/join\nhttps://www.patreon.com/foodloverstv \n\nOur vision at Food Lovers TV is to be India\u2019s most vibrant, and more  importantly, trusted food content platform. As you may be aware, content on Food Lovers TV is free of commercial constraints as guided by our credo: truth in food. We seek out deserving stories to be told sans any financial consideration from eateries featured. We have chosen not to put up a paywall as we want our rich content to remain accessible to all. Independent food journalism \u2013 free for everyone, supported by those who can.\n\nYou can also make a one time, direct contribution via upi to our bank account (upi details as below) \nA/c name: Hospitality Initiatives India Pvt. Ltd.\neditor-foodlovers.in@okhdfcbank\nPlease email the transfer details to info@foodlovers.in once you have made a contribution.\n\nMembers of Food Lovers TV Family Tier on Patreon:\nTuhina Roy\nEsupatham Nelson\nYou too can be part of the Food Lovers Patron Network. Visit https://www.patreon.com/foodloverstv to join the Food Lovers family \n\nYou too can be part of the Food Lovers YouTube Community. Visit https://www.youtube.com/channel/UC-Lq6oBPTgTXT_K-ylWL6hg/join to join the Food Lovers family.\n\nNote: This is purely voluntary, no compulsions. \n\nThank you.\n\nTeam FLTV\n\ud83d\ude4f\ud83d\ude0b",
             "transcription": "No transcript available (type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts')",
             "lat": 12.9714814,
-            "long": 77.6059554
+            "long": 77.6059554,
+            "rest_name": "Palm Grove",
+            "address": "No 4, 74/4, Residency Road, 3rd Cross Rd, behind Ballal Residency, Bengaluru, Karnataka 560025",
+            "ph_no": "+91 80 2559 7275",
+            "cuisine": [
+                "South Indian",
+                "North Indian",
+                "Mangalorean"
+            ],
+            "price": "$$",
+            "v_n_ng": "Veg",
+            "best_dishes": [
+                {
+                    "name": "Bonda Rasam",
+                    "summary": "Robustly flavoured bonda rasam rated 9/10.",
+                    "price": "79"
+                },
+                {
+                    "name": "South Indian Thali",
+                    "summary": "Sumptuously tasty South Indian limited thali rated 8/10.",
+                    "price": "242"
+                },
+                {
+                    "name": "Basundi",
+                    "summary": "Rich sweet dessert rated 8/10.",
+                    "price": "115"
+                },
+                {
+                    "name": "Pulpy Grape Juice",
+                    "summary": "Refreshing pulpy grape drink rated 7.5/10.",
+                    "price": "155"
+                }
+            ],
+            "summary": "Palm Grove, located at Ballal Residency on Residency Road in Bengaluru, is a classic 90s vegetarian restaurant known for its cosy ambience, popular tiffins, Bonda Rasam, and delicious South Indian Thali."
         }
     ],
     "https://maps.app.goo.gl/1LYYxaLkKHF3QqnG7": [
@@ -34387,7 +34570,25 @@
             "description": "Nice to see this Mangalore new age caf\u00e9 pay an ode to traditionalism. Watch the complete vlog at https://youtu.be/LmNdfxWqXUw and subscribe for more like this.\n\nBuco, 1st floor, GML complex, Arya Samaj Rd, Mallikatte, Balmatta, Mangaluru, Karnataka 575002; tel: +91 81050 83888; timings: 12noon to 9pm (closed on Mondays and Tuesdays); google maps coordinates: https://maps.app.goo.gl/1LYYxaLkKHF3QqnG7  \n\n#gourmetontheroad #kripalamanna #foodloverstv #truthinfood #foodloversindia #bucocoffee @bucoindia #mangalore #karnataka #supportlocalbusiness",
             "transcription": "No transcript available (type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts')",
             "lat": 12.8740187,
-            "long": 74.8491206
+            "long": 74.8491206,
+            "rest_name": "Buco",
+            "address": "1st floor, GML complex, Arya Samaj Rd, Mallikatte, Balmatta, Mangaluru, Karnataka 575002",
+            "ph_no": "+91 81050 83888",
+            "cuisine": [
+                "Cafe",
+                "Desserts",
+                "Fusion"
+            ],
+            "price": "$$",
+            "v_n_ng": "Non-veg",
+            "best_dishes": [
+                {
+                    "name": "Filter Coffee Tiramisu",
+                    "summary": "A creative fusion dessert combining traditional South Indian filter coffee flavor with classic Italian tiramisu.",
+                    "price": ""
+                }
+            ],
+            "summary": "Buco is a new-age cafe in Mangaluru that blends modern cafe culture with traditional flavors, featuring innovative fusion offerings like Filter Coffee Tiramisu."
         },
         {
             "title": "New Age Caf\u00e9, Momos & Gajbaje! Mangalore Food Trail! #shorts #foodvlog #mangalore #streetfood #food",
@@ -34395,7 +34596,20 @@
             "description": "Nice to see Manguluru evolve in its food scene as well. Watch the complete episode at https://youtu.be/LmNdfxWqXUw and follow for more like this.\n\nBuco, 1st floor, GML complex, Arya Samaj Rd, Mallikatte, Balmatta, Mangaluru, Karnataka 575002; tel: +91 81050 83888; timings: 12noon to 9pm (closed on Mondays and Tuesdays); google maps coordinates: https://maps.app.goo.gl/1LYYxaLkKHF3QqnG7  \n\nOriginal Taste Of Darjeeling, 1Mallikatta, opposite Bilishima Apartments, Mallikatte, Kadri, Mangaluru, Karnataka 575002; tel: +91 97397 04291; timings: 430pm to 930pm; google maps coordinates: https://maps.app.goo.gl/AAxv3KncDwbV9Tie9 \nThey also have a cafe. https://maps.app.goo.gl/BTD5oPVbkXQ8NvLHA  \n\nNaturals Just Sundaes, Shop 1 & 2, Yamuna Gardens, 4th Cross, Mannagudda Rd, opp. Shree Gokarnatheshwara College, Gandhinagar, Mangaluru, Karnataka 575003; tel: +91 73535 31984; timings: 11am to 11pm; google maps coordinates: https://maps.app.goo.gl/Vjjs9wu3dWfuxMGLA  \n\n#gourmetontheroad #kripalamanna #foodloverstv #truthinfood #foodloversindia #bucocoffee #originaltasteofdarjeeling #naturalsjustsundaes #mangalore #karnataka #supportlocalbusiness",
             "transcription": "No transcript available (type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts')",
             "lat": 12.8740187,
-            "long": 74.8491206
+            "long": 74.8491206,
+            "rest_name": "Buco",
+            "address": "1st floor, GML complex, Arya Samaj Rd, Mallikatte, Balmatta, Mangaluru, Karnataka 575002",
+            "ph_no": "+91 81050 83888",
+            "cuisine": [
+                "Cafe",
+                "Coffee",
+                "Desserts",
+                "Mangalorean"
+            ],
+            "price": "$$",
+            "v_n_ng": "Non-veg",
+            "best_dishes": [],
+            "summary": "Buco is a new-age caf\u00e9 located in Mallikatte, Mangaluru, representing the city's evolving food scene with quality coffee and gourmet food."
         },
         {
             "title": "Momos, Tiramisu & Gajbaje! A Mangalore Foodie Evening! NATURALS SUNDAES, BUCO CAF\u00c9, DARJEELING MOMOS",
@@ -34582,7 +34796,25 @@
             "description": "From a 50-year-old biryani shop to more recent eateries, we taste three of coffee towns most popular biryanis. Watch the complete episode at https://youtu.be/JBLDHqCA1Mk and subscribe for more like this.\n\nDetails:\nHotel Taj, Indira Gandhi Rd, Joythinagar, Chikkamagaluru, Karnataka 577101; tel: +91 94484 14550; timings: 1130am to 1030pm; google maps coordinates: https://maps.app.goo.gl/VvE5tSEKFfeK1YAYA  \n\nMaharaja Restaurant, Ground Floor, Galaxy Inn, Indira Gandhi Rd, opposite Giri lnn, Joythinagar, Chikkamagaluru, Karnataka 577101; tel: +91 90089 26778; timings: 12pm to 1030pm; google maps coordinates: https://maps.app.goo.gl/aMSpWUQXM24Cu6g59  \n\nGrand Maharaja Restaurant, Taluk Office Road, Vijayapura, Chikkamagaluru, Karnataka 577101; tel: +91 94498 04844; timings: 1230pm to 11pm; google maps coordinates: https://maps.app.goo.gl/3Nr8Cwqad6tVMfvM7\n\n#gourmetontheroad #kripalamanna #foodloverstv #truthinfood #foodloversindia #chikmagalurbiryani #tajhotel #maharaja #grandmaharaja #chikmagalur #biryani #karnataka",
             "transcription": "No transcript available (type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts')",
             "lat": 13.3215254,
-            "long": 75.6898048
+            "long": 75.6898048,
+            "rest_name": "Hotel Taj",
+            "address": "Indira Gandhi Rd, Joythinagar, Chikkamagaluru, Karnataka 577101",
+            "ph_no": "+91 94484 14550",
+            "cuisine": [
+                "Biryani",
+                "Karnataka",
+                "South Indian"
+            ],
+            "price": "$",
+            "v_n_ng": "Non-veg",
+            "best_dishes": [
+                {
+                    "name": "Chikmagalur Biryani",
+                    "summary": "A famous local style biryani from a iconic 50-year-old shop in town.",
+                    "price": ""
+                }
+            ],
+            "summary": "Hotel Taj is an iconic 50-year-old biryani shop located on IG Road in Chikmagalur, famous for serving authentic local biryani."
         },
         {
             "title": "Tasting Three Most Popular Biryanis In One Lunch! Epic Biryani Trail! TAJ, MAHARAJA, GRAND MAHARAJA",
@@ -34590,7 +34822,35 @@
             "description": "#chikmagalur #biryani #biryanitrail\n\nhotel taj, taj biryani chikmagalur, mutton biryani, oldest biryani restaurant in chikmagalur, maharaja restaurant, wood fiore biryani, mutton biryani, mutton sukka, chicken kabab, grand maharaja biryani, grand maharaja nati restaurant, biryani chicken biryani, chikamagalur, chikmagaluru biryani, popular biryani in chikmagalur, coffee town, ghee rice, mutton chops, mutton khaima, chikmagalur food tour, where to eat in chikmagalur, chikmagaluru food trail, support local business, gourmet on the road, kripal amanna, food lovers tv, food lovers india, truth in food\n\nThis was an epic biryani trail. Tasting Chikmagaluru\u2019s three most popular biryanis in the span of a single lunch! Our first stop was the half-a-century old Taj Hotel where the biryani master has been cooking over a wood-fired stove for as much time, combining cleverly three rice varieties and the choicest cuts of lamb to create a moist, deep-flavoured biryani! My next stop was Maharaja, a 20-year-old biryani house that seems to be popular again for its wood-fired, sumptuously portioned biryani. Which didn\u2019t leave me too much space, but to wrap up this epic biryani trail with a flavour-bomb of a spicy biryani at Grand Maharaja, which at 11-years, is the newest kid on the block, but definitely punches well above its vintage in coffee towns biryani popularity charts.\n\nI hope you enjoy this one. Happy eating!\n\nTaj Hotel\n\nChicken Kabab\nRs. 115\n8.5/10\n\nMutton Biryani\nRs. 257\n9/10\n\nMutton Sukka\nRs. 219\n8/10\n\n\nMaharaja\n\nChicken Kabab\nRs. 160\n7/10\n\nMutton Biryani\nRs. 300\n8/10\n\nMutton Sukka\n7.5/10\n\n\nGrand Maharaja\n\nMutton Biryani\nRs. 300\n8.2/10\n\nMutton Khaima\nRs. 300\n7/10\n\n\n\nKripal Amanna,\nGourmet On The Road,\nFood Lovers TV\n\nPs. If you haven\u2019t subscribed to this channel yet, please do and help us grow the Food Lovers TV community! \ud83d\ude4f\n\nSubscribe To our second channel at https://www.youtube.com/c/KripalAmannaVlogs \n\nDetails:\nHotel Taj, Indira Gandhi Rd, Joythinagar, Chikkamagaluru, Karnataka 577101; tel: +91 94484 14550; timings: 1130am to 1030pm; google maps coordinates: https://maps.app.goo.gl/VvE5tSEKFfeK1YAYA  \n\nMaharaja Restaurant, Ground Floor, Galaxy Inn, Indira Gandhi Rd, opposite Giri lnn, Joythinagar, Chikkamagaluru, Karnataka 577101; tel: +91 90089 26778; timings: 12pm to 1030pm; google maps coordinates: https://maps.app.goo.gl/aMSpWUQXM24Cu6g59  \n\nGrand Maharaja Restaurant, Taluk Office Road, Vijayapura, Chikkamagaluru, Karnataka 577101; tel: +91 94498 04844; timings: 1230pm to 11pm; google maps coordinates: https://maps.app.goo.gl/3Nr8Cwqad6tVMfvM7 \n\nLinks to previous Chikamagalur Donne Biryani episodes:\nThey Cook 5 Tonnes Of This Biryani Every Month! Chikmagaluru\u2019s Famous CAPTAIN\u2019S DONNE BIRYANI! https://youtu.be/BmlPhmNa4-E \nThis Is Chikmagluru\u2019s  Popular DONNE BIRYANI! Unique Chikamagaluru Biryani https://youtu.be/cr4r264gvms \n\nSUPPORT FOOD LOVERS \nIf you enjoyed this video, please consider supporting Food Lovers TV by joining our membership community on YouTube by hitting the \u2018join\u2019 button below or on the home page. You could pledge a nominal sum and receive special privileges like behind the scenes footage, shoot updates, access to live q&a\u2019s and more. \n\nYou could also support us on our Patreon page. For more info, check out the links below. \nhttps://www.youtube.com/channel/UC-Lq6oBPTgTXT_K-ylWL6hg/join\nhttps://www.patreon.com/foodloverstv \n\nOur vision at Food Lovers TV is to be India\u2019s most vibrant, and more  importantly, trusted food content platform. As you may be aware, content on Food Lovers TV is free of commercial constraints as guided by our credo: truth in food. We seek out deserving stories to be told sans any financial consideration from eateries featured. We have chosen not to put up a paywall as we want our rich content to remain accessible to all. Independent food journalism \u2013 free for everyone, supported by those who can.\n\nYou can also make a one time, direct contribution via upi to our bank account (upi details as below) \nA/c name: Hospitality Initiatives India Pvt. Ltd.\neditor-foodlovers.in@okhdfcbank\nPlease email the transfer details to info@foodlovers.in once you have made a contribution.\n\nMembers of Food Lovers TV Family Tier on Patreon:\nTuhina Roy\nEsupatham Nelson\nYou too can be part of the Food Lovers Patron Network. Visit https://www.patreon.com/foodloverstv to join the Food Lovers family \n\nYou too can be part of the Food Lovers YouTube Community. Visit https://www.youtube.com/channel/UC-Lq6oBPTgTXT_K-ylWL6hg/join to join the Food Lovers family.\n\nNote: This is purely voluntary, no compulsions. \n\nThank you.\n\nTeam FLTV\n\ud83d\ude4f\ud83d\ude0b",
             "transcription": "No transcript available (type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts')",
             "lat": 13.3215254,
-            "long": 75.6898048
+            "long": 75.6898048,
+            "rest_name": "Hotel Taj",
+            "address": "Indira Gandhi Rd, Joythinagar, Chikkamagaluru, Karnataka 577101",
+            "ph_no": "+91 94484 14550",
+            "cuisine": [
+                "Biryani",
+                "South Indian",
+                "Karnataka"
+            ],
+            "price": "$",
+            "v_n_ng": "Non-veg",
+            "best_dishes": [
+                {
+                    "name": "Mutton Biryani",
+                    "summary": "Moist, deep-flavoured biryani cooked over a traditional wood-fired stove combining three rice varieties and choicest cuts of lamb.",
+                    "price": "Rs. 257"
+                },
+                {
+                    "name": "Chicken Kabab",
+                    "summary": "Deliciously seasoned and deep-fried chicken kabab.",
+                    "price": "Rs. 115"
+                },
+                {
+                    "name": "Mutton Sukka",
+                    "summary": "Flavorful, spicy semi-dry mutton preparation.",
+                    "price": "Rs. 219"
+                }
+            ],
+            "summary": "Hotel Taj is a 50-year-old landmark eatery in Chikkamagaluru, famous for its wood-fired mutton biryani made with a unique blend of three rice varieties and succulent cuts of mutton."
         }
     ],
     "https://maps.app.goo.gl/aMSpWUQXM24Cu6g59": [
@@ -34600,7 +34860,25 @@
             "description": "From a 50-year-old biryani shop to more recent eateries, we taste three of coffee towns most popular biryanis. Watch the complete episode at https://youtu.be/JBLDHqCA1Mk and subscribe for more like this.\n\nDetails:\nHotel Taj, Indira Gandhi Rd, Joythinagar, Chikkamagaluru, Karnataka 577101; tel: +91 94484 14550; timings: 1130am to 1030pm; google maps coordinates: https://maps.app.goo.gl/VvE5tSEKFfeK1YAYA  \n\nMaharaja Restaurant, Ground Floor, Galaxy Inn, Indira Gandhi Rd, opposite Giri lnn, Joythinagar, Chikkamagaluru, Karnataka 577101; tel: +91 90089 26778; timings: 12pm to 1030pm; google maps coordinates: https://maps.app.goo.gl/aMSpWUQXM24Cu6g59  \n\nGrand Maharaja Restaurant, Taluk Office Road, Vijayapura, Chikkamagaluru, Karnataka 577101; tel: +91 94498 04844; timings: 1230pm to 11pm; google maps coordinates: https://maps.app.goo.gl/3Nr8Cwqad6tVMfvM7\n\n#gourmetontheroad #kripalamanna #foodloverstv #truthinfood #foodloversindia #chikmagalurbiryani #tajhotel #maharaja #grandmaharaja #chikmagalur #biryani #karnataka",
             "transcription": "No transcript available (type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts')",
             "lat": 13.3244829,
-            "long": 75.767465
+            "long": 75.767465,
+            "rest_name": "Hotel Taj",
+            "address": "Indira Gandhi Rd, Joythinagar, Chikkamagaluru, Karnataka 577101",
+            "ph_no": "+91 94484 14550",
+            "cuisine": [
+                "Biryani",
+                "South Indian",
+                "Karnataka"
+            ],
+            "price": "$",
+            "v_n_ng": "Non-veg",
+            "best_dishes": [
+                {
+                    "name": "Chikmagalur Mutton Biryani",
+                    "summary": "Classic local style biryani served at this iconic 50-year-old eatery in Chikmagalur.",
+                    "price": ""
+                }
+            ],
+            "summary": "Hotel Taj is a historic 50-year-old biryani destination in Chikmagalur, famous for serving authentic local Karnataka-style biryani."
         },
         {
             "title": "Tasting Three Most Popular Biryanis In One Lunch! Epic Biryani Trail! TAJ, MAHARAJA, GRAND MAHARAJA",
@@ -34608,7 +34886,35 @@
             "description": "#chikmagalur #biryani #biryanitrail\n\nhotel taj, taj biryani chikmagalur, mutton biryani, oldest biryani restaurant in chikmagalur, maharaja restaurant, wood fiore biryani, mutton biryani, mutton sukka, chicken kabab, grand maharaja biryani, grand maharaja nati restaurant, biryani chicken biryani, chikamagalur, chikmagaluru biryani, popular biryani in chikmagalur, coffee town, ghee rice, mutton chops, mutton khaima, chikmagalur food tour, where to eat in chikmagalur, chikmagaluru food trail, support local business, gourmet on the road, kripal amanna, food lovers tv, food lovers india, truth in food\n\nThis was an epic biryani trail. Tasting Chikmagaluru\u2019s three most popular biryanis in the span of a single lunch! Our first stop was the half-a-century old Taj Hotel where the biryani master has been cooking over a wood-fired stove for as much time, combining cleverly three rice varieties and the choicest cuts of lamb to create a moist, deep-flavoured biryani! My next stop was Maharaja, a 20-year-old biryani house that seems to be popular again for its wood-fired, sumptuously portioned biryani. Which didn\u2019t leave me too much space, but to wrap up this epic biryani trail with a flavour-bomb of a spicy biryani at Grand Maharaja, which at 11-years, is the newest kid on the block, but definitely punches well above its vintage in coffee towns biryani popularity charts.\n\nI hope you enjoy this one. Happy eating!\n\nTaj Hotel\n\nChicken Kabab\nRs. 115\n8.5/10\n\nMutton Biryani\nRs. 257\n9/10\n\nMutton Sukka\nRs. 219\n8/10\n\n\nMaharaja\n\nChicken Kabab\nRs. 160\n7/10\n\nMutton Biryani\nRs. 300\n8/10\n\nMutton Sukka\n7.5/10\n\n\nGrand Maharaja\n\nMutton Biryani\nRs. 300\n8.2/10\n\nMutton Khaima\nRs. 300\n7/10\n\n\n\nKripal Amanna,\nGourmet On The Road,\nFood Lovers TV\n\nPs. If you haven\u2019t subscribed to this channel yet, please do and help us grow the Food Lovers TV community! \ud83d\ude4f\n\nSubscribe To our second channel at https://www.youtube.com/c/KripalAmannaVlogs \n\nDetails:\nHotel Taj, Indira Gandhi Rd, Joythinagar, Chikkamagaluru, Karnataka 577101; tel: +91 94484 14550; timings: 1130am to 1030pm; google maps coordinates: https://maps.app.goo.gl/VvE5tSEKFfeK1YAYA  \n\nMaharaja Restaurant, Ground Floor, Galaxy Inn, Indira Gandhi Rd, opposite Giri lnn, Joythinagar, Chikkamagaluru, Karnataka 577101; tel: +91 90089 26778; timings: 12pm to 1030pm; google maps coordinates: https://maps.app.goo.gl/aMSpWUQXM24Cu6g59  \n\nGrand Maharaja Restaurant, Taluk Office Road, Vijayapura, Chikkamagaluru, Karnataka 577101; tel: +91 94498 04844; timings: 1230pm to 11pm; google maps coordinates: https://maps.app.goo.gl/3Nr8Cwqad6tVMfvM7 \n\nLinks to previous Chikamagalur Donne Biryani episodes:\nThey Cook 5 Tonnes Of This Biryani Every Month! Chikmagaluru\u2019s Famous CAPTAIN\u2019S DONNE BIRYANI! https://youtu.be/BmlPhmNa4-E \nThis Is Chikmagluru\u2019s  Popular DONNE BIRYANI! Unique Chikamagaluru Biryani https://youtu.be/cr4r264gvms \n\nSUPPORT FOOD LOVERS \nIf you enjoyed this video, please consider supporting Food Lovers TV by joining our membership community on YouTube by hitting the \u2018join\u2019 button below or on the home page. You could pledge a nominal sum and receive special privileges like behind the scenes footage, shoot updates, access to live q&a\u2019s and more. \n\nYou could also support us on our Patreon page. For more info, check out the links below. \nhttps://www.youtube.com/channel/UC-Lq6oBPTgTXT_K-ylWL6hg/join\nhttps://www.patreon.com/foodloverstv \n\nOur vision at Food Lovers TV is to be India\u2019s most vibrant, and more  importantly, trusted food content platform. As you may be aware, content on Food Lovers TV is free of commercial constraints as guided by our credo: truth in food. We seek out deserving stories to be told sans any financial consideration from eateries featured. We have chosen not to put up a paywall as we want our rich content to remain accessible to all. Independent food journalism \u2013 free for everyone, supported by those who can.\n\nYou can also make a one time, direct contribution via upi to our bank account (upi details as below) \nA/c name: Hospitality Initiatives India Pvt. Ltd.\neditor-foodlovers.in@okhdfcbank\nPlease email the transfer details to info@foodlovers.in once you have made a contribution.\n\nMembers of Food Lovers TV Family Tier on Patreon:\nTuhina Roy\nEsupatham Nelson\nYou too can be part of the Food Lovers Patron Network. Visit https://www.patreon.com/foodloverstv to join the Food Lovers family \n\nYou too can be part of the Food Lovers YouTube Community. Visit https://www.youtube.com/channel/UC-Lq6oBPTgTXT_K-ylWL6hg/join to join the Food Lovers family.\n\nNote: This is purely voluntary, no compulsions. \n\nThank you.\n\nTeam FLTV\n\ud83d\ude4f\ud83d\ude0b",
             "transcription": "No transcript available (type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts')",
             "lat": 13.3244829,
-            "long": 75.767465
+            "long": 75.767465,
+            "rest_name": "Hotel Taj",
+            "address": "Hotel Taj, Indira Gandhi Rd, Joythinagar, Chikkamagaluru, Karnataka 577101",
+            "ph_no": "+91 94484 14550",
+            "cuisine": [
+                "Biryani",
+                "Karnataka",
+                "South Indian"
+            ],
+            "price": "$$",
+            "v_n_ng": "Non-veg",
+            "best_dishes": [
+                {
+                    "name": "Mutton Biryani",
+                    "summary": "Cooked over a wood-fired stove combining three rice varieties and choicest cuts of lamb to create a moist, deep-flavoured biryani.",
+                    "price": "Rs. 257"
+                },
+                {
+                    "name": "Chicken Kabab",
+                    "summary": "Popular spiced fried chicken kabab starter.",
+                    "price": "Rs. 115"
+                },
+                {
+                    "name": "Mutton Sukka",
+                    "summary": "Flavorful, dry-spiced mutton dish.",
+                    "price": "Rs. 219"
+                }
+            ],
+            "summary": "Hotel Taj is a half-a-century-old iconic biryani spot in Chikkamagaluru where the biryani master cooks over a wood-fired stove, combining three rice varieties and quality mutton to make a moist, deeply rich biryani."
         }
     ],
     "https://maps.app.goo.gl/3Nr8Cwqad6tVMfvM7": [
@@ -34618,7 +34924,25 @@
             "description": "From a 50-year-old biryani shop to more recent eateries, we taste three of coffee towns most popular biryanis. Watch the complete episode at https://youtu.be/JBLDHqCA1Mk and subscribe for more like this.\n\nDetails:\nHotel Taj, Indira Gandhi Rd, Joythinagar, Chikkamagaluru, Karnataka 577101; tel: +91 94484 14550; timings: 1130am to 1030pm; google maps coordinates: https://maps.app.goo.gl/VvE5tSEKFfeK1YAYA  \n\nMaharaja Restaurant, Ground Floor, Galaxy Inn, Indira Gandhi Rd, opposite Giri lnn, Joythinagar, Chikkamagaluru, Karnataka 577101; tel: +91 90089 26778; timings: 12pm to 1030pm; google maps coordinates: https://maps.app.goo.gl/aMSpWUQXM24Cu6g59  \n\nGrand Maharaja Restaurant, Taluk Office Road, Vijayapura, Chikkamagaluru, Karnataka 577101; tel: +91 94498 04844; timings: 1230pm to 11pm; google maps coordinates: https://maps.app.goo.gl/3Nr8Cwqad6tVMfvM7\n\n#gourmetontheroad #kripalamanna #foodloverstv #truthinfood #foodloversindia #chikmagalurbiryani #tajhotel #maharaja #grandmaharaja #chikmagalur #biryani #karnataka",
             "transcription": "No transcript available (type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts')",
             "lat": 13.3244829,
-            "long": 75.767465
+            "long": 75.767465,
+            "rest_name": "Hotel Taj",
+            "address": "Indira Gandhi Rd, Joythinagar, Chikkamagaluru, Karnataka 577101",
+            "ph_no": "+91 94484 14550",
+            "cuisine": [
+                "Biryani",
+                "South Indian",
+                "Karnataka"
+            ],
+            "price": "$$",
+            "v_n_ng": "Non-veg",
+            "best_dishes": [
+                {
+                    "name": "Chikmagalur Biryani",
+                    "summary": "Iconic regional style biryani served at this 50-year-old eatery.",
+                    "price": ""
+                }
+            ],
+            "summary": "Hotel Taj is an iconic 50-year-old biryani shop in Chikkamagaluru, widely popular for its traditional regional biryani and legacy flavors."
         },
         {
             "title": "Tasting Three Most Popular Biryanis In One Lunch! Epic Biryani Trail! TAJ, MAHARAJA, GRAND MAHARAJA",
@@ -34670,7 +34994,25 @@
             "description": "Out here the biryani is yellowish red, its flavours led by Byadgi chillies and a host of whole spices. One place that came highly recommended by locals was Captain\u2019s Donne Biryani. Watch the complete episode at https://youtu.be/BmlPhmNa4-E and follow for more like this. \n\nThe Captain\u2019s Donne Biryani, Kadur, Chikkamagaluru, Karnataka 577101; tel: +91 98805 00090; timings: 1pm to 1030pm; google maps coordinates: https://maps.app.goo.gl/AaSLzmGpeZBbfdVk7 \n\n#gourmetontheroad #kripalamanna #foodloverstv #truthinfood #foodloversindia #chikmagalurdonnebiryani #captainsdonnebiryani #chikmagalur #biryani #karnataka",
             "transcription": "No transcript available (type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts')",
             "lat": 13.3157681,
-            "long": 75.7714343
+            "long": 75.7714343,
+            "rest_name": "Captain's Donne Biryani",
+            "address": "The Captain\u2019s Donne Biryani, Kadur, Chikkamagaluru, Karnataka 577101",
+            "ph_no": "+91 98805 00090",
+            "cuisine": [
+                "Karnataka",
+                "South Indian",
+                "Biryani"
+            ],
+            "price": "$",
+            "v_n_ng": "Non-veg",
+            "best_dishes": [
+                {
+                    "name": "Chikmagalur Donne Biryani",
+                    "summary": "A distinct yellowish-red biryani with flavours led by Byadgi chillies and a host of whole spices.",
+                    "price": ""
+                }
+            ],
+            "summary": "Captain's Donne Biryani in Chikkamagaluru comes highly recommended by locals for its distinct yellowish-red Chikmagalur-style biryani, flavoured heavily with Byadgi chillies and whole spices."
         },
         {
             "title": "The Spicy Chikmagalur Donne Biryani! #shorts #foodvlog #biryani #chikmagalur #foodie #muttonbiryani",
@@ -34678,7 +35020,25 @@
             "description": "The donne biryani in Chikmagalur employs a unique masala that contributes to its spicy appeal. Watch at https://youtu.be/BmlPhmNa4-E \n\nThe Captain\u2019s Donne Biryani, Kadur, Chikkamagaluru, Karnataka 577101; tel: +91 98805 00090; timings: 1pm to 1030pm; google maps coordinates: https://maps.app.goo.gl/AaSLzmGpeZBbfdVk7 \n\n#gourmetontheroad #kripalamanna #foodloverstv #truthinfood #foodloversindia #chikmagalurdonnebiryani #captainsdonnebiryani #chikmagalur #biryani #karnataka",
             "transcription": "No transcript available (type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts')",
             "lat": 13.3157681,
-            "long": 75.7714343
+            "long": 75.7714343,
+            "rest_name": "The Captain\u2019s Donne Biryani",
+            "address": "Kadur, Chikkamagaluru, Karnataka 577101",
+            "ph_no": "+91 98805 00090",
+            "cuisine": [
+                "Karnataka",
+                "South Indian",
+                "Biryani"
+            ],
+            "price": "$",
+            "v_n_ng": "Non-veg",
+            "best_dishes": [
+                {
+                    "name": "Mutton Donne Biryani",
+                    "summary": "Spicy Donne Biryani cooked using a unique local masala that contributes to its flavorful appeal.",
+                    "price": ""
+                }
+            ],
+            "summary": "The Captain's Donne Biryani in Kadur, Chikkamagaluru serves flavorful and spicy Donne Biryani prepared with a unique signature masala."
         },
         {
             "title": "They Cook 5 Tonnes Of This Biryani Every Month! Chikmagaluru\u2019s Famous CAPTAIN\u2019S DONNE BIRYANI!",

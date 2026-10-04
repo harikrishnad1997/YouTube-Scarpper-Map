@@ -27836,34 +27836,89 @@
       "summary": "Coconut Grove is an iconic 1990s coastal eatery and restobar located on Church Street, Bengaluru. It is beloved for its nostalgic charm and authentic Kerala coastal delicacies."
     }
   ],
-  "Honest Seafood At Honest Prices | Discovering Swathi Restaurant, an 18-Year Find In South Bengaluru": [
+  "Swathi Restaurant": [
     {
       "title": "Honest Seafood At Honest Prices | Discovering Swathi Restaurant, an 18-Year Find In South Bengaluru",
       "link": "https://www.youtube.com/watch?v=uflZ8U6XT00",
       "lat": 12.910522,
       "long": 77.5862278,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "No. 25/1, 9th Cross Rd, opposite Lakshmi Venkateshwara Temple, Marenahalli, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+      "ph_no": "+91 99026 27945",
+      "cuisine": [
+        "Mangalorean",
+        "Coastal Indian",
+        "South Indian",
+        "Seafood"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Fish Meals",
+          "summary": "Classic coastal fish meal served at an incredible value.",
+          "price": "Rs. 150"
+        },
+        {
+          "name": "Pomfret Tava Fry",
+          "summary": "Fresh pomfret pan-fried with robust Mangalorean spices.",
+          "price": "Rs. 410"
+        },
+        {
+          "name": "Prawn Ghee Roast",
+          "summary": "Juicy prawns cooked in rich ghee roast masala.",
+          "price": "Rs. 300"
+        },
+        {
+          "name": "Bondas Masala",
+          "summary": "Flavorful, spicy squid masala prepare coastal style.",
+          "price": "Rs. 240"
+        },
+        {
+          "name": "Anjal Masala Fry",
+          "summary": "Seer fish (Anjal) coated in flavorful masala and fried.",
+          "price": "Rs. 340"
+        },
+        {
+          "name": "Chicken Sukka",
+          "summary": "Traditional dry spiced Mangalorean style chicken.",
+          "price": "Rs. 150"
+        }
+      ],
+      "summary": "Located in JP Nagar, Bengaluru, Swathi Restaurant has been serving honest, fresh, and robust Mangalorean coastal fare for over 18 years. Owner Vasant Shetty handpicks fresh seafood daily from the fish market, delivering authentic flavours at incredibly budget-friendly prices."
     }
   ],
-  "Is This the Perfect Nourishing Akki Rotti Meal for a \ud83d\ude97 Road Trip? Bengaluru - Mangaluru Highway Stop": [
+  "The Ossoor": [
     {
       "title": "Is This the Perfect Nourishing Akki Rotti Meal for a \ud83d\ude97 Road Trip? Bengaluru - Mangaluru Highway Stop",
       "link": "https://www.youtube.com/watch?v=OlZFxIvbZAk",
       "lat": 12.9525358,
       "long": 75.818653,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "Bangalore - Mangalore Hwy, Kollahalli, Hosur Estate, Sakleshpur, Karnataka 573134",
+      "ph_no": "+91 98459 25418",
+      "cuisine": [
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Akki Rotti with Saagu",
+          "summary": "Soft rice-flour flatbread paired with a rich and flavourful vegetable saagu.",
+          "price": ""
+        },
+        {
+          "name": "Sabbakki Payasa",
+          "summary": "A sweet South Indian dessert made with tapioca pearls (sago), milk, and cardamom.",
+          "price": ""
+        },
+        {
+          "name": "Filter Coffee",
+          "summary": "Strong and refreshing traditional South Indian filter coffee served post-meal.",
+          "price": ""
+        }
+      ],
+      "summary": "Set amidst a beautiful verdant landscape along the Bengaluru-Mangaluru Highway in Sakleshpur, The Ossoor is a popular highway stop offering a tasty and nourishing Akki Rotti Oota meal along with traditional South Indian filter coffee."
     }
   ],
   "Hanbal Chikki Factory": [
@@ -27901,22 +27956,35 @@
       "summary": "Located on the Bengaluru - Mangaluru Highway in Sakleshpur, Hanbal Chikki Factory offers a vast range of traditional and innovative chikki flavours, ranging from classic peanut to unique fruit and spice varieties."
     }
   ],
-  "North Karnataka FEAST: Witness the MASSIVE Jolada Rotti Oota Dishes Served! \ud83e\udd2f": [
+  "Kamat Restaurant": [
     {
       "title": "North Karnataka FEAST: Witness the MASSIVE Jolada Rotti Oota Dishes Served! \ud83e\udd2f",
       "link": "https://www.youtube.com/watch?v=gjmXazrtYrg",
       "lat": 12.9940573,
       "long": 77.6978363,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    }
-  ],
-  "Kamat Restaurant": [
+      "address": "3rd Floor, 1, Whitefield Main Rd, Garudachar Palya, Mahadevapura, Bengaluru, Karnataka 560048",
+      "ph_no": "+91 9845100888",
+      "cuisine": [
+        "North Karnataka",
+        "South Indian",
+        "Indian"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Jolada Rotti Oota",
+          "summary": "Massive authentic North Karnataka Jowar Bhakri feast served on a banana leaf with fresh rottis, greens, rice, and savory condiments.",
+          "price": ""
+        },
+        {
+          "name": "Holige",
+          "summary": "Traditional sweet flatbread drizzled with ghee.",
+          "price": ""
+        }
+      ],
+      "summary": "Kamat Restaurant serves a massive and authentic North Karnataka Jolada Rotti Oota (Jowar Bhakri Feast) served on banana leaves, accompanied by fresh rottis, greens, rich condiments, and delicious sweet Holige."
+    },
     {
       "title": "North Karnataka Feast! MASSIVE Jolada Rotti Oota + Unique Belgaum Ice Cream! | Kamat Yatrinivas",
       "link": "https://www.youtube.com/watch?v=14OJJVa_Tto",
@@ -28191,19 +28259,50 @@
       "summary": "Sihi Suprabhatham Mane in JP Nagar, Bengaluru, is a heartwarming breakfast eatery founded by Shree, who left her banking job to share authentic family recipes. Operating out of a dedicated home setting, they serve fresh, traditional Iyengar vegetarian breakfast specialties like Gojju Avalakki, Pongal, Vade, and Kadubu."
     }
   ],
-  "Big Sadya & Secret Biryani TASTING! Wilton Wayanad's Most Popular Restaurant | Part 2": [
+  "Wilton Restaurant": [
     {
       "title": "Big Sadya & Secret Biryani TASTING! Wilton Wayanad's Most Popular Restaurant | Part 2",
       "link": "https://www.youtube.com/watch?v=7X4K8Q-qgMo",
       "lat": 11.6585731,
       "long": 76.2444123,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Dhottappankulam, NH 766, Sultan Bathery, Kerala 673592",
+      "ph_no": "+91 79025 64444",
+      "cuisine": [
+        "Kerala",
+        "South Indian",
+        "Indian",
+        "Seafood"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Seafood Sadya",
+          "summary": "Extensive seafood feast with standouts including squid roast, crab masala, fish molagathatu, fish peera, and fish pickle.",
+          "price": "Rs. 395"
+        },
+        {
+          "name": "Mutton Biryani",
+          "summary": "Famous Wilton mutton biryani with exceptionally flavorful rice.",
+          "price": "Rs. 360"
+        },
+        {
+          "name": "Aatinkaalu Soup",
+          "summary": "Flavorful goat trotter soup served in a large portion suitable for two.",
+          "price": "Rs. 330"
+        },
+        {
+          "name": "Chicken 65",
+          "summary": "Classic crispy spicy chicken appetizer.",
+          "price": "Rs. 190"
+        },
+        {
+          "name": "Mandi (rice only)",
+          "summary": "Fragrant and flavorful mandi rice.",
+          "price": ""
+        }
+      ],
+      "summary": "Wilton Restaurant in Sultan Bathery, Wayanad, is a popular dining destination blending traditional regional cooks with professional chefs. It serves an extensive menu featuring local Kerala delicacies, seafood sadya, and their signature biryanis."
     }
   ],
   "500 Guests! Kerala\u2019s Biggest Restaurant? Wilton Kitchen Tour: Secret Biryani & Seafood Sadya! Part 1": [
@@ -28465,6 +28564,47 @@
       "v_n_ng": "Non-veg",
       "best_dishes": [],
       "summary": "Buco is a modern cafe and coffee shop in Mangaluru, representing the evolving food scene in the city with its specialty coffee and new-age ambiance."
+    },
+    {
+      "title": "Filter Coffee Meets Tiramisu In Mangalore! #shorts #foodvlog #mangalore #coffee #food #kripalamanna",
+      "link": "https://www.youtube.com/watch?v=6DG_Mqa42iA",
+      "lat": 12.8740187,
+      "long": 74.8491206,
+      "address": "1st floor, GML complex, Arya Samaj Rd, Mallikatte, Balmatta, Mangaluru, Karnataka 575002",
+      "ph_no": "+91 81050 83888",
+      "cuisine": [
+        "Cafe",
+        "Desserts",
+        "Fusion"
+      ],
+      "price": "$$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [
+        {
+          "name": "Filter Coffee Tiramisu",
+          "summary": "A creative fusion dessert combining traditional South Indian filter coffee flavor with classic Italian tiramisu.",
+          "price": ""
+        }
+      ],
+      "summary": "Buco is a new-age cafe in Mangaluru that blends modern cafe culture with traditional flavors, featuring innovative fusion offerings like Filter Coffee Tiramisu."
+    },
+    {
+      "title": "New Age Caf\u00e9, Momos & Gajbaje! Mangalore Food Trail! #shorts #foodvlog #mangalore #streetfood #food",
+      "link": "https://www.youtube.com/watch?v=NQ2v0O4h7pQ",
+      "lat": 12.8740187,
+      "long": 74.8491206,
+      "address": "1st floor, GML complex, Arya Samaj Rd, Mallikatte, Balmatta, Mangaluru, Karnataka 575002",
+      "ph_no": "+91 81050 83888",
+      "cuisine": [
+        "Cafe",
+        "Coffee",
+        "Desserts",
+        "Mangalorean"
+      ],
+      "price": "$$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [],
+      "summary": "Buco is a new-age caf\u00e9 located in Mallikatte, Mangaluru, representing the city's evolving food scene with quality coffee and gourmet food."
     }
   ],
   "Buco Caf\u00e9": [
@@ -28808,64 +28948,66 @@
       "summary": "Tom's Restaurant, originally spun out from Fatima Bakery in the 1980s, is an iconic Bengaluru eatery known for its meaty Mangalorean Catholic fare. After relocating to Brigade Road, it continues to impress with strong, traditional flavors in its pork pepper fry, buff chilli fry, and vindaloo."
     }
   ],
-  "Loved This Good Old Fashioned Veg Meal At This Vintage Place! #shorts #foodvlog #vegetarian  #foodie": [
+  "Palm Grove": [
     {
       "title": "Loved This Good Old Fashioned Veg Meal At This Vintage Place! #shorts #foodvlog #vegetarian  #foodie",
       "link": "https://www.youtube.com/watch?v=6WBzIN1x6UI",
       "lat": 12.9714814,
       "long": 77.6059554,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    }
-  ],
-  "Delicious South Indian Veg Thali & More At This Popular, Old World Bengaluru Restaurant! PALM GROVE": [
+      "address": "No 4, 74/4, Residency Road, 3rd Cross Rd, behind Ballal Residency, Bengaluru, Karnataka 560025",
+      "ph_no": "+91 80 2559 7275",
+      "cuisine": [
+        "South Indian",
+        "Vegetarian"
+      ],
+      "price": "$$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Veg Meal",
+          "summary": "A good old-fashioned traditional vegetarian meal served in a vintage setting.",
+          "price": ""
+        }
+      ],
+      "summary": "Palm Grove, located at Ballal Residency in Bengaluru, is a vintage vegetarian restaurant celebrated for its classic, good old-fashioned vegetarian meals."
+    },
     {
       "title": "Delicious South Indian Veg Thali & More At This Popular, Old World Bengaluru Restaurant! PALM GROVE",
       "link": "https://www.youtube.com/watch?v=md_pfQQycqU",
       "lat": 12.9714814,
       "long": 77.6059554,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    }
-  ],
-  "Filter Coffee Meets Tiramisu In Mangalore! #shorts #foodvlog #mangalore #coffee #food #kripalamanna": [
-    {
-      "title": "Filter Coffee Meets Tiramisu In Mangalore! #shorts #foodvlog #mangalore #coffee #food #kripalamanna",
-      "link": "https://www.youtube.com/watch?v=6DG_Mqa42iA",
-      "lat": 12.8740187,
-      "long": 74.8491206,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    }
-  ],
-  "New Age Caf\u00e9, Momos & Gajbaje! Mangalore Food Trail! #shorts #foodvlog #mangalore #streetfood #food": [
-    {
-      "title": "New Age Caf\u00e9, Momos & Gajbaje! Mangalore Food Trail! #shorts #foodvlog #mangalore #streetfood #food",
-      "link": "https://www.youtube.com/watch?v=NQ2v0O4h7pQ",
-      "lat": 12.8740187,
-      "long": 74.8491206,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "No 4, 74/4, Residency Road, 3rd Cross Rd, behind Ballal Residency, Bengaluru, Karnataka 560025",
+      "ph_no": "+91 80 2559 7275",
+      "cuisine": [
+        "South Indian",
+        "North Indian",
+        "Mangalorean"
+      ],
+      "price": "$$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Bonda Rasam",
+          "summary": "Robustly flavoured bonda rasam rated 9/10.",
+          "price": "79"
+        },
+        {
+          "name": "South Indian Thali",
+          "summary": "Sumptuously tasty South Indian limited thali rated 8/10.",
+          "price": "242"
+        },
+        {
+          "name": "Basundi",
+          "summary": "Rich sweet dessert rated 8/10.",
+          "price": "115"
+        },
+        {
+          "name": "Pulpy Grape Juice",
+          "summary": "Refreshing pulpy grape drink rated 7.5/10.",
+          "price": "155"
+        }
+      ],
+      "summary": "Palm Grove, located at Ballal Residency on Residency Road in Bengaluru, is a classic 90s vegetarian restaurant known for its cosy ambience, popular tiffins, Bonda Rasam, and delicious South Indian Thali."
     }
   ],
   "Amazing Kebabs & Curries At This Bengaluru Neighbourhood Gem! #shorts #foodvlog #bangalore #foodie": [
@@ -29078,74 +29220,144 @@
       "summary": ""
     }
   ],
-  "3 Popular Chikmagalur Biryanis! #shorts #foodvlog #biryani #chikmagalur #foodie #indiancuisine": [
+  "Hotel Taj": [
     {
       "title": "3 Popular Chikmagalur Biryanis! #shorts #foodvlog #biryani #chikmagalur #foodie #indiancuisine",
       "link": "https://www.youtube.com/watch?v=v8PiN-5ukXw",
       "lat": 13.3215254,
       "long": 75.6898048,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Indira Gandhi Rd, Joythinagar, Chikkamagaluru, Karnataka 577101",
+      "ph_no": "+91 94484 14550",
+      "cuisine": [
+        "Biryani",
+        "Karnataka",
+        "South Indian"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Chikmagalur Biryani",
+          "summary": "A famous local style biryani from a iconic 50-year-old shop in town.",
+          "price": ""
+        }
+      ],
+      "summary": "Hotel Taj is an iconic 50-year-old biryani shop located on IG Road in Chikmagalur, famous for serving authentic local biryani."
+    },
+    {
+      "title": "Tasting Three Most Popular Biryanis In One Lunch! Epic Biryani Trail! TAJ, MAHARAJA, GRAND MAHARAJA",
+      "link": "https://www.youtube.com/watch?v=JBLDHqCA1Mk",
+      "lat": 13.3215254,
+      "long": 75.6898048,
+      "address": "Indira Gandhi Rd, Joythinagar, Chikkamagaluru, Karnataka 577101",
+      "ph_no": "+91 94484 14550",
+      "cuisine": [
+        "Biryani",
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [
+        {
+          "name": "Mutton Biryani",
+          "summary": "Moist, deep-flavoured biryani cooked over a traditional wood-fired stove combining three rice varieties and choicest cuts of lamb.",
+          "price": "Rs. 257"
+        },
+        {
+          "name": "Chicken Kabab",
+          "summary": "Deliciously seasoned and deep-fried chicken kabab.",
+          "price": "Rs. 115"
+        },
+        {
+          "name": "Mutton Sukka",
+          "summary": "Flavorful, spicy semi-dry mutton preparation.",
+          "price": "Rs. 219"
+        }
+      ],
+      "summary": "Hotel Taj is a 50-year-old landmark eatery in Chikkamagaluru, famous for its wood-fired mutton biryani made with a unique blend of three rice varieties and succulent cuts of mutton."
     },
     {
       "title": "3 Popular Chikmagalur Biryanis! #shorts #foodvlog #biryani #chikmagalur #foodie #indiancuisine",
       "link": "https://www.youtube.com/watch?v=v8PiN-5ukXw",
       "lat": 13.3244829,
       "long": 75.767465,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Indira Gandhi Rd, Joythinagar, Chikkamagaluru, Karnataka 577101",
+      "ph_no": "+91 94484 14550",
+      "cuisine": [
+        "Biryani",
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Chikmagalur Mutton Biryani",
+          "summary": "Classic local style biryani served at this iconic 50-year-old eatery in Chikmagalur.",
+          "price": ""
+        }
+      ],
+      "summary": "Hotel Taj is a historic 50-year-old biryani destination in Chikmagalur, famous for serving authentic local Karnataka-style biryani."
+    },
+    {
+      "title": "Tasting Three Most Popular Biryanis In One Lunch! Epic Biryani Trail! TAJ, MAHARAJA, GRAND MAHARAJA",
+      "link": "https://www.youtube.com/watch?v=JBLDHqCA1Mk",
+      "lat": 13.3244829,
+      "long": 75.767465,
+      "address": "Hotel Taj, Indira Gandhi Rd, Joythinagar, Chikkamagaluru, Karnataka 577101",
+      "ph_no": "+91 94484 14550",
+      "cuisine": [
+        "Biryani",
+        "Karnataka",
+        "South Indian"
+      ],
+      "price": "$$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [
+        {
+          "name": "Mutton Biryani",
+          "summary": "Cooked over a wood-fired stove combining three rice varieties and choicest cuts of lamb to create a moist, deep-flavoured biryani.",
+          "price": "Rs. 257"
+        },
+        {
+          "name": "Chicken Kabab",
+          "summary": "Popular spiced fried chicken kabab starter.",
+          "price": "Rs. 115"
+        },
+        {
+          "name": "Mutton Sukka",
+          "summary": "Flavorful, dry-spiced mutton dish.",
+          "price": "Rs. 219"
+        }
+      ],
+      "summary": "Hotel Taj is a half-a-century-old iconic biryani spot in Chikkamagaluru where the biryani master cooks over a wood-fired stove, combining three rice varieties and quality mutton to make a moist, deeply rich biryani."
     },
     {
       "title": "3 Popular Chikmagalur Biryanis! #shorts #foodvlog #biryani #chikmagalur #foodie #indiancuisine",
       "link": "https://www.youtube.com/watch?v=v8PiN-5ukXw",
       "lat": 13.3244829,
       "long": 75.767465,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Indira Gandhi Rd, Joythinagar, Chikkamagaluru, Karnataka 577101",
+      "ph_no": "+91 94484 14550",
+      "cuisine": [
+        "Biryani",
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Chikmagalur Biryani",
+          "summary": "Iconic regional style biryani served at this 50-year-old eatery.",
+          "price": ""
+        }
+      ],
+      "summary": "Hotel Taj is an iconic 50-year-old biryani shop in Chikkamagaluru, widely popular for its traditional regional biryani and legacy flavors."
     }
   ],
   "Tasting Three Most Popular Biryanis In One Lunch! Epic Biryani Trail! TAJ, MAHARAJA, GRAND MAHARAJA": [
-    {
-      "title": "Tasting Three Most Popular Biryanis In One Lunch! Epic Biryani Trail! TAJ, MAHARAJA, GRAND MAHARAJA",
-      "link": "https://www.youtube.com/watch?v=JBLDHqCA1Mk",
-      "lat": 13.3215254,
-      "long": 75.6898048,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
-    {
-      "title": "Tasting Three Most Popular Biryanis In One Lunch! Epic Biryani Trail! TAJ, MAHARAJA, GRAND MAHARAJA",
-      "link": "https://www.youtube.com/watch?v=JBLDHqCA1Mk",
-      "lat": 13.3244829,
-      "long": 75.767465,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
     {
       "title": "Tasting Three Most Popular Biryanis In One Lunch! Epic Biryani Trail! TAJ, MAHARAJA, GRAND MAHARAJA",
       "link": "https://www.youtube.com/watch?v=JBLDHqCA1Mk",
@@ -29220,34 +29432,54 @@
       "summary": ""
     }
   ],
-  "Tried The Chikmagalur Donne Biryani? Very Different! #shorts #foodvlog #biryani #chikmagalur #food": [
+  "Captain's Donne Biryani": [
     {
       "title": "Tried The Chikmagalur Donne Biryani? Very Different! #shorts #foodvlog #biryani #chikmagalur #food",
       "link": "https://www.youtube.com/watch?v=alX5tOXR_20",
       "lat": 13.3157681,
       "long": 75.7714343,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "The Captain\u2019s Donne Biryani, Kadur, Chikkamagaluru, Karnataka 577101",
+      "ph_no": "+91 98805 00090",
+      "cuisine": [
+        "Karnataka",
+        "South Indian",
+        "Biryani"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Chikmagalur Donne Biryani",
+          "summary": "A distinct yellowish-red biryani with flavours led by Byadgi chillies and a host of whole spices.",
+          "price": ""
+        }
+      ],
+      "summary": "Captain's Donne Biryani in Chikkamagaluru comes highly recommended by locals for its distinct yellowish-red Chikmagalur-style biryani, flavoured heavily with Byadgi chillies and whole spices."
     }
   ],
-  "The Spicy Chikmagalur Donne Biryani! #shorts #foodvlog #biryani #chikmagalur #foodie #muttonbiryani": [
+  "The Captain\u2019s Donne Biryani": [
     {
       "title": "The Spicy Chikmagalur Donne Biryani! #shorts #foodvlog #biryani #chikmagalur #foodie #muttonbiryani",
       "link": "https://www.youtube.com/watch?v=UoUOpEr1QGE",
       "lat": 13.3157681,
       "long": 75.7714343,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Kadur, Chikkamagaluru, Karnataka 577101",
+      "ph_no": "+91 98805 00090",
+      "cuisine": [
+        "Karnataka",
+        "South Indian",
+        "Biryani"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Mutton Donne Biryani",
+          "summary": "Spicy Donne Biryani cooked using a unique local masala that contributes to its flavorful appeal.",
+          "price": ""
+        }
+      ],
+      "summary": "The Captain's Donne Biryani in Kadur, Chikkamagaluru serves flavorful and spicy Donne Biryani prepared with a unique signature masala."
     }
   ],
   "They Cook 5 Tonnes Of This Biryani Every Month! Chikmagaluru\u2019s Famous CAPTAIN\u2019S DONNE BIRYANI!": [
