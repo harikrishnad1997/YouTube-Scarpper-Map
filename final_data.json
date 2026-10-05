@@ -20554,6 +20554,58 @@
         }
       ],
       "summary": "This video is a review of Ebony, a multi-cuisine restaurant in Bengaluru, India. The restaurant is located on the 13th floor of a high-rise building and offers stunning views of the city.  Ebony is known for its delicious food and its democratic atmosphere.  The reviewer recommends the Nonya Crunchy Butter Prawns, the Arcot Mutton Chops, and the Malaidar Dal Makhni. The restaurant is temporarily closed but is expected to reopen in September 2020.  A unique aspect of the restaurant is that it came into being quite by accident, born out of a crisis after its owner, having bought the property as an investment was unable to flip it owing to the adverse fall out of the first Gulf war"
+    },
+    {
+      "title": "EBONY: Lunch At Bengaluru\u2019s Oldest Multi-Cuisine Restaurant! [90s Icon Series]",
+      "link": "https://www.youtube.com/watch?v=Qo_bKMof2Jk",
+      "lat": 12.9754955,
+      "long": 77.6025517,
+      "address": "13th Floor, Tower-B, 84, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "ph_no": "+91 80 41783344",
+      "cuisine": [
+        "Multi-cuisine",
+        "Indian",
+        "Pan-Asian",
+        "Parsi",
+        "Thai",
+        "Burmese",
+        "Chinese"
+      ],
+      "price": "$$$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [
+        {
+          "name": "Arcot Lamb Chops",
+          "summary": "Tender lamb chops coated in flavorful Arcot-style spices, rated 9.5/10.",
+          "price": "Rs. 400 (half portion)"
+        },
+        {
+          "name": "Burmese Khaoswe",
+          "summary": "Aromatic and rich Burmese coconut curry noodle bowl, rated 9/10.",
+          "price": "Rs. 265 (half portion)"
+        },
+        {
+          "name": "Akasaka Mushrooms",
+          "summary": "Flavorful pan-Asian mushroom starter, rated 8.5/10.",
+          "price": "Rs. 240 (half portion)"
+        },
+        {
+          "name": "Kung Pao Chicken",
+          "summary": "Spicy and savory chicken with peanuts and Asian flavors, rated 8.5/10.",
+          "price": "Rs. 275 (half portion)"
+        },
+        {
+          "name": "Mutton Dhansak",
+          "summary": "Classic Parsi style mutton curry with cooked lentils and rice, rated 8/10.",
+          "price": "Rs. 375 (half portion)"
+        },
+        {
+          "name": "Tob Tim Krob",
+          "summary": "Refreshing Thai dessert made with crunchy water chestnuts in coconut milk, rated 8.5/10.",
+          "price": "Rs. 295"
+        }
+      ],
+      "summary": "Ebony is one of Bengaluru's oldest and iconic 90s fine-dining multi-cuisine restaurants, located on the 13th floor on MG Road. It offers a nostalgic, high-elevation dining experience featuring a wide menu ranging from regional Indian specialities like Arcot Lamb Chops to Asian hits like Burmese Khaoswe."
     }
   ],
   "MARATHA DARSHAN": [
@@ -28303,36 +28355,91 @@
         }
       ],
       "summary": "Wilton Restaurant in Sultan Bathery, Wayanad, is a popular dining destination blending traditional regional cooks with professional chefs. It serves an extensive menu featuring local Kerala delicacies, seafood sadya, and their signature biryanis."
-    }
-  ],
-  "500 Guests! Kerala\u2019s Biggest Restaurant? Wilton Kitchen Tour: Secret Biryani & Seafood Sadya! Part 1": [
+    },
     {
       "title": "500 Guests! Kerala\u2019s Biggest Restaurant? Wilton Kitchen Tour: Secret Biryani & Seafood Sadya! Part 1",
       "link": "https://www.youtube.com/watch?v=plVkgLFpA3E",
       "lat": 11.6585731,
       "long": 76.2444123,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Dhottappankulam, NH 766, Sultan Bathery, Kerala 673592",
+      "ph_no": "+91 79025 64444",
+      "cuisine": [
+        "Kerala",
+        "South Indian",
+        "Seafood"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Seafood Sadya",
+          "summary": "A grand Kerala feast served with a variety of rich seafood preparations.",
+          "price": ""
+        },
+        {
+          "name": "Wilton Biryani",
+          "summary": "The restaurant's signature biryani cooked using a secret spice blend.",
+          "price": ""
+        },
+        {
+          "name": "Parotta",
+          "summary": "Freshly cooked, traditional flaky Kerala parottas.",
+          "price": ""
+        }
+      ],
+      "summary": "Wilton Restaurant in Sulthan Bathery, Wayanad, is one of Kerala's largest dining establishments, capable of hosting up to 500 guests simultaneously. Run by a third-generation family, the culinary powerhouse is celebrated for its signature Wilton Biryani, elaborate Seafood Sadya, and traditional Malabar parottas."
     }
   ],
-  "Taste of Kudla in Coffee Town! \ud83c\udfa3 Fresh Catch from Udupi, Honest Prices & Chikmagalur Twist": [
+  "Sea Spice": [
     {
       "title": "Taste of Kudla in Coffee Town! \ud83c\udfa3 Fresh Catch from Udupi, Honest Prices & Chikmagalur Twist",
       "link": "https://www.youtube.com/watch?v=_N6zvcNUsSs",
       "lat": 13.3153595,
       "long": 75.7686684,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "KM Rd, near Malabar Gold, Nallur, Chikkamagaluru, Karnataka 577101",
+      "ph_no": "+91 99724 28895",
+      "cuisine": [
+        "Coastal Karnataka",
+        "Mangalorean",
+        "Udupi",
+        "Kundapura",
+        "Seafood"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Silver Fish Curry",
+          "summary": "Creamy, mildest, and standout fish curry dish of the meal.",
+          "price": "Rs. 160"
+        },
+        {
+          "name": "Marvai Sukka",
+          "summary": "Flavorful clam sukka prepared with rich coastal spices.",
+          "price": "Rs. 150"
+        },
+        {
+          "name": "Disco Masala Fish Fry",
+          "summary": "Fiery and flavorful fish fry made as per fresh daily catch.",
+          "price": "Rs. 160"
+        },
+        {
+          "name": "Prawn Ghee Roast",
+          "summary": "A unique coastal take on rich prawn ghee roast.",
+          "price": "Rs. 400"
+        },
+        {
+          "name": "Chicken Sukka",
+          "summary": "Satisfying chicken sukka prepared with a local Chikmagalur twist.",
+          "price": "Rs. 160"
+        },
+        {
+          "name": "Mackerel Pullimunchi",
+          "summary": "Tangy and spicy coastal mackerel curry dish.",
+          "price": "Rs. 130"
+        }
+      ],
+      "summary": "Sea Spice in Chikmagalur brings coastal seafood flavors from Udupi, Mangalore, and Kundapura inland. Run by young entrepreneurs sourcing fresh daily catch from the coast, the food combines classic coastal recipes with a spicy local twist at honest, affordable prices."
     }
   ],
   "THE HAPPIEST CAF\u00c9 IN MYSURU? \ud83e\udd29 This Couple Brings Single Origin Brews, Nati Koli Cutlet & More! VUI!": [
@@ -29055,21 +29162,6 @@
       "summary": ""
     }
   ],
-  "EBONY: Lunch At Bengaluru\u2019s Oldest Multi-Cuisine Restaurant! [90s Icon Series]": [
-    {
-      "title": "EBONY: Lunch At Bengaluru\u2019s Oldest Multi-Cuisine Restaurant! [90s Icon Series]",
-      "link": "https://www.youtube.com/watch?v=Qo_bKMof2Jk",
-      "lat": 12.9754955,
-      "long": 77.6025517,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    }
-  ],
   "Sri Gajanana Refreshments": [
     {
       "title": "The Iconic Sri Gajanana Set Dosae Of Hassan! #shorts #foodvlog #breakfast #dosa #hassan #foodie",
@@ -29632,19 +29724,50 @@
       "summary": ""
     }
   ],
-  "This Coffee Lover\u2019s Caf\u00e9 Takes Coffee & Its Food To The Next Level! DRIP AND DROP COFFEE Bengaluru": [
+  "Drip And Drop Coffee": [
     {
       "title": "This Coffee Lover\u2019s Caf\u00e9 Takes Coffee & Its Food To The Next Level! DRIP AND DROP COFFEE Bengaluru",
       "link": "https://www.youtube.com/watch?v=qZzmjlb1DxY",
       "lat": 12.9061899,
       "long": 77.5879213,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "289, 15th Cross Rd, opp. to Rameshwaram Cafe, 5th Phase, J P Nagar Phase 5, J. P. Nagar, Bengaluru, Karnataka 560078",
+      "ph_no": "+91 95382 38355",
+      "cuisine": [
+        "Caf\u00e9",
+        "Specialty Coffee",
+        "Bakery",
+        "Continental"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Mr Maillard Burger",
+          "summary": "Savory mushroom burger cooked to perfection with rich, deeply caramelized flavors.",
+          "price": "Rs. 310"
+        },
+        {
+          "name": "Orange Cold Brew",
+          "summary": "Refreshing cold brew infused with bright, citrusy orange notes.",
+          "price": "Rs. 220"
+        },
+        {
+          "name": "Mixed Milk Latt\u00e9",
+          "summary": "Smooth and balanced espresso-based latte prepared using a combination of milks.",
+          "price": "Rs. 210"
+        },
+        {
+          "name": "Koppa Da Bun",
+          "summary": "Spicy, uniquely seasoned Korean-inspired savory bun.",
+          "price": "Rs. 237"
+        },
+        {
+          "name": "Iced Mango Matcha Latt\u00e9",
+          "summary": "Vibrant and refreshing drink layered with fruity mango and earthy matcha.",
+          "price": "Rs. 271"
+        }
+      ],
+      "summary": "Drip And Drop Coffee in JP Nagar, Bengaluru is an elevated specialty coffee shop and caf\u00e9 founded by coffee connoisseur Gurudeep. Built ground-up from a cloud kitchen concept, the caf\u00e9 offers a wide range of pour-overs, cold brews, and innovative espresso drinks alongside cooked-to-order artisanal eats like bagels, burgers, and Korean buns."
     }
   ],
   "Exploring Hidden Bachelor Canteen Food In Bengaluru! #shorts #foodvlog #bangalore #foodie": [
