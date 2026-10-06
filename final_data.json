@@ -29464,19 +29464,39 @@
       "summary": ""
     }
   ],
-  "Goli Bajje, Mangalore Buns & Coffee! What Else Do You Need! #shorts #foodvlog #mangalore #coffee": [
+  "Anmol Veg Restaurant": [
     {
       "title": "Goli Bajje, Mangalore Buns & Coffee! What Else Do You Need! #shorts #foodvlog #mangalore #coffee",
       "link": "https://www.youtube.com/watch?v=3uXwzfQksgg",
       "lat": 12.8882635,
       "long": 74.8390667,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "Opp Pai International, Near Baliga Super Market, Bharath Mall, Bejai Kavoor Rd, Kapikad, Mangaluru, Karnataka 575004",
+      "ph_no": "+91 824 222 2303",
+      "cuisine": [
+        "South Indian",
+        "Mangalorean",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Goli Bajje",
+          "summary": "Crispy and soft Mangalorean style fried flour fritters.",
+          "price": ""
+        },
+        {
+          "name": "Mangalore Buns",
+          "summary": "Sweet and fluffy banana-based deep-fried puri.",
+          "price": ""
+        },
+        {
+          "name": "Coffee",
+          "summary": "Traditional South Indian style coffee.",
+          "price": ""
+        }
+      ],
+      "summary": "Anmol is a popular vegetarian restaurant in Mangaluru renowned for serving delicious local Mangalorean breakfast items and snacks like Goli Bajje, Mangalore Buns, and filter coffee."
     }
   ],
   "Found This Delightful Breakfast In Mangalore! #shorts #foodvlog #mangalore #breakfast  #indianfood": [
