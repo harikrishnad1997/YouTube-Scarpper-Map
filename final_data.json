@@ -28442,19 +28442,49 @@
       "summary": "Sea Spice in Chikmagalur brings coastal seafood flavors from Udupi, Mangalore, and Kundapura inland. Run by young entrepreneurs sourcing fresh daily catch from the coast, the food combines classic coastal recipes with a spicy local twist at honest, affordable prices."
     }
   ],
-  "THE HAPPIEST CAF\u00c9 IN MYSURU? \ud83e\udd29 This Couple Brings Single Origin Brews, Nati Koli Cutlet & More! VUI!": [
+  "VUI Coffee Roasters": [
     {
       "title": "THE HAPPIEST CAF\u00c9 IN MYSURU? \ud83e\udd29 This Couple Brings Single Origin Brews, Nati Koli Cutlet & More! VUI!",
       "link": "https://www.youtube.com/watch?v=yL0bQOWOeak",
       "lat": 12.3069842,
       "long": 76.6136588,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "130/1C, 2nd Cross Road, Bogadi 2nd Stage, Gangothri Layout, Mysuru, Karnataka 570009",
+      "ph_no": "+91 96067 74869",
+      "cuisine": [
+        "Cafe",
+        "Coffee",
+        "Karnataka"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Nati Koli Cutlet",
+          "summary": "A tasty and unique local specialty cutlet made with country chicken.",
+          "price": "Rs. 230"
+        },
+        {
+          "name": "Pour Over Coffees",
+          "summary": "Phenomenal single-origin brew made from organic coffee beans sourced from Chikmagalur.",
+          "price": "Rs. 250"
+        },
+        {
+          "name": "Almond Pudding",
+          "summary": "A heavenly, delicious homemade almond milk dessert.",
+          "price": "Rs. 170"
+        },
+        {
+          "name": "Filter Coffee",
+          "summary": "A classic, comforting, and well-brewed South Indian filter coffee.",
+          "price": "Rs. 95"
+        },
+        {
+          "name": "Sweet Potato & Foxtail Millet Tikki",
+          "summary": "A light and healthy savory tikki made with sweet potato and foxtail millet.",
+          "price": "Rs. 140"
+        }
+      ],
+      "summary": "VUI Coffee Roasters in Bogadi, Mysuru, is a cheerful, warm, and sustainable cafe offering single-origin coffees sourced from Chikmagalur. Founded by a passionate team, it pairs artisanal coffee brews with fresh, thoughtful dishes like Nati Koli cutlets and house-made desserts."
     }
   ],
   "Motherland Coffee Club": [
@@ -28500,6 +28530,23 @@
     {
       "title": "Exploring 50-Year-Old VASAVI COFFEE And A Young Start Up Caf\u00e9, MOTHERLAND COFFEE CLUB, Chikmagalur!",
       "link": "https://www.youtube.com/watch?v=7T1LmkRS-dU",
+      "lat": 13.2660576,
+      "long": 75.7046315,
+      "address": "Vastare Bus Stop, State Highway 64, Vastare, Karnataka 577133",
+      "ph_no": "+91 94810 24356",
+      "cuisine": [
+        "Coffee",
+        "Cafe",
+        "South Indian"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [],
+      "summary": "Motherland Coffee Club is a modest young startup caf\u00e9 located in Chikmagalur. Founded during the pandemic, it celebrates the region's rich local coffee culture with fresh artisanal brews and passionate coffee craftsmanship."
+    },
+    {
+      "title": "Exploring 50-Year-Old VASAVI COFFEE And A Young Start Up Caf\u00e9, MOTHERLAND COFFEE CLUB, Chikmagalur!",
+      "link": "https://www.youtube.com/watch?v=7T1LmkRS-dU",
       "lat": 13.3179337,
       "long": 75.771556,
       "address": "Vastare Bus Stop, State Highway 64, Vastare, Karnataka 577133",
@@ -28513,21 +28560,6 @@
       "v_n_ng": "Veg",
       "best_dishes": [],
       "summary": "Motherland Coffee Club is a modest start-up cafe located near Chikmagalur, born during the pandemic, that celebrates Chikmagalur's rich local coffee culture with artisanal and fresh brews."
-    }
-  ],
-  "Exploring 50-Year-Old VASAVI COFFEE And A Young Start Up Caf\u00e9, MOTHERLAND COFFEE CLUB, Chikmagalur!": [
-    {
-      "title": "Exploring 50-Year-Old VASAVI COFFEE And A Young Start Up Caf\u00e9, MOTHERLAND COFFEE CLUB, Chikmagalur!",
-      "link": "https://www.youtube.com/watch?v=7T1LmkRS-dU",
-      "lat": 13.2660576,
-      "long": 75.7046315,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
     }
   ],
   "This 77-Year-Old Eatery is a Hidden Gem! | Kalyan Bhavan, Somwarpet": [
@@ -28545,19 +28577,55 @@
       "summary": ""
     }
   ],
-  "Spicy Chicken \ud83c\udf36\ufe0f & Wild Mango \ud83e\udd6d Curry: Eating Kodava Cuisine at Thaliya, Madikeri, Coorg": [
+  "Thaliya": [
     {
       "title": "Spicy Chicken \ud83c\udf36\ufe0f & Wild Mango \ud83e\udd6d Curry: Eating Kodava Cuisine at Thaliya, Madikeri, Coorg",
       "link": "https://www.youtube.com/watch?v=0dAXsd1zyxU",
       "lat": 12.4194793,
       "long": 75.7401863,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Brahmins Valley, Temple Rd, above New Redfern, Stuart Hill, Madikeri, Karnataka 571201",
+      "ph_no": "+91 78925 33545",
+      "cuisine": [
+        "Kodava",
+        "Coorg",
+        "Karnataka",
+        "South Indian"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Mange Curry",
+          "summary": "A tangy, unique wild mango curry that was the standout dish of the meal.",
+          "price": "Rs. 180"
+        },
+        {
+          "name": "Chicken Chidkan",
+          "summary": "Fiery and flavorful chicken preparation showcasing authentic regional spices.",
+          "price": "Rs. 220"
+        },
+        {
+          "name": "Baimbale Palya",
+          "summary": "A delicious seasonal bamboo shoot fry.",
+          "price": "Rs. 140"
+        },
+        {
+          "name": "Pork Chilli",
+          "summary": "A popular, flavorful spicy pork dish.",
+          "price": "Rs. 270"
+        },
+        {
+          "name": "Nallamalu Kanni",
+          "summary": "A traditional flavorful soup/broth starter.",
+          "price": "Rs. 100"
+        },
+        {
+          "name": "Pandi Curry",
+          "summary": "Classic Kodava style dark pork curry.",
+          "price": "Rs. 260"
+        }
+      ],
+      "summary": "Located in Madikeri, Thaliya offers authentic Kodava cuisine with lovely views of the town. Highlights include their exceptional wild mango curry (Mange Curry) and spicy local non-vegetarian delicacies."
     }
   ],
   "Original Taste of Darjeeling": [
@@ -28757,6 +28825,45 @@
     {
       "title": "Momos, Tiramisu & Gajbaje! A Mangalore Foodie Evening! NATURALS SUNDAES, BUCO CAF\u00c9, DARJEELING MOMOS",
       "link": "https://www.youtube.com/watch?v=LmNdfxWqXUw",
+      "lat": 12.8806722,
+      "long": 74.8433884,
+      "address": "1st floor, GML complex, Arya Samaj Rd, Mallikatte, Balmatta, Mangaluru, Karnataka 575002",
+      "ph_no": "+91 81050 83888",
+      "cuisine": [
+        "Caf\u00e9",
+        "Coffee",
+        "Desserts",
+        "Bakery"
+      ],
+      "price": "$$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Andres Passion",
+          "summary": "A refreshing passionfruit vanilla cold brew coffee.",
+          "price": "Rs. 238"
+        },
+        {
+          "name": "Baguette Rusk",
+          "summary": "Crispy baguette rusk that complements the coffee selection.",
+          "price": ""
+        },
+        {
+          "name": "Filter Coffee",
+          "summary": "Classic freshly brewed filter coffee.",
+          "price": "Rs. 85"
+        },
+        {
+          "name": "Tiramisu",
+          "summary": "Classic coffee-flavoured layered dessert.",
+          "price": "Rs. 285"
+        }
+      ],
+      "summary": "Buco Caf\u00e9 is a vibrant new-age caf\u00e9 in Mangaluru offering artisan cold brews, traditional filter coffee, tiramisu, and crispy baguette rusks in a relaxed setting."
+    },
+    {
+      "title": "Momos, Tiramisu & Gajbaje! A Mangalore Foodie Evening! NATURALS SUNDAES, BUCO CAF\u00c9, DARJEELING MOMOS",
+      "link": "https://www.youtube.com/watch?v=LmNdfxWqXUw",
       "lat": 12.8859527,
       "long": 74.8302737,
       "address": "1st floor, GML complex, Arya Samaj Rd, Mallikatte, Balmatta, Mangaluru, Karnataka 575002",
@@ -28792,34 +28899,6 @@
         }
       ],
       "summary": "Buco Caf\u00e9 is a contemporary new-age coffee shop in Mangaluru known for its specialty cold brews, coffee, rusk, and tiramisu dessert in a relaxed setting."
-    }
-  ],
-  "Momos, Tiramisu & Gajbaje! A Mangalore Foodie Evening! NATURALS SUNDAES, BUCO CAF\u00c9, DARJEELING MOMOS": [
-    {
-      "title": "Momos, Tiramisu & Gajbaje! A Mangalore Foodie Evening! NATURALS SUNDAES, BUCO CAF\u00c9, DARJEELING MOMOS",
-      "link": "https://www.youtube.com/watch?v=LmNdfxWqXUw",
-      "lat": 12.8806722,
-      "long": 74.8433884,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
-    {
-      "title": "Momos, Tiramisu & Gajbaje! A Mangalore Foodie Evening! NATURALS SUNDAES, BUCO CAF\u00c9, DARJEELING MOMOS",
-      "link": "https://www.youtube.com/watch?v=LmNdfxWqXUw",
-      "lat": 12.8740187,
-      "long": 74.8491206,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
     }
   ],
   "This Med Rep & His Wife Wake Up At 330 AM Everyday To Serve Mysuru Delicious Karavali Thindis! \ud83d\ude0b\ud83c\udf05": [
@@ -29115,6 +29194,21 @@
         }
       ],
       "summary": "Palm Grove, located at Ballal Residency on Residency Road in Bengaluru, is a classic 90s vegetarian restaurant known for its cosy ambience, popular tiffins, Bonda Rasam, and delicious South Indian Thali."
+    }
+  ],
+  "Momos, Tiramisu & Gajbaje! A Mangalore Foodie Evening! NATURALS SUNDAES, BUCO CAF\u00c9, DARJEELING MOMOS": [
+    {
+      "title": "Momos, Tiramisu & Gajbaje! A Mangalore Foodie Evening! NATURALS SUNDAES, BUCO CAF\u00c9, DARJEELING MOMOS",
+      "link": "https://www.youtube.com/watch?v=LmNdfxWqXUw",
+      "lat": 12.8740187,
+      "long": 74.8491206,
+      "address": "",
+      "ph_no": null,
+      "cuisine": null,
+      "price": "",
+      "v_n_ng": "Non-veg",
+      "best_dishes": null,
+      "summary": ""
     }
   ],
   "Amazing Kebabs & Curries At This Bengaluru Neighbourhood Gem! #shorts #foodvlog #bangalore #foodie": [
