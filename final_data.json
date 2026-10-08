@@ -28213,6 +28213,60 @@
       "v_n_ng": "Veg",
       "best_dishes": [],
       "summary": "Karavali Thindis is a food truck in Mysuru run by Raghavendra and Naina, serving fresh and authentic Karavali-style South Indian breakfast tiffins."
+    },
+    {
+      "title": "This Med Rep & His Wife Wake Up At 330 AM Everyday To Serve Mysuru Delicious Karavali Thindis! \ud83d\ude0b\ud83c\udf05",
+      "link": "https://www.youtube.com/watch?v=5CFldxYEEo4",
+      "lat": 12.3073686,
+      "long": 76.6342095,
+      "address": "K.G Koppal, Chamarajapuram Mohalla, Chamrajpura, Mysuru, Karnataka 570005",
+      "ph_no": "+91 99168 90700",
+      "cuisine": [
+        "South Indian",
+        "Karavali",
+        "Mangalorean",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Kotte Kadubu",
+          "summary": "Steamed savory rice cakes prepared in jackfruit leaf cups, rated 9/10.",
+          "price": "Rs. 20 per piece"
+        },
+        {
+          "name": "Navane Khichdi",
+          "summary": "Healthy and comforting foxtail millet khichdi, rated 9/10.",
+          "price": "Rs. 50"
+        },
+        {
+          "name": "Neer Dosae",
+          "summary": "Soft, delicate, lacy rice crepes served fresh, rated 8.5/10.",
+          "price": "Rs. 15 per piece"
+        },
+        {
+          "name": "Mangalore Buns",
+          "summary": "Sweet and fluffy banana-infused deep-fried bread, rated 8/10.",
+          "price": "Rs. 20 per piece"
+        },
+        {
+          "name": "Chattambade",
+          "summary": "Crispy and savory chana dal fritters, rated 8/10.",
+          "price": "Rs. 5 per piece"
+        },
+        {
+          "name": "Chitranna",
+          "summary": "Flavorful seasoned rice dish, rated 8/10.",
+          "price": "Rs. 40"
+        },
+        {
+          "name": "Ottu Shavige",
+          "summary": "Fresh hand-pressed rice string hoppers, rated 7/10.",
+          "price": "Rs. 20 per piece"
+        }
+      ],
+      "summary": "Karavali Thindis is a popular food truck in Mysuru operated by former medical representative Raghavendra Pai and his wife Naina. Starting their day at 3:30 AM, they serve delicious, authentic coastal Karnataka homestyle breakfast tiffins including Neer Dosae, Kotte Kadubu, Mangalore Buns, and millet dishes to early morning diners."
     }
   ],
   "Olan Restaurant": [
@@ -28562,19 +28616,34 @@
       "summary": "Motherland Coffee Club is a modest start-up cafe located near Chikmagalur, born during the pandemic, that celebrates Chikmagalur's rich local coffee culture with artisanal and fresh brews."
     }
   ],
-  "This 77-Year-Old Eatery is a Hidden Gem! | Kalyan Bhavan, Somwarpet": [
+  "Kalyan Bhavan": [
     {
       "title": "This 77-Year-Old Eatery is a Hidden Gem! | Kalyan Bhavan, Somwarpet",
       "link": "https://www.youtube.com/watch?v=1l-34u88A_8",
       "lat": 12.5951193,
       "long": 75.8531819,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "Kalyan Bhavan, SH 85, Somwarpet, Karnataka 571236",
+      "ph_no": "+91 82762 82096/ 96118 52555",
+      "cuisine": [
+        "South Indian",
+        "Kannada",
+        "Kodagu"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Onion Dosae",
+          "summary": "Crispy signature dosa topped with onions, rated 10/10.",
+          "price": "Rs. 80"
+        },
+        {
+          "name": "Ghee Masala Dosae",
+          "summary": "Signature dosa prepared with generous amounts of ghee and spiced potato filling, rated 9/10.",
+          "price": "Rs. 70"
+        }
+      ],
+      "summary": "Established in 1948, Kalyan Bhavan is a iconic, family-run eatery in Somwarpet, North Kodagu. Currently managed by the second and third generations, they serve an authentic South Indian breakfast spread including ghee masala dosae, onion dosae, idlis, vades, poori palya, and traditional coffee in a homely setting. Open for breakfast and lunch only; closed on Sundays."
     }
   ],
   "Thaliya": [
@@ -28901,34 +28970,39 @@
       "summary": "Buco Caf\u00e9 is a contemporary new-age coffee shop in Mangaluru known for its specialty cold brews, coffee, rusk, and tiramisu dessert in a relaxed setting."
     }
   ],
-  "This Med Rep & His Wife Wake Up At 330 AM Everyday To Serve Mysuru Delicious Karavali Thindis! \ud83d\ude0b\ud83c\udf05": [
-    {
-      "title": "This Med Rep & His Wife Wake Up At 330 AM Everyday To Serve Mysuru Delicious Karavali Thindis! \ud83d\ude0b\ud83c\udf05",
-      "link": "https://www.youtube.com/watch?v=5CFldxYEEo4",
-      "lat": 12.3073686,
-      "long": 76.6342095,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    }
-  ],
-  "Hidden Gem on the Mysuru-Coorg Route: New Kaveri Hindu Military Hotel Hunsur \u2728\ud83d\ude0b": [
+  "New Kaveri Hindu Military Hotel": [
     {
       "title": "Hidden Gem on the Mysuru-Coorg Route: New Kaveri Hindu Military Hotel Hunsur \u2728\ud83d\ude0b",
       "link": "https://www.youtube.com/watch?v=uLL9HwMHn-s",
       "lat": 12.3118671,
       "long": 76.2891108,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Opposite Gopika Palace Bar, Bypass Road, Hunsur, Karnataka 571105",
+      "ph_no": "+91 98456 04090",
+      "cuisine": [
+        "Kannada",
+        "South Indian",
+        "Military Hotel"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Catla Fry",
+          "summary": "Fantastic, crusty fried fish starter.",
+          "price": "Rs. 80"
+        },
+        {
+          "name": "Chicken Masala",
+          "summary": "Thick, textured chicken curry, ideal when paired with soft Ragi Mudde.",
+          "price": "Rs. 120"
+        },
+        {
+          "name": "Mutton Kurma",
+          "summary": "Rich, well-rounded curry featuring mutton cooked with just the right bite.",
+          "price": "Rs. 230"
+        }
+      ],
+      "summary": "New Kaveri Hindu Military Hotel is a 50-year legacy, family-run hidden gem situated on the Mysuru-Coorg route in Hunsur. It is celebrated for serving hearty, flavorful, and honestly priced Karnataka military hotel non-vegetarian dishes."
     }
   ],
   "Home Style Soft Idlis, Wood-Fired Dosae! Inaugurated This Tiffin Gem! Namma Filter Coffee & Tiffins!": [
