@@ -29625,49 +29625,154 @@
       "summary": "Agni's is a popular one-man shop in Mangaluru known for serving quality, honestly priced burgers, fried chicken, fish, and fries."
     }
   ],
-  "This One-Man Shop Serves Honestly Priced, Quality Burgers & Fries! Let\u2019s Support AGNI\u2019S Mangalore": [
+  "Agni's Fish, Chicken and Fries": [
     {
       "title": "This One-Man Shop Serves Honestly Priced, Quality Burgers & Fries! Let\u2019s Support AGNI\u2019S Mangalore",
       "link": "https://www.youtube.com/watch?v=c3R05muo0w0",
       "lat": 12.8783126,
       "long": 74.8378326,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Ground Floor, Vasantha Chamber, PVS Kala Kunj, Besant Lane, Kodailbail, Mangaluru, Karnataka 575003",
+      "ph_no": "+91 70323 06507",
+      "cuisine": [
+        "Fast Food",
+        "Burgers",
+        "Seafood",
+        "Mangalorean"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Coastal Chicken Burger",
+          "summary": "Juicy chicken thigh burger made with a distinct coastal touch and precise seasoning.",
+          "price": ""
+        },
+        {
+          "name": "Bondas Fry",
+          "summary": "Fresh and crispy fried calamari rings.",
+          "price": ""
+        },
+        {
+          "name": "Fish Crumb Fry",
+          "summary": "Chunky, flakey Indian salmon crumb-fried to perfection.",
+          "price": ""
+        }
+      ],
+      "summary": "Run entirely by a one-man army, Raveen Keshav Pai, Agni's in Kodialbail, Mangalore offers quality, freshly made, honestly priced burgers, sandwiches, and seafood fry items crafted with immense care and precision."
     }
   ],
-  "Must Try Dishes At Best Indian Restaurant In Bangkok! #shorts #foodvlog #jhol #bangkok #kripalamanna": [
+  "Jhol Coastal Indian Cuisine": [
     {
       "title": "Must Try Dishes At Best Indian Restaurant In Bangkok! #shorts #foodvlog #jhol #bangkok #kripalamanna",
       "link": "https://www.youtube.com/watch?v=kBlspmoparg",
       "lat": 13.7337585,
       "long": 100.5603611,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "7 2 Sukhumvit Soi 18, Khwaeng Khlong Toei, Khlong Toei, Bangkok 10110, Thailand",
+      "ph_no": "+66 917045724",
+      "cuisine": [
+        "Indian",
+        "Coastal Indian"
+      ],
+      "price": "$$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    }
-  ],
-  "Amazing Meal At Bangkok\u2019s Best Coastal Indian Restaurant, JHOL. Dishes From Kundapur To Bengal!": [
+      "best_dishes": [
+        {
+          "name": "Avocado Bombay Bhel",
+          "summary": "A modern coastal spin on classic street-style puffed rice bhel with avocado.",
+          "price": ""
+        },
+        {
+          "name": "Parsee Patra Ni Machi",
+          "summary": "Traditional Parsee steamed fish wrapped in banana leaf with green chutney.",
+          "price": ""
+        },
+        {
+          "name": "Calicut Pepper Crab",
+          "summary": "Flavorful crab preparation seasoned with black pepper in Kerala Calicut style.",
+          "price": ""
+        },
+        {
+          "name": "Iyengar Masala Maska Bun",
+          "summary": "Soft spiced bun served with a generous spread of butter.",
+          "price": ""
+        },
+        {
+          "name": "Kodava Pandi Curry",
+          "summary": "Traditional Coorg-style dark, rich, and spicy pork curry.",
+          "price": ""
+        },
+        {
+          "name": "Alleppey Fish Curry",
+          "summary": "Tangy and creamy fish curry prepared with raw mango and coconut milk.",
+          "price": ""
+        },
+        {
+          "name": "Inji Puli Ribs",
+          "summary": "Tender ribs coated with a sweet, sour, and ginger-tamarind glaze.",
+          "price": ""
+        },
+        {
+          "name": "Elaneer Payasam",
+          "summary": "Delicate and refreshing tender coconut dessert.",
+          "price": ""
+        }
+      ],
+      "summary": "Jhol is a highly acclaimed restaurant in Bangkok offering a refined, gourmet take on coastal and regional Indian cuisines from coast-to-coast across India."
+    },
     {
       "title": "Amazing Meal At Bangkok\u2019s Best Coastal Indian Restaurant, JHOL. Dishes From Kundapur To Bengal!",
       "link": "https://www.youtube.com/watch?v=lFW8Rrp4By8",
       "lat": 13.7337585,
       "long": 100.5603611,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "7 2 Sukhumvit Soi 18, Khwaeng Khlong Toei, Khlong Toei, Bangkok 10110, Thailand",
+      "ph_no": "+66 917045724",
+      "cuisine": [
+        "Coastal Indian",
+        "Indian",
+        "Mangalorean",
+        "Keralite",
+        "Bengali"
+      ],
+      "price": "$$$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Avocado Bombay Bhel",
+          "summary": "A delightful coastal interpretation of street-style puffed rice bhel elevated with avocado.",
+          "price": ""
+        },
+        {
+          "name": "Parsee Patra Ni Machi",
+          "summary": "Parsi-style spiced fish wrapped and steamed in banana leaves.",
+          "price": ""
+        },
+        {
+          "name": "Calicut Pepper Crab",
+          "summary": "Succulent crab tossed in fragrant Kerala Calicut black pepper and aromatic spices.",
+          "price": ""
+        },
+        {
+          "name": "Kundapura Ghee Roast",
+          "summary": "Classic coastal Karnataka-style chicken cooked with roasted spice paste and rich ghee.",
+          "price": ""
+        },
+        {
+          "name": "Kodava Pandi Curry",
+          "summary": "Authentic Coorg-style pork curry seasoned with dark roasted spices and kachampuli vinegar.",
+          "price": ""
+        },
+        {
+          "name": "Alleppey Fish Curry",
+          "summary": "Traditional Kerala-style fish curry infused with raw mango and coconut.",
+          "price": ""
+        },
+        {
+          "name": "Elaneer Payasam",
+          "summary": "Refreshing dessert made with delicate tender coconut flesh and milk.",
+          "price": ""
+        }
+      ],
+      "summary": "Jhol by Chef Hari Nayak is a Michelin-rated restaurant in Bangkok specializing in Coastal Indian cuisine. Celebrating authentic dishes from Gujarat, Konkan, Karwar, Mangalore, Kerala, Chennai, Odisha, and Bengal, the menu offers sophisticated multi-course tasting experiences that showcase India's rich coastal culinary heritage for a global audience."
     }
   ],
   "Hotel Taj": [
@@ -29805,21 +29910,39 @@
         }
       ],
       "summary": "Hotel Taj is an iconic 50-year-old biryani shop in Chikkamagaluru, widely popular for its traditional regional biryani and legacy flavors."
-    }
-  ],
-  "Tasting Three Most Popular Biryanis In One Lunch! Epic Biryani Trail! TAJ, MAHARAJA, GRAND MAHARAJA": [
+    },
     {
       "title": "Tasting Three Most Popular Biryanis In One Lunch! Epic Biryani Trail! TAJ, MAHARAJA, GRAND MAHARAJA",
       "link": "https://www.youtube.com/watch?v=JBLDHqCA1Mk",
       "lat": 13.3244829,
       "long": 75.767465,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Indira Gandhi Rd, Joythinagar, Chikkamagaluru, Karnataka 577101",
+      "ph_no": "+91 94484 14550",
+      "cuisine": [
+        "Biryani",
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Mutton Biryani",
+          "summary": "A half-century-old iconic wood-fired biryani cooked using three rice varieties and tender cuts of lamb to create a moist, deep-flavoured dish.",
+          "price": "Rs. 257"
+        },
+        {
+          "name": "Chicken Kabab",
+          "summary": "Crispy and savory deep-fried chicken kabab appetizer.",
+          "price": "Rs. 115"
+        },
+        {
+          "name": "Mutton Sukka",
+          "summary": "Richly spiced and dry-cooked traditional mutton sukka.",
+          "price": "Rs. 219"
+        }
+      ],
+      "summary": "Hotel Taj is a legendary 50-year-old restaurant in Chikmagalur, famous for its signature moist and aromatic mutton biryani cooked over a traditional wood-fired stove by an experienced biryani master."
     }
   ],
   "Anmol Veg Restaurant": [
@@ -29855,21 +29978,40 @@
         }
       ],
       "summary": "Anmol is a popular vegetarian restaurant in Mangaluru renowned for serving delicious local Mangalorean breakfast items and snacks like Goli Bajje, Mangalore Buns, and filter coffee."
-    }
-  ],
-  "Found This Delightful Breakfast In Mangalore! #shorts #foodvlog #mangalore #breakfast  #indianfood": [
+    },
     {
       "title": "Found This Delightful Breakfast In Mangalore! #shorts #foodvlog #mangalore #breakfast  #indianfood",
       "link": "https://www.youtube.com/watch?v=Oa5vFG876h8",
       "lat": 12.8882635,
       "long": 74.8390667,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "Opp Pai International, Near Baliga Super Market, Bharath Mall, Bejai Kavoor Rd, Kapikad, Mangaluru, Karnataka 575004",
+      "ph_no": "+91 824 222 2303",
+      "cuisine": [
+        "GSB",
+        "Mangalorean",
+        "South Indian",
+        "Indian"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Heengana",
+          "summary": "A traditional GSB delicacy served for breakfast.",
+          "price": ""
+        },
+        {
+          "name": "Dali Tove",
+          "summary": "A classic GSB style comforting lentil/dal dish.",
+          "price": ""
+        },
+        {
+          "name": "Chikoo Sheera",
+          "summary": "A sweet breakfast treat made with semolina and sapodilla (chikoo).",
+          "price": ""
+        }
+      ],
+      "summary": "Anmol is a 25-year-old popular vegetarian restaurant in Mangaluru renowned for serving authentic GSB delicacies for breakfast, including Heengana, Dali Tove, and Chikoo Sheera."
     }
   ],
   "Loved The GSB Delicacies At 25-Year-Old ANMOL Mangalore! Heengana, Dali Tove, Chikoo Sheera!": [
@@ -30334,49 +30476,131 @@
       "summary": ""
     }
   ],
-  "This Caf\u00e9 Serves 100% Organic Produce, Best Whole Wheat Bread, Pure A2 Milk Ice Cream ORGANIC MANDYA": [
+  "Organic Mandya Cafe": [
     {
       "title": "This Caf\u00e9 Serves 100% Organic Produce, Best Whole Wheat Bread, Pure A2 Milk Ice Cream ORGANIC MANDYA",
       "link": "https://www.youtube.com/watch?v=bC3nF6iyqv0",
       "lat": 12.968469,
       "long": 77.7431283,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "Organic Mandya, Whitefield, HCS Complex, Main Borewell road, 3rd Cross Rd, corner, Whitefield, Bengaluru, Karnataka 560066",
+      "ph_no": "+91 09606033448",
+      "cuisine": [
+        "Organic",
+        "Cafe",
+        "Bakery"
+      ],
+      "price": "$$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Whole Wheat Bread",
+          "summary": "Freshly baked healthy bread prepared from 100% organic whole wheat in their live bakery.",
+          "price": ""
+        },
+        {
+          "name": "Pure A2 Milk Ice Cream",
+          "summary": "Rich and pure ice cream made using A2 milk from pure desi cows.",
+          "price": ""
+        }
+      ],
+      "summary": "Organic Mandya is a farmer-empowerment organic movement turned store and cafe chain. Their Whitefield location features a live bakery and organic cafe offering 100% organic produce, fresh whole wheat breads, pure desi ghee, paneer, and A2 milk ice creams."
     }
   ],
-  "Loved The Khoa Dilpasand & Baked Dum Puri At This 75 Year Old AZEEZIA BAKERY, Mysuru!": [
+  "Azeezia Bakery": [
     {
       "title": "Loved The Khoa Dilpasand & Baked Dum Puri At This 75 Year Old AZEEZIA BAKERY, Mysuru!",
       "link": "https://www.youtube.com/watch?v=2HMxF6fZwi4",
       "lat": 12.3180428,
       "long": 76.6526042,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "B N Rd, Lashkar Mohalla, Mandi Mohalla, Mysuru, Karnataka 570001",
+      "ph_no": "+91 98800 04407",
+      "cuisine": [
+        "Bakery",
+        "South Indian",
+        "Fast Food",
+        "Desserts"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Khoa Dilpasand",
+          "summary": "Rich yet balanced, sweet khoa filled pastry.",
+          "price": "Rs. 80 per piece"
+        },
+        {
+          "name": "Varqi Biscuit",
+          "summary": "Light-as-air, flaky layered traditional bakery biscuit.",
+          "price": "Rs. 280 per kilo"
+        },
+        {
+          "name": "Baked Dum Puri",
+          "summary": "Baked halwa-stuffed crispy pastry puri.",
+          "price": "Rs. 20 per piece"
+        },
+        {
+          "name": "Badam Khara Biscuit",
+          "summary": "Savory and spicy almond cookie.",
+          "price": "Rs. 320 per kilo"
+        },
+        {
+          "name": "Chicken Puff",
+          "summary": "Flaky puff pastry stuffed with a spiced chicken savory filling.",
+          "price": "Rs. 25 per puff"
+        }
+      ],
+      "summary": "Established in the 1940s in Mysuru, Azeezia Bakery is a iconic 75-year-old bakery renowned for its traditional pastries, freshly baked biscuits, khoa dilpasand, and savory puffs."
     }
   ],
-  "These Boys Are Cooking Their Mom\u2019s Delicious Recipes! Authentic Sindhi Food In Bengaluru AGNI SAGAR": [
+  "Agni Sagar": [
     {
       "title": "These Boys Are Cooking Their Mom\u2019s Delicious Recipes! Authentic Sindhi Food In Bengaluru AGNI SAGAR",
       "link": "https://www.youtube.com/watch?v=cQF_SYhvZuQ",
       "lat": 12.9925842,
       "long": 77.5799478,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "5, Hare Krishna Rd, Above Mastani Cafe, Near Sea Rock Hotel, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
+      "ph_no": "+91 80735 81350",
+      "cuisine": [
+        "Sindhi",
+        "North Indian",
+        "Asian",
+        "Indian"
+      ],
+      "price": "$$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Dal Pakwan",
+          "summary": "Classic authentic Sindhi breakfast/snack dish served with crisp pakwans and flavorful dal.",
+          "price": "Rs. 185"
+        },
+        {
+          "name": "Sindhi Mutton",
+          "summary": "Rich, comforting, and tender Sindhi style mutton curry.",
+          "price": "Rs. 380"
+        },
+        {
+          "name": "Koki",
+          "summary": "Ghee roasted thick, seasoned Sindhi flatbread.",
+          "price": "Rs. 170"
+        },
+        {
+          "name": "Aloo Tuk",
+          "summary": "Crispy, double-fried spiced potatoes, a classic Sindhi side dish.",
+          "price": "Rs. 150"
+        },
+        {
+          "name": "Bellary Chicken Bao",
+          "summary": "Soft steamed bao filled with flavorful Bellary chicken.",
+          "price": "Rs. 285"
+        },
+        {
+          "name": "Gulab Jamun",
+          "summary": "Sweet and soft gulab jamuns served hot.",
+          "price": "Rs. 80"
+        }
+      ],
+      "summary": "Agni Sagar in Seshadripuram, Bengaluru, is a quaint eatery run by trained professional chef brothers Sagar and Akhil, serving home-style, authentic Sindhi delicacies based on their mother's recipes alongside a mix of Oriental and North Indian dishes. Highly recommended for rare, traditional Sindhi comfort food like Dal Pakwan, Koki, and Sindhi Mutton."
     }
   ],
   "Found A Next Level Country Chicken Biryani Here! RAJESH BIRYANI HOTEL Ramanagara Mysuru Highway": [
