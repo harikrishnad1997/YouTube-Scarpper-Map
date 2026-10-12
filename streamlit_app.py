@@ -107,35 +107,8 @@ if "last_retrieval" not in st.session_state:
 # ----------------------------------------------------------------------
 with st.sidebar:
     st.image("https://raw.githubusercontent.com/harikrishnad1997/YouTube-Scarpper-Map/main/Website/assets/img/logo.png", width=120) if os.path.exists("Website/assets/img/logo.png") else None
-    st.title("⚙️ Configuration")
-    
-    # API Key Configuration
-    st.subheader("Gemini API")
-    default_key = ""
-    if os.path.exists("gemini_api.txt"):
-        with open("gemini_api.txt", "r", encoding="utf-8") as f:
-            default_key = f.read().strip()
-    
-    api_key_input = st.text_input(
-        "API Key",
-        value=default_key,
-        type="password",
-        help="Google AI Studio Gemini API Key. Automatically pre-loaded from gemini_api.txt if present."
-    )
-    
-    model_choice = st.selectbox(
-        "Gemini Model",
-        options=["gemini-3.6-flash", "gemini-3.8-flash", "gemini-flash-latest"],
-        index=0,
-        help="Gemini Flash models provide ultra-fast reasoning with deep multimodal and culinary understanding."
-    )
-
-    st.divider()
-
-    # GraphRAG Parameters
-    st.subheader("🕸️ GraphRAG Settings")
-    top_k = st.slider("Top Recommendations (K)", min_value=1, max_value=8, value=4)
-    hop_depth = st.radio("Graph Hop Depth", options=[1, 2], index=1, horizontal=True, help="1-hop retrieves direct entities; 2-hop expands to similar restaurants & co-occurrences.")
+    st.title("🥘 FoodLoversTV KG")
+    st.caption("AI Concierge powered by GraphRAG & Gemini")
 
     st.divider()
 
@@ -155,8 +128,12 @@ with st.sidebar:
         st.session_state.last_retrieval = None
         st.rerun()
 
-# Initialize Gemini Client with selected model and key
-gemini_client = GeminiClient(api_key=api_key_input, model_name=model_choice)
+# Default GraphRAG & Gemini Configuration
+top_k = 5
+hop_depth = 2
+
+# Initialize Gemini Client (automatically loads key from secrets/env/gemini_api.txt)
+gemini_client = GeminiClient(model_name="gemini-3.8-flash")
 
 
 # ----------------------------------------------------------------------

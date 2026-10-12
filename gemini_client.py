@@ -35,7 +35,14 @@ class GeminiClient:
         self.key_file = key_file
 
     def _load_key(self, key_file: str) -> Optional[str]:
-        """Load API key from environment variable or key file."""
+        """Load API key from Streamlit secrets, environment variable, or key file."""
+        try:
+            import streamlit as st
+            if "GEMINI_API_KEY" in st.secrets:
+                return str(st.secrets["GEMINI_API_KEY"]).strip()
+        except Exception:
+            pass
+
         if os.environ.get("GEMINI_API_KEY"):
             return os.environ["GEMINI_API_KEY"].strip()
         if os.path.exists(key_file):
