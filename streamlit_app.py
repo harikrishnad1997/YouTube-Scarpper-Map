@@ -141,24 +141,24 @@ with st.sidebar:
     else:
         st.caption("● Opik Pass-through (`pip install opik`)")
 
-    with st.expander("⚙️ Opik Settings", expanded=False):
-        opik_enabled = st.checkbox("Enable Tracing", value=opik_info["enabled"])
-        opik_project = st.text_input("Project Name", value=opik_info["project_name"])
-        opik_api_key_in = st.text_input(
-            "Opik API Key",
-            type="password",
-            value=os.environ.get("OPIK_API_KEY", ""),
-            placeholder="Paste Comet / Opik API key..."
-        )
-        opik_local = st.checkbox("Use Local Opik (localhost:5173)", value=opik_info["use_local"])
-        if st.button("Save Opik Settings", use_container_width=True):
-            configure_opik(
-                api_key=opik_api_key_in if opik_api_key_in else None,
-                project_name=opik_project,
-                use_local=opik_local,
-                enabled=opik_enabled,
-            )
-            st.rerun()
+    # with st.expander("⚙️ Opik Settings", expanded=False):
+    #     opik_enabled = st.checkbox("Enable Tracing", value=opik_info["enabled"])
+    #     opik_project = st.text_input("Project Name", value=opik_info["project_name"])
+    #     opik_api_key_in = st.text_input(
+    #         "Opik API Key",
+    #         type="password",
+    #         value=os.environ.get("OPIK_API_KEY", ""),
+    #         placeholder="Paste Comet / Opik API key..."
+    #     )
+    #     opik_local = st.checkbox("Use Local Opik (localhost:5173)", value=opik_info["use_local"])
+    #     if st.button("Save Opik Settings", use_container_width=True):
+    #         configure_opik(
+    #             api_key=opik_api_key_in if opik_api_key_in else None,
+    #             project_name=opik_project,
+    #             use_local=opik_local,
+    #             enabled=opik_enabled,
+    #         )
+    #         st.rerun()
 
     st.divider()
     if st.button("🗑️ Clear Chat History", use_container_width=True):
