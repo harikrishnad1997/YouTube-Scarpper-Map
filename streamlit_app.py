@@ -114,57 +114,57 @@ if "last_retrieval" not in st.session_state:
 # ----------------------------------------------------------------------
 # Sidebar Controls & Configuration
 # ----------------------------------------------------------------------
-with st.sidebar:
-    st.image("https://raw.githubusercontent.com/harikrishnad1997/YouTube-Scarpper-Map/main/Website/assets/img/logo.png", width=120) if os.path.exists("Website/assets/img/logo.png") else None
-    st.title("🥘 FoodLoversTV KG")
-    st.caption("AI Concierge powered by GraphRAG & Gemini")
+# with st.sidebar:
+#     st.image("https://raw.githubusercontent.com/harikrishnad1997/YouTube-Scarpper-Map/main/Website/assets/img/logo.png", width=120) if os.path.exists("Website/assets/img/logo.png") else None
+#     st.title("🥘 FoodLoversTV KG")
+#     st.caption("AI Concierge powered by GraphRAG & Gemini")
 
-    st.divider()
+#     st.divider()
 
-    # Knowledge Graph Metrics in Sidebar
-    st.subheader("📊 Graph Metrics")
-    col_sb1, col_sb2 = st.columns(2)
-    with col_sb1:
-        st.metric("Restaurants", len(graph_engine.restaurants_data))
-        st.metric("Dishes", len(graph_engine.dish_nodes))
-    with col_sb2:
-        st.metric("Cuisines", len(graph_engine.cuisine_nodes))
-        st.metric("Graph Edges", graph_engine.graph.number_of_edges())
+#     # Knowledge Graph Metrics in Sidebar
+#     st.subheader("📊 Graph Metrics")
+#     col_sb1, col_sb2 = st.columns(2)
+#     with col_sb1:
+#         st.metric("Restaurants", len(graph_engine.restaurants_data))
+#         st.metric("Dishes", len(graph_engine.dish_nodes))
+#     with col_sb2:
+#         st.metric("Cuisines", len(graph_engine.cuisine_nodes))
+#         st.metric("Graph Edges", graph_engine.graph.number_of_edges())
 
-    st.divider()
-    st.subheader("🔭 Opik Observability")
-    opik_info = get_opik_status()
-    if opik_info["active"]:
-        st.success(f"● Tracing Active (`{opik_info['project_name']}`)")
-    elif opik_info["installed"]:
-        st.info("● Opik Ready (Configure API Key or Local)")
-    else:
-        st.caption("● Opik Pass-through (`pip install opik`)")
+#     st.divider()
+#     st.subheader("🔭 Opik Observability")
+#     opik_info = get_opik_status()
+#     if opik_info["active"]:
+#         st.success(f"● Tracing Active (`{opik_info['project_name']}`)")
+#     elif opik_info["installed"]:
+#         st.info("● Opik Ready (Configure API Key or Local)")
+#     else:
+#         st.caption("● Opik Pass-through (`pip install opik`)")
 
-    # with st.expander("⚙️ Opik Settings", expanded=False):
-    #     opik_enabled = st.checkbox("Enable Tracing", value=opik_info["enabled"])
-    #     opik_project = st.text_input("Project Name", value=opik_info["project_name"])
-    #     opik_api_key_in = st.text_input(
-    #         "Opik API Key",
-    #         type="password",
-    #         value=os.environ.get("OPIK_API_KEY", ""),
-    #         placeholder="Paste Comet / Opik API key..."
-    #     )
-    #     opik_local = st.checkbox("Use Local Opik (localhost:5173)", value=opik_info["use_local"])
-    #     if st.button("Save Opik Settings", use_container_width=True):
-    #         configure_opik(
-    #             api_key=opik_api_key_in if opik_api_key_in else None,
-    #             project_name=opik_project,
-    #             use_local=opik_local,
-    #             enabled=opik_enabled,
-    #         )
-    #         st.rerun()
+#     # with st.expander("⚙️ Opik Settings", expanded=False):
+#     #     opik_enabled = st.checkbox("Enable Tracing", value=opik_info["enabled"])
+#     #     opik_project = st.text_input("Project Name", value=opik_info["project_name"])
+#     #     opik_api_key_in = st.text_input(
+#     #         "Opik API Key",
+#     #         type="password",
+#     #         value=os.environ.get("OPIK_API_KEY", ""),
+#     #         placeholder="Paste Comet / Opik API key..."
+#     #     )
+#     #     opik_local = st.checkbox("Use Local Opik (localhost:5173)", value=opik_info["use_local"])
+#     #     if st.button("Save Opik Settings", use_container_width=True):
+#     #         configure_opik(
+#     #             api_key=opik_api_key_in if opik_api_key_in else None,
+#     #             project_name=opik_project,
+#     #             use_local=opik_local,
+#     #             enabled=opik_enabled,
+#     #         )
+#     #         st.rerun()
 
-    st.divider()
-    if st.button("🗑️ Clear Chat History", use_container_width=True):
-        st.session_state.messages = []
-        st.session_state.last_retrieval = None
-        st.rerun()
+#     st.divider()
+#     if st.button("🗑️ Clear Chat History", use_container_width=True):
+#         st.session_state.messages = []
+#         st.session_state.last_retrieval = None
+#         st.rerun()
 
 # Default GraphRAG & Gemini Configuration
 top_k = 5
