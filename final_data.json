@@ -30014,34 +30014,102 @@
       "summary": "Anmol is a 25-year-old popular vegetarian restaurant in Mangaluru renowned for serving authentic GSB delicacies for breakfast, including Heengana, Dali Tove, and Chikoo Sheera."
     }
   ],
-  "Loved The GSB Delicacies At 25-Year-Old ANMOL Mangalore! Heengana, Dali Tove, Chikoo Sheera!": [
+  "Anmol": [
     {
       "title": "Loved The GSB Delicacies At 25-Year-Old ANMOL Mangalore! Heengana, Dali Tove, Chikoo Sheera!",
       "link": "https://www.youtube.com/watch?v=pI-S8VWxsG8",
       "lat": 12.8882635,
       "long": 74.8390667,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "Opp Pai International, Near Baliga Super Market, Bharath Mall, Bejai Kavoor Rd, Kapikad, Mangaluru, Karnataka 575004",
+      "ph_no": "+91 824 222 2303",
+      "cuisine": [
+        "South Indian",
+        "Mangalorean",
+        "GSB",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Shavige Dali Tove",
+          "summary": "Vermicelli served with comforting, seasoned lentils dish.",
+          "price": ""
+        },
+        {
+          "name": "Tuppa Dosae",
+          "summary": "Crispy South Indian dosa prepared richly with aromatic ghee.",
+          "price": ""
+        },
+        {
+          "name": "Chikoo Sheera",
+          "summary": "Sweet semolina pudding infused with natural sapota/chikoo flavor.",
+          "price": ""
+        },
+        {
+          "name": "Shavige Heengana",
+          "summary": "A unique GSB delicacy featuring vermicelli served with sweetened coconut milk subtly scented with asafoetida.",
+          "price": ""
+        },
+        {
+          "name": "Mysore Masala Dosae",
+          "summary": "Flavorful dosa with spicy chutney smear and savory potato filling.",
+          "price": ""
+        },
+        {
+          "name": "Dahi Vada",
+          "summary": "Soft lentil fritters soaked in spiced and sweetened yogurt.",
+          "price": ""
+        }
+      ],
+      "summary": "Anmol is a iconic 25-year-old vegetarian eatery in Bejai, Mangalore, renowned for its traditional GSB delicacies and classic South Kanara breakfast items. Managed by owner Vasanth Kamath, this rustic local staple serves rich, comforting dishes like Shavige Heengana, Shavige Dali Tove, flavorful dosas, and fruity sheeras."
     }
   ],
-  "This Chicken Kabab Is Served With Spicy Masala Chillies! Loved It! #shorts #foodvlog #chickenfry": [
+  "The Captain\u2019s Donne Biryani": [
     {
       "title": "This Chicken Kabab Is Served With Spicy Masala Chillies! Loved It! #shorts #foodvlog #chickenfry",
       "link": "https://www.youtube.com/watch?v=qhD7wGARLZE",
       "lat": 13.3157681,
       "long": 75.7714343,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Kadur, Chikkamagaluru, Karnataka 577101",
+      "ph_no": "+91 98805 00090",
+      "cuisine": [
+        "Karnataka",
+        "South Indian"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Chicken Kabab",
+          "summary": "Served with spicy masala chillies, rated 10/10 by the reviewer.",
+          "price": ""
+        }
+      ],
+      "summary": "The Captain\u2019s Donne Biryani in Kadur, Chikkamagaluru is highly praised for serving a 10/10 chicken kabab with spicy masala chillies."
+    },
+    {
+      "title": "The Spicy Chikmagalur Donne Biryani! #shorts #foodvlog #biryani #chikmagalur #foodie #muttonbiryani",
+      "link": "https://www.youtube.com/watch?v=UoUOpEr1QGE",
+      "lat": 13.3157681,
+      "long": 75.7714343,
+      "address": "Kadur, Chikkamagaluru, Karnataka 577101",
+      "ph_no": "+91 98805 00090",
+      "cuisine": [
+        "Karnataka",
+        "South Indian",
+        "Biryani"
+      ],
+      "price": "$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [
+        {
+          "name": "Mutton Donne Biryani",
+          "summary": "Spicy Donne Biryani cooked using a unique local masala that contributes to its flavorful appeal.",
+          "price": ""
+        }
+      ],
+      "summary": "The Captain's Donne Biryani in Kadur, Chikkamagaluru serves flavorful and spicy Donne Biryani prepared with a unique signature masala."
     }
   ],
   "Captain's Donne Biryani": [
@@ -30067,31 +30135,6 @@
         }
       ],
       "summary": "Captain's Donne Biryani in Chikkamagaluru comes highly recommended by locals for its distinct yellowish-red Chikmagalur-style biryani, flavoured heavily with Byadgi chillies and whole spices."
-    }
-  ],
-  "The Captain\u2019s Donne Biryani": [
-    {
-      "title": "The Spicy Chikmagalur Donne Biryani! #shorts #foodvlog #biryani #chikmagalur #foodie #muttonbiryani",
-      "link": "https://www.youtube.com/watch?v=UoUOpEr1QGE",
-      "lat": 13.3157681,
-      "long": 75.7714343,
-      "address": "Kadur, Chikkamagaluru, Karnataka 577101",
-      "ph_no": "+91 98805 00090",
-      "cuisine": [
-        "Karnataka",
-        "South Indian",
-        "Biryani"
-      ],
-      "price": "$",
-      "v_n_ng": "Non-veg",
-      "best_dishes": [
-        {
-          "name": "Mutton Donne Biryani",
-          "summary": "Spicy Donne Biryani cooked using a unique local masala that contributes to its flavorful appeal.",
-          "price": ""
-        }
-      ],
-      "summary": "The Captain's Donne Biryani in Kadur, Chikkamagaluru serves flavorful and spicy Donne Biryani prepared with a unique signature masala."
     }
   ],
   "They Cook 5 Tonnes Of This Biryani Every Month! Chikmagaluru\u2019s Famous CAPTAIN\u2019S DONNE BIRYANI!": [
@@ -30603,19 +30646,44 @@
       "summary": "Agni Sagar in Seshadripuram, Bengaluru, is a quaint eatery run by trained professional chef brothers Sagar and Akhil, serving home-style, authentic Sindhi delicacies based on their mother's recipes alongside a mix of Oriental and North Indian dishes. Highly recommended for rare, traditional Sindhi comfort food like Dal Pakwan, Koki, and Sindhi Mutton."
     }
   ],
-  "Found A Next Level Country Chicken Biryani Here! RAJESH BIRYANI HOTEL Ramanagara Mysuru Highway": [
+  "Rajesh Biryani Hotel": [
     {
       "title": "Found A Next Level Country Chicken Biryani Here! RAJESH BIRYANI HOTEL Ramanagara Mysuru Highway",
       "link": "https://www.youtube.com/watch?v=yvuzFdvfN78",
       "lat": 12.7256174,
       "long": 77.2808005,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Mahatma Gandhi Rd, Agrahar, Kanakapura, Ramanagara, Karnataka 562117",
+      "ph_no": "+91 99160 61909",
+      "cuisine": [
+        "Karnataka",
+        "Naati",
+        "Biryani"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Naati Koli Biryani",
+          "summary": "Unique country chicken biryani cooked with a wet masala of greens and spices over an hour and a half (available on Wednesdays).",
+          "price": "Rs. 210"
+        },
+        {
+          "name": "Mutton Curry",
+          "summary": "Delicious and tender mutton gravy.",
+          "price": "Rs. 210"
+        },
+        {
+          "name": "Boti Gojju",
+          "summary": "Flavorful and spicy mutton boti preparation.",
+          "price": "Rs. 160"
+        },
+        {
+          "name": "Kaal Soup",
+          "summary": "Nourishing leg soup cooked with spices.",
+          "price": ""
+        }
+      ],
+      "summary": "Rajesh Biryani Hotel in Ramanagara is renowned for its signature Naati Koli (country chicken) Biryani, prepared using a self-taught recipe with a special wet green masala by owner Rajesh. The restaurant also serves a range of local Naati non-vegetarian specialties like Mutton Curry, Boti Gojju, and Kaal Soup. Note that Naati Koli Biryani is served exclusively on Wednesdays."
     }
   ],
   "Car Street, Manguluru - Charmuri & Conversations! Gokul Charmuri": [
@@ -30691,71 +30759,6 @@
     {
       "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
       "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
-      "lat": 12.3104046,
-      "long": 76.6499076,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
-    {
-      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
-      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
-      "lat": 12.3072206,
-      "long": 76.6357625,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
-    {
-      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
-      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
-      "lat": 12.2919536,
-      "long": 76.6380969,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
-    {
-      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
-      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
-      "lat": 12.332253,
-      "long": 76.6258919,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
-    {
-      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
-      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
-      "lat": 12.3181424,
-      "long": 76.650305,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
-    {
-      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
-      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
       "lat": 12.3076851,
       "long": 76.6453665,
       "address": "",
@@ -30791,6 +30794,118 @@
       "v_n_ng": "Non-veg",
       "best_dishes": null,
       "summary": ""
+    }
+  ],
+  "Vinayaka Mylari": [
+    {
+      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
+      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
+      "lat": 12.3104046,
+      "long": 76.6499076,
+      "address": "Agrahara, Mysuru, Karnataka, India",
+      "ph_no": "",
+      "cuisine": [
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Mylari Dosa",
+          "summary": "Iconic, extremely soft, airy, and buttery dosa served with traditional coconut chutney.",
+          "price": ""
+        }
+      ],
+      "summary": "Vinayaka Mylari is a legendary, iconic eatery in Mysuru famed for its signature soft and fluffy butter dosas."
+    },
+    {
+      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
+      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
+      "lat": 12.3072206,
+      "long": 76.6357625,
+      "address": "Agrahara, Fort Mohalla, Mysuru, Karnataka, India",
+      "ph_no": "",
+      "cuisine": [
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Mylari Dosa",
+          "summary": "Iconic soft and fluffy butter dosa served with signature coconut chutney.",
+          "price": ""
+        }
+      ],
+      "summary": "An iconic legendary eatery in Mysuru famous for its melt-in-the-mouth soft Mylari dosas served topped with butter alongside coconut chutney."
+    },
+    {
+      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
+      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
+      "lat": 12.2919536,
+      "long": 76.6380969,
+      "address": "Nazarbad, Mysuru, Karnataka, India",
+      "ph_no": "",
+      "cuisine": [
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Mylari Dosa",
+          "summary": "Iconic soft, airy, and fluffy dosa served with fresh white butter and coconut chutney.",
+          "price": ""
+        }
+      ],
+      "summary": "Vinayaka Mylari is a world-famous legendary eatery in Mysuru, renowned for its signature soft and pillowy dosas served topped with fresh white butter."
+    },
+    {
+      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
+      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
+      "lat": 12.332253,
+      "long": 76.6258919,
+      "address": "Mysuru, Karnataka, India",
+      "ph_no": "",
+      "cuisine": [
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Mylari Dosa",
+          "summary": "Iconic soft and airy dosa served with butter and fresh coconut-chilli chutney.",
+          "price": ""
+        }
+      ],
+      "summary": "An iconic and legendary breakfast destination in Mysuru, famous for its signature soft, cloud-like Mylari dosas served generously with white butter."
+    },
+    {
+      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
+      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
+      "lat": 12.3181424,
+      "long": 76.650305,
+      "address": "Nazarbad, Mysuru, Karnataka, India",
+      "ph_no": "",
+      "cuisine": [
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Mylari Dosa",
+          "summary": "Iconic, exceptionally soft and airy butter dosa served with coconut chutney and butter.",
+          "price": ""
+        }
+      ],
+      "summary": "Vinayaka Mylari is one of Mysuru's most legendary and iconic breakfast spots, world-famous for its uniquely soft, pillowy, and buttery dosas."
     }
   ]
 }
