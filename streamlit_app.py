@@ -4,9 +4,13 @@ Features conversational AI, interactive Vis.js subgraph explorer, Folium/Streaml
 """
 
 import os
+import html
+import urllib.parse
 import streamlit as st
 import pandas as pd
 import streamlit.components.v1 as components
+import folium
+from folium.plugins import MarkerCluster
 from graph_engine import FoodGraphEngine
 from gemini_client import GeminiClient
 from opik_tracer import (
@@ -103,6 +107,156 @@ def get_graph_engine():
     return FoodGraphEngine("final_data.json")
 
 graph_engine = get_graph_engine()
+
+
+def get_restaurant_maps_link(restaurant: dict) -> str:
+    """Retrieve or construct a valid Google Maps link for a restaurant."""
+    if restaurant.get("maps_link"):
+        return restaurant["maps_link"]
+    lat, lon = restaurant.get("lat"), restaurant.get("lon")
+    if lat is not None and lon is not None:
+        return f"https://www.google.com/maps/search/?api=1&query={lat},{lon}"
+    name = restaurant.get("name", "Restaurant")
+    return f"https://www.google.com/maps/search/?api=1&query={urllib.parse.quote(name + ' Bengaluru')}"
+
+
+def render_folium_map(restaurants: list, height: int = 480, default_zoom: int = 12):
+    """
+    Renders an interactive Folium map with rich markers, custom pins,
+    major cuisines badges, Google Maps links, dishes, and clustering.
+    """
+    # Safely filter restaurants with valid numeric coordinates
+    valid_entries = []
+    for r in restaurants:
+        try:
+            lat = float(r.get("lat"))
+            lon = float(r.get("lon"))
+            valid_entries.append((r, lat, lon))
+        except (ValueError, TypeError):
+            continue
+
+    if not valid_entries:
+        st.info("📍 No geographical coordinates available to display on the map.")
+        return
+
+    # Calculate geographic center
+    avg_lat = sum(coords[1] for coords in valid_entries) / len(valid_entries)
+    avg_lon = sum(coords[2] for coords in valid_entries) / len(valid_entries)
+
+    zoom_level = 15 if len(valid_entries) == 1 else default_zoom
+    m = folium.Map(
+        location=[avg_lat, avg_lon],
+        zoom_start=zoom_level,
+        tiles="OpenStreetMap"
+    )
+
+    # Auto-fit bounds when multiple restaurants are present
+    if len(valid_entries) > 1:
+        all_lats = [coords[1] for coords in valid_entries]
+        all_lons = [coords[2] for coords in valid_entries]
+        min_lat, max_lat = min(all_lats), max(all_lats)
+        min_lon, max_lon = min(all_lons), max(all_lons)
+        if min_lat != max_lat and min_lon != max_lon:
+            m.fit_bounds([[min_lat, min_lon], [max_lat, max_lon]], padding=(25, 25))
+
+    # Cluster markers if large dataset, otherwise show individual pins directly
+    target_layer = MarkerCluster().add_to(m) if len(valid_entries) > 20 else m
+
+    for r, lat, lon in valid_entries:
+        name = r.get("name") or "Restaurant"
+        safe_name = html.escape(name)
+        cuisines = r.get("cuisines") or []
+        major_cuisines = cuisines[:4]
+        major_cuisines_str = ", ".join(major_cuisines) if major_cuisines else "Indian"
+        safe_cuisines = html.escape(major_cuisines_str)
+        dietary = r.get("dietary", "Veg")
+        is_veg = "non" not in str(dietary).lower()
+        price = html.escape(str(r.get("price") or "$"))
+        address = r.get("address") or ""
+        maps_link = get_restaurant_maps_link(r)
+        video_link = r.get("video_link") or ""
+        dishes = r.get("dishes") or []
+
+        # Major Cuisines Badges HTML
+        cuisine_badges_html = "".join([
+            f'<span style="background-color: #e0f2fe; color: #0369a1; border: 1px solid #bae6fd; border-radius: 12px; padding: 2px 7px; font-size: 11px; margin-right: 4px; display: inline-block; margin-bottom: 3px; font-weight: 500;">{html.escape(c)}</span>'
+            for c in major_cuisines
+        ])
+
+        # Dietary Badge
+        diet_badge_html = (
+            '<span style="background-color: #dcfce7; color: #15803d; border: 1px solid #86efac; border-radius: 4px; padding: 2px 6px; font-size: 10px; font-weight: 700;">🌱 PURE VEG</span>'
+            if is_veg else
+            '<span style="background-color: #fee2e2; color: #b91c1c; border: 1px solid #fca5a5; border-radius: 4px; padding: 2px 6px; font-size: 10px; font-weight: 700;">🍗 NON-VEG</span>'
+        )
+
+        # Signature Dishes List
+        dishes_html = ""
+        if dishes:
+            top_dishes = dishes[:3]
+            dish_items = "".join([
+                f'<li style="margin-bottom: 2px;">{html.escape(d.get("name", ""))}' +
+                (f' <span style="color: #6b7280; font-size: 11px;">({html.escape(str(d.get("price")))})</span>' if d.get("price") else "") +
+                '</li>'
+                for d in top_dishes if d.get("name")
+            ])
+            if dish_items:
+                dishes_html = f'''
+                <div style="margin-top: 6px; font-size: 12px;">
+                    <strong style="color: #374151;">🍲 Signature Dishes:</strong>
+                    <ul style="margin: 2px 0 4px 16px; padding: 0; color: #4b5563;">
+                        {dish_items}
+                    </ul>
+                </div>
+                '''
+
+        # Address snippet
+        address_html = ""
+        if address:
+            short_addr = address[:90] + ("..." if len(address) > 90 else "")
+            address_html = f'<div style="font-size: 11px; color: #6b7280; margin-top: 4px;">📍 {html.escape(short_addr)}</div>'
+
+        # Action Buttons
+        yt_btn_html = (
+            f'<a href="{html.escape(video_link)}" target="_blank" rel="noopener noreferrer" style="background-color: #dc2626; color: white !important; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-size: 11px; font-weight: 600; display: inline-flex; align-items: center; gap: 4px;">🎬 Watch Video ↗</a>'
+            if video_link else ""
+        )
+
+        maps_btn_html = (
+            f'<a href="{html.escape(maps_link)}" target="_blank" rel="noopener noreferrer" style="background-color: #1a73e8; color: white !important; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-size: 11px; font-weight: 600; display: inline-flex; align-items: center; gap: 4px;">🗺️ Open in Google Maps ↗</a>'
+        )
+
+        # Popup Card Layout
+        popup_html = f'''
+        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.4; color: #1f2937; min-width: 230px; max-width: 290px;">
+            <div style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 4px;">
+                <h4 style="margin: 0; font-size: 15px; font-weight: 700; color: #111827;">{safe_name}</h4>
+                {diet_badge_html}
+            </div>
+            <div style="font-size: 11px; color: #6b7280; margin-bottom: 6px;">Price Tier: <b>{price}</b></div>
+            <div style="margin-bottom: 4px;">
+                <div style="font-size: 10px; text-transform: uppercase; font-weight: 700; color: #9ca3af; margin-bottom: 2px;">Major Cuisines</div>
+                <div>{cuisine_badges_html}</div>
+            </div>
+            {dishes_html}
+            {address_html}
+            <div style="margin-top: 8px; display: flex; gap: 6px; flex-wrap: wrap;">
+                {maps_btn_html}
+                {yt_btn_html}
+            </div>
+        </div>
+        '''
+
+        folium.Marker(
+            location=[lat, lon],
+            popup=folium.Popup(popup_html, max_width=320),
+            tooltip=f"📍 {safe_name} — {safe_cuisines} ({dietary})",
+            icon=folium.Icon(color="green" if is_veg else "red", icon="cutlery", prefix="fa")
+        ).add_to(target_layer)
+
+    components.html(m._repr_html_(), height=height, scrolling=False)
+    st.caption("🟢 Pure Veg Marker | 🔴 Non-veg Marker • Click any marker to view restaurant name, major cuisines, signature dishes, and Google Maps link.")
+
 
 # Initialize session states
 if "messages" not in st.session_state:
@@ -202,7 +356,7 @@ def process_concierge_query(query: str, history: list, top_k_val: int = 5, hop_v
 # ----------------------------------------------------------------------
 # Header & Navigation Tabs
 # ----------------------------------------------------------------------
-st.markdown('<div class="main-title">🥘 FoodLoversTV GraphRAG Concierge</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">🥘 FoodLoversTV Concierge</div>', unsafe_allow_html=True)
 st.markdown(
     '<div class="sub-title">Discover Bengaluru & Karnataka\'s best restaurants and iconic dishes, '
     'grounded in verified reviews by Kripal Amanna (FoodLoversTV).</div>',
@@ -210,7 +364,7 @@ st.markdown(
 )
 
 tab_chat, tab_explorer, tab_analytics = st.tabs([
-    "💬 AI Food Concierge (GraphRAG)",
+    "💬 AI Food Concierge",
     "🗺️ Restaurant Explorer & Map",
     "🕸️ Knowledge Graph Analytics"
 ])
@@ -221,7 +375,7 @@ tab_chat, tab_explorer, tab_analytics = st.tabs([
 # ----------------------------------------------------------------------
 with tab_chat:
     # Quick suggestion prompt pills
-    st.write("💡 **Quick Inquiries:**")
+    # st.write("💡 **Quick Inquiries:**")
     pill_cols = st.columns(4)
     quick_queries = [
         "Best Donne Biryani in Bangalore",
@@ -258,23 +412,11 @@ with tab_chat:
                     vis_html = graph_engine.generate_vis_html(subgraph_data, height="460px")
                     components.html(vis_html, height=480, scrolling=False)
 
-                    # Show recommended restaurant map
-                    map_points = []
-                    for r in message.get("top_restaurants", []):
-                        if r.get("lat") and r.get("lon"):
-                            diet = r.get("dietary", "Veg")
-                            map_points.append({
-                                "name": r.get("name"),
-                                "lat": r["lat"],
-                                "lon": r["lon"],
-                                "size": 800,
-                                "color": "#2E7D32" if diet == "Veg" else "#D32F2F"
-                            })
-                    if map_points:
+                    # Show recommended restaurant map with rich markers & details
+                    top_rests = message.get("top_restaurants", [])
+                    if any(r.get("lat") and r.get("lon") for r in top_rests):
                         st.markdown("**📍 Location Map:**")
-                        df_map = pd.DataFrame(map_points)
-                        st.map(df_map, latitude="lat", longitude="lon", size="size", color="color", zoom=11)
-                        st.caption("🟢 Pure Veg | 🔴 Non-veg")
+                        render_folium_map(top_rests, height=420)
 
     # Chat Input Handler
     user_query = st.chat_input("Ask for restaurant recommendations, dishes, areas...") or selected_pill
@@ -318,23 +460,11 @@ with tab_chat:
                         vis_html = graph_engine.generate_vis_html(subgraph_data, height="460px")
                         components.html(vis_html, height=480, scrolling=False)
 
-                        # Render Map
-                        map_points = []
-                        for r in retrieval_res["top_restaurants"]:
-                            if r.get("lat") and r.get("lon"):
-                                diet = r.get("dietary", "Veg")
-                                map_points.append({
-                                    "name": r.get("name"),
-                                    "lat": r["lat"],
-                                    "lon": r["lon"],
-                                    "size": 800,
-                                    "color": "#2E7D32" if diet == "Veg" else "#D32F2F"
-                                    })
-                        if map_points:
-                            st.markdown("**📍 Recommended Locations:**")
-                            df_map = pd.DataFrame(map_points)
-                            st.map(df_map, latitude="lat", longitude="lon", size="size", color="color", zoom=11)
-                            st.caption("🟢 Pure Veg | 🔴 Non-veg")
+                        # Render interactive map with rich markers & details
+                        top_rests = retrieval_res.get("top_restaurants", [])
+                        if any(r.get("lat") and r.get("lon") for r in top_rests):
+                            st.markdown("**📍 Recommended Locations Map:**")
+                            render_folium_map(top_rests, height=420)
 
                     # Store in chat history
                     st.session_state.messages.append({
@@ -404,22 +534,9 @@ with tab_explorer:
 
     st.write(f"Showing **{len(filtered_restaurants)}** matching restaurants:")
 
-    # Map of filtered restaurants
-    map_data = []
-    for r in filtered_restaurants:
-        if r.get("lat") and r.get("lon"):
-            diet = r.get("dietary", "Veg")
-            map_data.append({
-                "name": r["name"],
-                "lat": r["lat"],
-                "lon": r["lon"],
-                "size": 800,
-                "color": "#2E7D32" if diet == "Veg" else "#D32F2F"
-            })
-
-    if map_data:
-        st.map(pd.DataFrame(map_data), latitude="lat", longitude="lon", size="size", color="color", zoom=11)
-        st.caption("🟢 Pure Veg | 🔴 Non-veg")
+    # Interactive Map of filtered restaurants
+    if filtered_restaurants:
+        render_folium_map(filtered_restaurants, height=520)
 
     # Restaurant Cards
     for r in filtered_restaurants[:40]:  # Paginate top 40 for responsiveness
@@ -445,12 +562,15 @@ with tab_explorer:
                     st.markdown(" ".join(dish_htmls), unsafe_allow_html=True)
 
             with c_right:
+                maps_link = get_restaurant_maps_link(r)
+                if maps_link:
+                    st.markdown(f"📍 [**Open in Google Maps**]({maps_link})")
                 if r.get("video_link"):
                     st.markdown(f"🎬 [**Watch on YouTube**]({r['video_link']})")
-                    # Try to extract video ID for thumbnail
-                    if "watch?v=" in r["video_link"]:
-                        v_id = r["video_link"].split("watch?v=")[-1].split("&")[0]
-                        st.image(f"https://img.youtube.com/vi/{v_id}/hqdefault.jpg", use_container_width=True)
+                # Try to extract video ID for thumbnail
+                if r.get("video_link") and "watch?v=" in r["video_link"]:
+                    v_id = r["video_link"].split("watch?v=")[-1].split("&")[0]
+                    st.image(f"https://img.youtube.com/vi/{v_id}/hqdefault.jpg", use_container_width=True)
 
 
 # ----------------------------------------------------------------------

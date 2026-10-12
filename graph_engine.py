@@ -202,6 +202,22 @@ class FoodGraphEngine:
         with open(self.data_path, "r", encoding="utf-8") as f:
             raw_data = json.load(f)
 
+        # Load Google Maps links mapping if gmaps_to_link.json is present
+        yt_to_gmap = {}
+        for gpath in ["gmaps_to_link.json", "../gmaps_to_link.json"]:
+            if os.path.exists(gpath):
+                try:
+                    with open(gpath, "r", encoding="utf-8") as gf:
+                        gmap_raw = json.load(gf)
+                    for gurl, vlist in gmap_raw.items():
+                        if isinstance(vlist, list):
+                            for vitem in vlist:
+                                if isinstance(vitem, dict) and vitem.get("link"):
+                                    yt_to_gmap[vitem["link"]] = gurl
+                    break
+                except Exception as e:
+                    logger.warning(f"Could not load gmaps_to_link from {gpath}: {e}")
+
         for rest_name, entries in raw_data.items():
             if not rest_name or not entries:
                 continue
@@ -221,6 +237,14 @@ class FoodGraphEngine:
             summary = clean_text(primary_entry.get("summary"))
             lat, lon = self._normalize_coords(primary_entry.get("lat"), primary_entry.get("long"))
             locations = extract_locations_from_address(address)
+
+            # Resolve Google Maps link
+            maps_link = yt_to_gmap.get(video_link)
+            if not maps_link and lat and lon:
+                maps_link = f"https://www.google.com/maps/search/?api=1&query={lat},{lon}"
+            elif not maps_link:
+                import urllib.parse
+                maps_link = f"https://www.google.com/maps/search/?api=1&query={urllib.parse.quote(clean_rest_name + ' Bengaluru')}"
 
             # Extract all dishes across entries
             all_dishes = []
@@ -249,6 +273,7 @@ class FoodGraphEngine:
                 "lon": lon,
                 "locations": locations,
                 "dishes": all_dishes,
+                "maps_link": maps_link,
             }
             self.restaurants_data[clean_rest_name] = restaurant_info
 
@@ -580,6 +605,8 @@ class FoodGraphEngine:
                 tooltip_parts.append(f"<b>Price:</b> {attrs.get('price')}")
                 if attrs.get("address"):
                     tooltip_parts.append(f"<b>Address:</b> {attrs.get('address')}")
+                if attrs.get("maps_link"):
+                    tooltip_parts.append(f"<a href='{attrs.get('maps_link')}' target='_blank'>Google Maps Link</a>")
                 if attrs.get("video_link"):
                     tooltip_parts.append(f"<a href='{attrs.get('video_link')}' target='_blank'>Watch YouTube Review</a>")
             elif node_type == "Dish":
@@ -657,6 +684,8 @@ class FoodGraphEngine:
             context_lines.append(f"- Full Address: {address}")
             if phone and phone != "N/A":
                 context_lines.append(f"- Phone: {phone}")
+            if r_data.get("maps_link"):
+                context_lines.append(f"- Google Maps Link: {r_data.get('maps_link')}")
             if video_link:
                 context_lines.append(f"- YouTube Review: {video_link}")
             if dishes_info:
