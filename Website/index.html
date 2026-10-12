@@ -9,7 +9,323 @@
 		<title>UnOfficial - FoodLoversTV - Map</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />`
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<style>
+			/* Chatbot Section & Embed */
+			.chatbot-embed-box {
+				position: relative;
+				border-radius: 14px;
+				overflow: hidden;
+				box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
+				border: 3px solid #222729;
+				background: #ffffff;
+				margin-bottom: 1.5em;
+			}
+			.chatbot-embed-box iframe {
+				width: 100%;
+				height: 750px;
+				border: none;
+				display: block;
+			}
+
+			/* Chatbot Floating Action Button (FAB) */
+			#chatbot-fab-container {
+				position: fixed;
+				bottom: 24px;
+				right: 24px;
+				z-index: 999999;
+				display: flex;
+				align-items: center;
+			}
+
+			#chatbot-fab {
+				position: relative;
+				width: 62px !important;
+				height: 62px !important;
+				min-width: 0 !important;
+				padding: 0 !important;
+				border-radius: 50% !important;
+				background: linear-gradient(135deg, #FF4B4B 0%, #FF8A65 100%) !important;
+				background-image: linear-gradient(135deg, #FF4B4B 0%, #FF8A65 100%) !important;
+				color: #ffffff !important;
+				border: none !important;
+				outline: none;
+				cursor: pointer;
+				box-shadow: 0 8px 24px rgba(255, 75, 75, 0.45);
+				display: flex !important;
+				align-items: center;
+				justify-content: center;
+				font-size: 26px;
+				line-height: 1 !important;
+				transition: transform 0.25s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.25s ease;
+				box-sizing: border-box;
+			}
+
+			#chatbot-fab:hover {
+				transform: scale(1.08);
+				box-shadow: 0 10px 32px rgba(255, 75, 75, 0.65);
+				background-color: #FF4B4B !important;
+			}
+
+			#chatbot-fab:active {
+				transform: scale(0.94);
+			}
+
+			.chatbot-pulse-ring {
+				position: absolute;
+				top: -5px;
+				left: -5px;
+				right: -5px;
+				bottom: -5px;
+				border-radius: 50%;
+				border: 2px solid rgba(255, 75, 75, 0.6);
+				animation: chatbotPulse 2.5s infinite;
+				pointer-events: none;
+			}
+
+			@keyframes chatbotPulse {
+				0% {
+					transform: scale(0.95);
+					opacity: 0.8;
+				}
+				70% {
+					transform: scale(1.3);
+					opacity: 0;
+				}
+				100% {
+					transform: scale(1.3);
+					opacity: 0;
+				}
+			}
+
+			#chatbot-fab-tooltip {
+				position: absolute;
+				right: 76px;
+				background: #222729;
+				color: #ffffff;
+				padding: 8px 16px;
+				border-radius: 20px;
+				font-size: 13px;
+				font-weight: 600;
+				white-space: nowrap;
+				box-shadow: 0 4px 18px rgba(0, 0, 0, 0.25);
+				cursor: pointer;
+				display: flex;
+				align-items: center;
+				gap: 6px;
+				transition: opacity 0.2s ease, transform 0.2s ease;
+				border: 1px solid rgba(255, 255, 255, 0.15);
+				user-select: none;
+			}
+
+			#chatbot-fab-tooltip:after {
+				content: '';
+				position: absolute;
+				right: -6px;
+				top: 50%;
+				transform: translateY(-50%);
+				border-width: 6px 0 6px 6px;
+				border-style: solid;
+				border-color: transparent transparent transparent #222729;
+			}
+
+			/* Chatbot Modal Window */
+			#chatbot-modal {
+				position: fixed;
+				bottom: 98px;
+				right: 24px;
+				width: 440px;
+				max-width: calc(100vw - 32px);
+				height: 660px;
+				max-height: calc(100vh - 120px);
+				background: #ffffff;
+				border-radius: 16px;
+				box-shadow: 0 16px 48px rgba(0, 0, 0, 0.28);
+				display: flex;
+				flex-direction: column;
+				overflow: hidden;
+				z-index: 999998;
+				border: 1px solid rgba(0, 0, 0, 0.12);
+				transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+				transform-origin: bottom right;
+			}
+
+			#chatbot-modal.chatbot-hidden {
+				opacity: 0;
+				pointer-events: none;
+				transform: scale(0.85) translateY(20px);
+				display: none;
+			}
+
+			#chatbot-modal.chatbot-visible {
+				opacity: 1;
+				pointer-events: auto;
+				transform: scale(1) translateY(0);
+				display: flex;
+			}
+
+			#chatbot-modal.maximized {
+				width: calc(100vw - 48px);
+				max-width: 1150px;
+				height: calc(100vh - 60px);
+				max-height: 94vh;
+				bottom: 24px;
+				right: 24px;
+				border-radius: 16px;
+			}
+
+			.chatbot-modal-header {
+				background: #222729;
+				color: #ffffff;
+				padding: 12px 16px;
+				display: flex;
+				align-items: center;
+				justify-content: space-between;
+				border-bottom: 2px solid #FF4B4B;
+				user-select: none;
+				box-sizing: border-box;
+			}
+
+			.chatbot-header-info {
+				display: flex;
+				align-items: center;
+				gap: 10px;
+			}
+
+			.chatbot-header-avatar {
+				font-size: 20px;
+				width: 36px;
+				height: 36px;
+				border-radius: 8px;
+				background: rgba(255, 75, 75, 0.2);
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				line-height: 1;
+			}
+
+			.chatbot-header-text {
+				display: flex;
+				flex-direction: column;
+				text-align: left;
+			}
+
+			.chatbot-header-title {
+				font-size: 14px;
+				font-weight: 700;
+				color: #ffffff;
+				letter-spacing: 0.3px;
+				line-height: 1.2;
+			}
+
+			.chatbot-header-status {
+				font-size: 11px;
+				color: #a0aec0;
+				display: flex;
+				align-items: center;
+				gap: 5px;
+				margin-top: 2px;
+			}
+
+			.status-dot {
+				display: inline-block;
+				width: 7px;
+				height: 7px;
+				border-radius: 50%;
+				background: #48bb78;
+				box-shadow: 0 0 6px #48bb78;
+			}
+
+			.chatbot-header-actions {
+				display: flex;
+				align-items: center;
+				gap: 6px;
+			}
+
+			.chatbot-header-btn {
+				background: transparent !important;
+				background-image: none !important;
+				border: none !important;
+				color: #cbd5e0 !important;
+				cursor: pointer;
+				padding: 6px 10px !important;
+				border-radius: 6px !important;
+				font-size: 14px !important;
+				text-decoration: none;
+				display: inline-flex !important;
+				align-items: center;
+				justify-content: center;
+				line-height: 1 !important;
+				height: auto !important;
+				min-width: 0 !important;
+				box-shadow: none !important;
+				transition: background 0.2s, color 0.2s;
+			}
+
+			.chatbot-header-btn:hover {
+				background: rgba(255, 255, 255, 0.15) !important;
+				color: #ffffff !important;
+			}
+
+			.chatbot-modal-body {
+				flex: 1;
+				position: relative;
+				background: #f7fafc;
+				overflow: hidden;
+			}
+
+			#chatbot-widget-iframe {
+				width: 100%;
+				height: 100%;
+				border: none;
+				display: block;
+			}
+
+			.chatbot-loader {
+				position: absolute;
+				top: 0;
+				left: 0;
+				right: 0;
+				bottom: 0;
+				background: #ffffff;
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				justify-content: center;
+				gap: 12px;
+				color: #4a5568;
+				font-size: 13px;
+				z-index: 1;
+			}
+
+			.chatbot-loader .spinner {
+				width: 36px;
+				height: 36px;
+				border: 3px solid #edf2f7;
+				border-top: 3px solid #FF4B4B;
+				border-radius: 50%;
+				animation: chatbotSpin 0.9s linear infinite;
+			}
+
+			@keyframes chatbotSpin {
+				0% { transform: rotate(0deg); }
+				100% { transform: rotate(360deg); }
+			}
+
+			@media screen and (max-width: 736px) {
+				#chatbot-modal {
+					bottom: 84px;
+					right: 12px;
+					left: 12px;
+					width: calc(100vw - 24px);
+					max-width: 100vw;
+					height: calc(100vh - 100px);
+				}
+				#chatbot-fab-tooltip {
+					display: none !important;
+				}
+			}
+		</style>
 	</head>
 	<body class="is-preload">
 
@@ -33,6 +349,7 @@
 								<li><a href="#portfolio" id="portfolio-link"><span class="icon solid fa-th">Portfolio</span></a></li>
 								<li><a href="#about" id="about-link"><span class="icon solid fa-user">About FoodLoverTV</span></a></li>
 								<li><a href="#map" id="map-link"><span class="icon solid fa-map">Map</span></a></li>
+								<li><a href="#chatbot" id="chatbot-link"><span class="icon solid fa-comments">AI Chatbot</span></a></li>
 								<li><a href="#contact" id="contact-link"><span class="icon solid fa-envelope">Contact</span></a></li>
 							</ul>
 						</nav>
@@ -71,6 +388,7 @@
 
 							<footer>
 								<strong><a href="#map" class="button scrolly">Go to Maps</a></strong>
+								<strong style="margin-left: 8px;"><a href="#chatbot" class="button scrolly primary"><span class="icon solid fa-robot"></span> Ask AI Chatbot</a></strong>
 							</footer>
 
 						</div>
@@ -178,6 +496,39 @@
 					</div>
 				</section>
 
+				<!-- AI Chatbot -->
+				<section id="chatbot" class="three">
+					<div class="container">
+
+						<header>
+							<h2>FoodLoversTV AI Food Concierge</h2>
+						</header>
+
+						<p>Have a question about a restaurant, dish, or culinary destination featured on <strong>FoodLoversTV</strong>? Ask our conversational AI concierge powered by <strong>Knowledge Graph &amp; Google Gemini</strong> for verified recommendations, dishes, prices, locations, and episode insights across 470+ food spots.</p>
+
+						<div class="chatbot-embed-box">
+							<iframe 
+								src="https://food-lovers-tv-app.streamlit.app/?embed=true" 
+								width="100%" 
+								height="750px" 
+								allow="clipboard-write; camera; microphone" 
+								loading="lazy" 
+								title="FoodLoversTV AI Food Concierge Chatbot">
+							</iframe>
+						</div>
+
+						<p style="margin-top: 1.5em;">
+							<a href="https://food-lovers-tv-app.streamlit.app/" target="_blank" rel="noopener noreferrer" class="button">
+								<span class="icon solid fa-external-link-alt"></span> Open Fullscreen in New Tab
+							</a>
+							<button type="button" onclick="openFloatingChatbot()" class="button primary" style="margin-left: 10px;">
+								<span class="icon solid fa-comments"></span> Pop-out Floating Chat
+							</button>
+						</p>
+
+					</div>
+				</section>
+
 				<!-- Contact -->
 					<section id="contact" class="four">
 						<div class="container">
@@ -241,6 +592,127 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+		<!-- Floating Chatbot Widget -->
+		<div id="chatbot-fab-container">
+			<button id="chatbot-fab" onclick="toggleChatbot()" title="Chat with FoodLoversTV AI" aria-label="Open Food Lovers AI Chatbot">
+				<span class="icon solid fa-comments chatbot-icon-open"></span>
+				<span class="icon solid fa-times chatbot-icon-close" style="display: none;"></span>
+				<span class="chatbot-pulse-ring"></span>
+			</button>
+			<div id="chatbot-fab-tooltip" onclick="toggleChatbot()">
+				<span>🥘 Ask Food AI</span>
+			</div>
+		</div>
+
+		<div id="chatbot-modal" class="chatbot-hidden" role="dialog" aria-modal="true" aria-label="Food Lovers TV AI Assistant">
+			<div class="chatbot-modal-header">
+				<div class="chatbot-header-info">
+					<div class="chatbot-header-avatar">🥘</div>
+					<div class="chatbot-header-text">
+						<span class="chatbot-header-title">Food Lovers AI Concierge</span>
+						<span class="chatbot-header-status"><span class="status-dot"></span> Online &bull; GraphRAG AI</span>
+					</div>
+				</div>
+				<div class="chatbot-header-actions">
+					<button onclick="toggleChatbotMaximize()" title="Maximize / Restore" aria-label="Toggle Fullscreen" class="chatbot-header-btn">
+						<span id="chatbot-max-icon" class="icon solid fa-expand"></span>
+					</button>
+					<a href="https://food-lovers-tv-app.streamlit.app/" target="_blank" rel="noopener noreferrer" title="Open in new window" aria-label="Open in new tab" class="chatbot-header-btn">
+						<span class="icon solid fa-external-link-alt"></span>
+					</a>
+					<button onclick="toggleChatbot(false)" title="Close Chat" aria-label="Close Chat" class="chatbot-header-btn">
+						<span class="icon solid fa-times"></span>
+					</button>
+				</div>
+			</div>
+			<div class="chatbot-modal-body">
+				<div id="chatbot-loading" class="chatbot-loader">
+					<div class="spinner"></div>
+					<p>Connecting to Food Lovers AI...</p>
+				</div>
+				<iframe 
+					id="chatbot-widget-iframe" 
+					src="about:blank" 
+					data-src="https://food-lovers-tv-app.streamlit.app/?embed=true" 
+					allow="clipboard-write; camera; microphone" 
+					title="Food Lovers AI Chatbot Window">
+				</iframe>
+			</div>
+		</div>
+
+		<script>
+			var chatbotOpen = false;
+			var chatbotMaximized = false;
+			var chatbotLoaded = false;
+
+			function toggleChatbot(forceState) {
+				var modal = document.getElementById('chatbot-modal');
+				var openIcon = document.querySelector('.chatbot-icon-open');
+				var closeIcon = document.querySelector('.chatbot-icon-close');
+				var tooltip = document.getElementById('chatbot-fab-tooltip');
+				var iframe = document.getElementById('chatbot-widget-iframe');
+				var loader = document.getElementById('chatbot-loading');
+
+				if (typeof forceState === 'boolean') {
+					chatbotOpen = forceState;
+				} else {
+					chatbotOpen = !chatbotOpen;
+				}
+
+				if (chatbotOpen) {
+					modal.classList.remove('chatbot-hidden');
+					modal.classList.add('chatbot-visible');
+					if (openIcon) openIcon.style.display = 'none';
+					if (closeIcon) closeIcon.style.display = 'inline-block';
+					if (tooltip) tooltip.style.display = 'none';
+
+					// Lazy-load iframe on first interaction
+					if (!chatbotLoaded) {
+						chatbotLoaded = true;
+						iframe.src = iframe.getAttribute('data-src');
+						iframe.onload = function() {
+							if (loader) loader.style.display = 'none';
+						};
+					}
+				} else {
+					modal.classList.remove('chatbot-visible');
+					modal.classList.add('chatbot-hidden');
+					if (openIcon) openIcon.style.display = 'inline-block';
+					if (closeIcon) closeIcon.style.display = 'none';
+				}
+			}
+
+			function openFloatingChatbot() {
+				toggleChatbot(true);
+			}
+
+			function toggleChatbotMaximize() {
+				var modal = document.getElementById('chatbot-modal');
+				var maxIcon = document.getElementById('chatbot-max-icon');
+				chatbotMaximized = !chatbotMaximized;
+
+				if (chatbotMaximized) {
+					modal.classList.add('maximized');
+					if (maxIcon) {
+						maxIcon.classList.remove('fa-expand');
+						maxIcon.classList.add('fa-compress');
+					}
+				} else {
+					modal.classList.remove('maximized');
+					if (maxIcon) {
+						maxIcon.classList.remove('fa-compress');
+						maxIcon.classList.add('fa-expand');
+					}
+				}
+			}
+
+			// Close on Escape key
+			document.addEventListener('keydown', function(e) {
+				if (e.key === 'Escape' && chatbotOpen) {
+					toggleChatbot(false);
+				}
+			});
+		</script>
 
 	</body>
 </html>

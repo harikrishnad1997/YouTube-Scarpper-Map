@@ -13,6 +13,7 @@ import networkx as nx
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from opik_tracer import track, update_current_span
 
 logger = logging.getLogger("graph_engine")
 
@@ -369,6 +370,7 @@ class FoodGraphEngine:
         self.tfidf_vectorizer = TfidfVectorizer(stop_words="english", max_features=10000, ngram_range=(1, 2))
         self.tfidf_matrix = self.tfidf_vectorizer.fit_transform(self.corpus_docs)
 
+    @track(name="graphrag_search_text_scores", tags=["graphrag", "tfidf"])
     def search_text_scores(self, query: str, top_k: int = 20) -> Dict[str, float]:
         """Compute TF-IDF cosine similarity scores for query across restaurants."""
         if not self.tfidf_vectorizer or self.tfidf_matrix is None:
@@ -384,6 +386,7 @@ class FoodGraphEngine:
                 results[self.corpus_ids[idx]] = score
         return results
 
+    @track(name="graphrag_extract_entities", tags=["graphrag", "ner"])
     def extract_query_entities(self, query: str) -> Dict[str, List[str]]:
         """Identify matching nodes directly mentioned in the user query."""
         query_lower = query.lower()
@@ -427,6 +430,7 @@ class FoodGraphEngine:
 
         return matched
 
+    @track(name="graphrag_retrieve_subgraph", tags=["graphrag", "retrieval"])
     def retrieve_subgraph(
         self,
         query: str,
@@ -518,6 +522,20 @@ class FoodGraphEngine:
         subgraph = self.graph.subgraph(subgraph_nodes)
         subgraph_dict = self._serialize_subgraph(subgraph, top_restaurant_nodes)
         llm_context = self._build_llm_context(top_restaurant_nodes, subgraph)
+
+        update_current_span(
+            metadata={
+                "top_k": top_k,
+                "hop_depth": hop_depth,
+                "subgraph_nodes_count": len(subgraph_dict.get("nodes", [])),
+                "subgraph_edges_count": len(subgraph_dict.get("edges", [])),
+                "candidate_count": len(ranked_restaurants),
+                "matched_cuisines": query_entities.get("cuisines", []),
+                "matched_dishes": query_entities.get("dishes", []),
+                "matched_locations": query_entities.get("locations", []),
+                "matched_dietary": query_entities.get("dietary", []),
+            }
+        )
 
         return {
             "query": query,

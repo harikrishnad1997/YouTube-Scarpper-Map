@@ -11,6 +11,31 @@ This project aims to create an interactive map and bot to navigate among reviews
 - **Interactive Restaurant Explorer & Map**: Filter 470+ restaurants by cuisine, neighborhood/city, veg/non-veg, and price tier, with interactive map pins and video links.
 - **YouTube Scraper & Pipeline**: Extracts video details, titles, descriptions, coordinates, and Gemini-enriched restaurant metadata.
 - **Knowledge Graph Network Analytics**: Topology statistics, degree centrality, and top cuisine distribution.
+- **Opik Tracing & Observability**: Integrated tracing for Knowledge Graph multi-hop retrieval, Gemini LLM generation, model fallback cascades, and end-to-end user query execution. Includes direct trace dashboard links and non-blocking pass-through fallback.
+
+## Opik Tracing & Observability Setup
+
+Opik provides full execution tracing, token tracking, latency metrics, and retrieval diagnostics:
+
+1. **Install Opik**:
+   ```bash
+   pip install opik
+   ```
+
+2. **Configure Credentials**:
+   Set your Opik API key via environment variable, `opik_api.txt`, Streamlit secrets (`.streamlit/secrets.toml`), or the interactive Streamlit sidebar:
+   ```bash
+   export OPIK_API_KEY="your-comet-opik-api-key"
+   export OPIK_WORKSPACE="your-comet-workspace"  # Optional
+   export OPIK_PROJECT_NAME="FoodLoversTV-GraphRAG"  # Defaults to FoodLoversTV-GraphRAG
+   ```
+   *For local/self-hosted Opik:*
+   ```bash
+   export OPIK_USE_LOCAL="true"  # Or toggle 'Use Local Opik' in the sidebar
+   ```
+
+3. **View Traces**:
+   When tracing is enabled, each recommendation includes a direct link to inspect the execution trace in the Opik dashboard, showing child spans for Knowledge Graph retrieval, extracted entities, and Gemini LLM calls.
 
 ## Running the GraphRAG Streamlit App
 

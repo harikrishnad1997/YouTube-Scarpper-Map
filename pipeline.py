@@ -19,6 +19,7 @@ import argparse
 import logging
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple, Any
+from opik_tracer import track, configure_opik, update_current_span
 
 logging.basicConfig(
     level=logging.INFO,
@@ -483,6 +484,7 @@ class GeminiEnricher:
         self.sleep_time = sleep_time
         self._model = None
 
+    @track(name="pipeline_gemini_generate", type="llm", tags=["pipeline", "enrichment"])
     def _generate(self, prompt: str) -> Optional[str]:
         """Generate content via google-generativeai SDK if available, or direct REST API."""
         if not self.api_key:
@@ -924,8 +926,31 @@ def main():
         default=2.0,
         help="Seconds to sleep between Gemini API calls (default: 2.0s).",
     )
+    parser.add_argument(
+        "--opik-key",
+        type=str,
+        default=None,
+        help="Opik API key (defaults to OPIK_API_KEY env or opik_api.txt).",
+    )
+    parser.add_argument(
+        "--opik-project",
+        type=str,
+        default="FoodLoversTV-Pipeline",
+        help="Opik project name (default: FoodLoversTV-Pipeline).",
+    )
+    parser.add_argument(
+        "--no-opik",
+        action="store_true",
+        help="Disable Opik tracing during pipeline execution.",
+    )
 
     args = parser.parse_args()
+
+    configure_opik(
+        api_key=args.opik_key,
+        project_name=args.opik_project,
+        enabled=not args.no_opik,
+    )
 
     if not args.run_all and not args.stage:
         parser.print_help()

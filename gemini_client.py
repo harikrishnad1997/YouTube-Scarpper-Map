@@ -11,6 +11,7 @@ import logging
 import urllib.request
 import urllib.error
 from typing import Dict, List, Optional, Any
+from opik_tracer import track, update_current_span
 
 logger = logging.getLogger("gemini_client")
 
@@ -63,6 +64,7 @@ class GeminiClient:
         """Check if an API key is available."""
         return bool(self.api_key and len(self.api_key) > 10)
 
+    @track(name="gemini_generate", type="llm", tags=["gemini", "llm"])
     def generate(
         self,
         prompt: str,
@@ -109,7 +111,17 @@ class GeminiClient:
                         if candidates:
                             parts = candidates[0].get("content", {}).get("parts", [])
                             if parts:
-                                return parts[0].get("text", "")
+                                generated_text = parts[0].get("text", "")
+                                update_current_span(
+                                    model=model,
+                                    provider="google",
+                                    metadata={
+                                        "temperature": temperature,
+                                        "max_output_tokens": max_output_tokens,
+                                        "attempt": attempt,
+                                    }
+                                )
+                                return generated_text
                         return "I couldn't generate a recommendation from the graph at this time."
 
                 except urllib.error.HTTPError as he:
@@ -134,6 +146,7 @@ class GeminiClient:
 
         raise RuntimeError(f"All Gemini models failed. Last error: {last_error}")
 
+    @track(name="graphrag_answer_synthesis", tags=["graphrag", "concierge"])
     def answer_query_with_graphrag(
         self,
         query: str,

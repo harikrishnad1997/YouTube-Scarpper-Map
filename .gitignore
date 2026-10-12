@@ -6,3 +6,8 @@ openai.txt
 neo4j.txt
 __pycache__/
 .env
+opik_api.txt
+opik_key.txt
+.opik.config
+.venv/
+.conda/

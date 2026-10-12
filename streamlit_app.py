@@ -9,6 +9,15 @@ import pandas as pd
 import streamlit.components.v1 as components
 from graph_engine import FoodGraphEngine
 from gemini_client import GeminiClient
+from opik_tracer import (
+    track,
+    configure_opik,
+    get_opik_status,
+    get_trace_url,
+    get_current_trace_id,
+    update_current_trace,
+    is_opik_active,
+)
 
 # Page configuration
 st.set_page_config(
@@ -123,6 +132,35 @@ with st.sidebar:
         st.metric("Graph Edges", graph_engine.graph.number_of_edges())
 
     st.divider()
+    st.subheader("🔭 Opik Observability")
+    opik_info = get_opik_status()
+    if opik_info["active"]:
+        st.success(f"● Tracing Active (`{opik_info['project_name']}`)")
+    elif opik_info["installed"]:
+        st.info("● Opik Ready (Configure API Key or Local)")
+    else:
+        st.caption("● Opik Pass-through (`pip install opik`)")
+
+    with st.expander("⚙️ Opik Settings", expanded=False):
+        opik_enabled = st.checkbox("Enable Tracing", value=opik_info["enabled"])
+        opik_project = st.text_input("Project Name", value=opik_info["project_name"])
+        opik_api_key_in = st.text_input(
+            "Opik API Key",
+            type="password",
+            value=os.environ.get("OPIK_API_KEY", ""),
+            placeholder="Paste Comet / Opik API key..."
+        )
+        opik_local = st.checkbox("Use Local Opik (localhost:5173)", value=opik_info["use_local"])
+        if st.button("Save Opik Settings", use_container_width=True):
+            configure_opik(
+                api_key=opik_api_key_in if opik_api_key_in else None,
+                project_name=opik_project,
+                use_local=opik_local,
+                enabled=opik_enabled,
+            )
+            st.rerun()
+
+    st.divider()
     if st.button("🗑️ Clear Chat History", use_container_width=True):
         st.session_state.messages = []
         st.session_state.last_retrieval = None
@@ -134,6 +172,31 @@ hop_depth = 2
 
 # Initialize Gemini Client (automatically loads key from secrets/env/gemini_api.txt)
 gemini_client = GeminiClient(model_name="gemini-3.8-flash")
+
+
+@track(name="foodloverstv_concierge_query", tags=["chat", "graphrag", "concierge"])
+def process_concierge_query(query: str, history: list, top_k_val: int = 5, hop_val: int = 2):
+    """Execute end-to-end GraphRAG retrieval + Gemini synthesis with Opik tracing."""
+    update_current_trace(
+        name=f"Query: {query[:45]}...",
+        tags=["foodloverstv", "graphrag"],
+        metadata={"query": query, "top_k": top_k_val, "hop_depth": hop_val}
+    )
+    # 1. GraphRAG Hybrid Retrieval
+    retrieval = graph_engine.retrieve_subgraph(
+        query=query,
+        top_k=top_k_val,
+        hop_depth=hop_val
+    )
+    # 2. LLM Synthesis
+    ans = gemini_client.answer_query_with_graphrag(
+        query=query,
+        llm_context=retrieval["llm_context"],
+        chat_history=history
+    )
+    trace_id = get_current_trace_id()
+    trace_url = get_trace_url(trace_id)
+    return retrieval, ans, trace_id, trace_url
 
 
 # ----------------------------------------------------------------------
@@ -180,6 +243,10 @@ with tab_chat:
             # If assistant message has graph metadata, render interactive viewer
             if message.get("subgraph") and message.get("top_restaurants"):
                 with st.expander("🔍 View Knowledge Graph Retrieval & Subgraph Reasoning", expanded=False):
+                    if message.get("trace_url"):
+                        st.markdown(f"🔭 **Opik Trace:** [Open in Opik Dashboard]({message['trace_url']}) (`{message.get('trace_id', '')}`)")
+                    elif message.get("trace_id"):
+                        st.caption(f"🔭 **Opik Trace ID:** `{message['trace_id']}`")
                     subgraph_data = message["subgraph"]
                     st.caption(
                         f"Retrieved **{len(subgraph_data.get('nodes', []))} nodes** and "
@@ -222,25 +289,24 @@ with tab_chat:
         with st.chat_message("assistant"):
             with st.spinner("Traversing Knowledge Graph & querying Gemini LLM..."):
                 try:
-                    # 1. GraphRAG Hybrid Retrieval
-                    retrieval_res = graph_engine.retrieve_subgraph(
+                    # 1. Execute with Opik Tracing (Retrieval + Synthesis)
+                    retrieval_res, answer, trace_id, trace_url = process_concierge_query(
                         query=user_query,
-                        top_k=top_k,
-                        hop_depth=hop_depth
+                        history=st.session_state.messages[:-1],
+                        top_k_val=top_k,
+                        hop_val=hop_depth,
                     )
                     st.session_state.last_retrieval = retrieval_res
 
-                    # 2. LLM Synthesis
-                    answer = gemini_client.answer_query_with_graphrag(
-                        query=user_query,
-                        llm_context=retrieval_res["llm_context"],
-                        chat_history=st.session_state.messages[:-1]
-                    )
-
                     st.markdown(answer)
 
-                    # 3. Interactive Subgraph Reasoning & Map
+                    # 2. Interactive Subgraph Reasoning & Map
                     with st.expander("🔍 View Knowledge Graph Retrieval & Subgraph Reasoning", expanded=True):
+                        if trace_url:
+                            st.markdown(f"🔭 **Opik Trace:** [Open Trace in Opik Dashboard]({trace_url}) (`{trace_id}`)")
+                        elif trace_id:
+                            st.caption(f"🔭 **Opik Trace ID:** `{trace_id}`")
+
                         subgraph_data = retrieval_res["subgraph"]
                         st.caption(
                             f"Retrieved **{len(subgraph_data.get('nodes', []))} nodes** and "
@@ -263,7 +329,7 @@ with tab_chat:
                                     "lon": r["lon"],
                                     "size": 800,
                                     "color": "#2E7D32" if diet == "Veg" else "#D32F2F"
-                                })
+                                    })
                         if map_points:
                             st.markdown("**📍 Recommended Locations:**")
                             df_map = pd.DataFrame(map_points)
@@ -275,7 +341,9 @@ with tab_chat:
                         "role": "assistant",
                         "content": answer,
                         "subgraph": retrieval_res["subgraph"],
-                        "top_restaurants": retrieval_res["top_restaurants"]
+                        "top_restaurants": retrieval_res["top_restaurants"],
+                        "trace_id": trace_id,
+                        "trace_url": trace_url,
                     })
 
                 except Exception as e:
@@ -442,6 +510,6 @@ with tab_analytics:
         Restaurant -->|KNOWN_FOR_DISH| Dish["🍲 Dish (Name, Price, Summary)"]
         Restaurant -->|LOCATED_IN| Location["📍 Location (Neighborhood / City)"]
         Restaurant -->|HAS_DIET| Dietary["🥗 Dietary (Veg, Non-veg)"]
-        Restaurant -.->|SIMILAR_TO (Co-occurrence)| Restaurant
+        Restaurant -.->|"SIMILAR_TO (Co-occurrence)"| Restaurant
     ```
     """)
