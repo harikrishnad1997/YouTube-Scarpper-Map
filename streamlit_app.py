@@ -195,11 +195,19 @@ with tab_chat:
                     map_points = []
                     for r in message.get("top_restaurants", []):
                         if r.get("lat") and r.get("lon"):
-                            map_points.append({"name": r.get("name"), "lat": r["lat"], "lon": r["lon"]})
+                            diet = r.get("dietary", "Veg")
+                            map_points.append({
+                                "name": r.get("name"),
+                                "lat": r["lat"],
+                                "lon": r["lon"],
+                                "size": 800,
+                                "color": "#2E7D32" if diet == "Veg" else "#D32F2F"
+                            })
                     if map_points:
                         st.markdown("**📍 Location Map:**")
                         df_map = pd.DataFrame(map_points)
-                        st.map(df_map, latitude="lat", longitude="lon", zoom=11)
+                        st.map(df_map, latitude="lat", longitude="lon", size="size", color="color", zoom=11)
+                        st.caption("🟢 Pure Veg | 🔴 Non-veg")
 
     # Chat Input Handler
     user_query = st.chat_input("Ask for restaurant recommendations, dishes, areas...") or selected_pill
@@ -248,11 +256,19 @@ with tab_chat:
                         map_points = []
                         for r in retrieval_res["top_restaurants"]:
                             if r.get("lat") and r.get("lon"):
-                                map_points.append({"name": r.get("name"), "lat": r["lat"], "lon": r["lon"]})
+                                diet = r.get("dietary", "Veg")
+                                map_points.append({
+                                    "name": r.get("name"),
+                                    "lat": r["lat"],
+                                    "lon": r["lon"],
+                                    "size": 800,
+                                    "color": "#2E7D32" if diet == "Veg" else "#D32F2F"
+                                })
                         if map_points:
                             st.markdown("**📍 Recommended Locations:**")
                             df_map = pd.DataFrame(map_points)
-                            st.map(df_map, latitude="lat", longitude="lon", zoom=11)
+                            st.map(df_map, latitude="lat", longitude="lon", size="size", color="color", zoom=11)
+                            st.caption("🟢 Pure Veg | 🔴 Non-veg")
 
                     # Store in chat history
                     st.session_state.messages.append({
@@ -323,11 +339,19 @@ with tab_explorer:
     # Map of filtered restaurants
     map_data = []
     for r in filtered_restaurants:
-        if r["lat"] and r["lon"]:
-            map_data.append({"name": r["name"], "lat": r["lat"], "lon": r["lon"]})
+        if r.get("lat") and r.get("lon"):
+            diet = r.get("dietary", "Veg")
+            map_data.append({
+                "name": r["name"],
+                "lat": r["lat"],
+                "lon": r["lon"],
+                "size": 800,
+                "color": "#2E7D32" if diet == "Veg" else "#D32F2F"
+            })
 
     if map_data:
-        st.map(pd.DataFrame(map_data), latitude="lat", longitude="lon", zoom=11)
+        st.map(pd.DataFrame(map_data), latitude="lat", longitude="lon", size="size", color="color", zoom=11)
+        st.caption("🟢 Pure Veg | 🔴 Non-veg")
 
     # Restaurant Cards
     for r in filtered_restaurants[:40]:  # Paginate top 40 for responsiveness
