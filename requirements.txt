@@ -88,6 +88,7 @@ mpmath==1.3.0
 multidict==6.0.5
 mypy-extensions==1.0.0
 nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1705850609492/work
+networkx>=3.0.0
 numpy==1.26.4
 oauthlib==3.2.2
 onnxruntime==1.18.0
@@ -137,6 +138,7 @@ requests-oauthlib==2.0.0
 rfc3986==1.5.0
 rich==13.7.1
 rsa==4.9
+scikit-learn>=1.3.0
 setuptools==69.5.1
 shellingham==1.5.4
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work

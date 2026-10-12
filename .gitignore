@@ -4,3 +4,5 @@ venv/
 oryx-build-commands.txt
 openai.txt
 neo4j.txt
+__pycache__/
+.env
