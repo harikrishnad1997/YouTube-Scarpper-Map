@@ -30135,39 +30135,69 @@
         }
       ],
       "summary": "Captain's Donne Biryani in Chikkamagaluru comes highly recommended by locals for its distinct yellowish-red Chikmagalur-style biryani, flavoured heavily with Byadgi chillies and whole spices."
-    }
-  ],
-  "They Cook 5 Tonnes Of This Biryani Every Month! Chikmagaluru\u2019s Famous CAPTAIN\u2019S DONNE BIRYANI!": [
+    },
     {
       "title": "They Cook 5 Tonnes Of This Biryani Every Month! Chikmagaluru\u2019s Famous CAPTAIN\u2019S DONNE BIRYANI!",
       "link": "https://www.youtube.com/watch?v=BmlPhmNa4-E",
       "lat": 13.3157681,
       "long": 75.7714343,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Kadur, Chikkamagaluru, Karnataka 577101",
+      "ph_no": "+91 98805 00090",
+      "cuisine": [
+        "South Indian",
+        "Karnataka",
+        "Biryani"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Chicken Kabab",
+          "summary": "Perfectly fried and well-spiced crispy chicken kabab.",
+          "price": "Rs. 150"
+        },
+        {
+          "name": "Mutton Donne Biryani",
+          "summary": "Unique Chikmagalur-style yellowish-red biryani led by Byadgi chillies and whole spices, cooked with a special masala pour-over process.",
+          "price": "Rs. 250"
+        },
+        {
+          "name": "Mutton Chops",
+          "summary": "Richly spiced and tender mutton chops.",
+          "price": "Rs. 230"
+        },
+        {
+          "name": "Chicken Donne Biryani",
+          "summary": "Flavorful local style chicken donne biryani.",
+          "price": ""
+        }
+      ],
+      "summary": "Captain's Donne Biryani in Chikmagalur is famous for its unique regional take on donne biryani. Unlike the green masala biryani of Bengaluru, their biryani is yellowish-red, heavily flavored with Byadgi chillies and whole spices, and crafted using a signature pour-over masala technique by Master Harish Shetty."
     }
   ],
-  "Trying Bangkok's Spicy Pad Kaprao At Phed Mark! #shorts #foodvlog #streetfood #bangkok #thailand": [
+  "Phed Mark": [
     {
       "title": "Trying Bangkok's Spicy Pad Kaprao At Phed Mark! #shorts #foodvlog #streetfood #bangkok #thailand",
       "link": "https://www.youtube.com/watch?v=pWoiSY30eLk",
       "lat": 13.7202176,
       "long": 100.5813196,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "300 Sukhumvit Rd, Phra Khanong, Khlong Toei, Bangkok 10110, Thailand",
+      "ph_no": "+66 83893 8989",
+      "cuisine": [
+        "Thai",
+        "Street Food"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    }
-  ],
-  "Phed Mark": [
+      "best_dishes": [
+        {
+          "name": "Pad Kaprao",
+          "summary": "A fiery and iconic Thai street food dish made with stir-fried holy basil and meat.",
+          "price": ""
+        }
+      ],
+      "summary": "Phed Mark is a popular Bangkok restaurant co-founded by food blogger Mark Wiens, dedicated to serving intense and spicy authentic Thai Pad Kaprao."
+    },
     {
       "title": "Trying All Spice Levels At Mark Wiens\u2019 Restaurant, PHED MARK Bangkok! Must Try Pad Kaprao!",
       "link": "https://www.youtube.com/watch?v=2d_hWT7ufXk",
