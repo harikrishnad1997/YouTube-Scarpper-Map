@@ -138,6 +138,29 @@
         }
       ],
       "summary": "Dhanyam Caf\u00e9 is a small eatery located in Jayanagar, Bengaluru, founded by three young entrepreneurs passionate about serving healthy and traditional South Indian vegetarian food. They offer a variety of millet-based dishes, including pongal, bisi bele bath, and idli, alongside classic South Indian tiffin items. Dhanyam Caf\u00e9 stands out for its commitment to using healthy ingredients and offering a fresh take on traditional dishes. "
+    },
+    {
+      "title": "Found This Delicious Ragi Idli! #bengaluru #foodvlog #idli #foodie #foodlovers  #indiancuisine",
+      "link": "https://www.youtube.com/watch?v=dQf8uzQ0bYk",
+      "lat": 12.9257704,
+      "long": 77.5711895,
+      "address": "Ground Floor, Unit 1, 25/4, 8th Cross Rd, WKP Road, 7th Block, Jayanagar, Bengaluru, Karnataka 560070",
+      "ph_no": "+91 89511 80664",
+      "cuisine": [
+        "South Indian",
+        "Karnataka",
+        "Millet Cuisine"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Ragi Idli",
+          "summary": "A delicious and healthy millet-based steamed rice cake.",
+          "price": ""
+        }
+      ],
+      "summary": "Dhanyam Caf\u00e9 in Jayanagar, Bengaluru, is a vegetarian millet cafe serving healthy South Indian breakfast, tiffin, and lunch options like delicious Ragi Idli."
     }
   ],
   "Herbs On Pizza": [
@@ -13023,6 +13046,75 @@
         }
       },
       "summary": "Mayuri, located in Minerva Circle, JC Road, Bangalore, is a legendary Andhra restaurant that has been serving authentic Andhra cuisine for over 35 years.  This episode provides a glimpse into the heart of Mayuri, showcasing their most popular dishes and the passion of its founder, Mr. Chenna Reddy.  Mr. Reddy's commitment to quality and authentic flavors is evident in every dish, from the perfectly balanced Chilli Chicken to the aromatic Mutton Biryani. The highlight of Mayuri is undoubtedly their biryani, made with minimal spices but abundant flavor, a testament to their belief that less is more. A visit to Mayuri is a culinary journey back in time, where one can savor the true essence of Andhra cuisine in a nostalgic setting. "
+    },
+    {
+      "title": "Found A New Place For Andhra Meals & Biryani! #bengaluru #foodvlog #andhrafood #biryani #foodie",
+      "link": "https://www.youtube.com/watch?v=NKg7U9nreCI",
+      "lat": 12.841898,
+      "long": 77.6417027,
+      "address": "152/4, 2nd floor, Neeladri Road, Neeladri Nagar Doddathogur Village, Begur Hobli, Bengaluru, Karnataka 560100",
+      "ph_no": "+91 85500 12365",
+      "cuisine": [
+        "Andhra",
+        "South Indian"
+      ],
+      "price": "$$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [
+        {
+          "name": "Andhra Bhojanam",
+          "summary": "A lavish traditional Andhra style thali/meal.",
+          "price": ""
+        },
+        {
+          "name": "Biryani",
+          "summary": "Flavorful Andhra style biryani.",
+          "price": ""
+        }
+      ],
+      "summary": "Mayuri on Neeladri Road, Bengaluru, offers a lavish Andhra lunch experience featuring traditional Andhra bhojanam and biryani."
+    },
+    {
+      "title": "This Andhra Bhojanam Was Worth The Drive! MAYURI Electronic City Bengaluru",
+      "link": "https://www.youtube.com/watch?v=409lizF2f7E",
+      "lat": 12.841898,
+      "long": 77.6417027,
+      "address": "152/4, 2nd floor, Neeladri Road, Neeladri Nagar, Doddathogur Village, Begur Hobli, Bengaluru, Karnataka 560100",
+      "ph_no": "+91 85500 12365",
+      "cuisine": [
+        "Andhra",
+        "South Indian"
+      ],
+      "price": "$$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [
+        {
+          "name": "Veg Bhojanam",
+          "summary": "Sumptuous traditional Andhra vegetarian meals with pappula podi, kakarakaya chutney, pachadi, pappu, koora, and more.",
+          "price": "Rs. 279"
+        },
+        {
+          "name": "Andhra Chilli Chicken",
+          "summary": "Classic and spicy Andhra-style chilli chicken.",
+          "price": "Rs. 329"
+        },
+        {
+          "name": "Mamdekayi Mamsam",
+          "summary": "Tender mutton cooked with tangy pickled green mango.",
+          "price": "Rs. 399"
+        },
+        {
+          "name": "Chicken Biryani",
+          "summary": "Flavorful Nellore-style chicken biryani.",
+          "price": "Rs. 329"
+        },
+        {
+          "name": "Mutton Biryani",
+          "summary": "Rich Nellore-style mutton biryani.",
+          "price": "Rs. 399"
+        }
+      ],
+      "summary": "Located in Electronic City, Bengaluru, Mayuri offers a classic Andhra meal experience featuring rich Andhra Bhojanam and signature spicy non-vegetarian dishes like Mamdekayi Mamsam and Nellore-style Biryani."
     }
   ],
   "Brahmin\u2019s Veg Corner": [
@@ -30489,64 +30581,45 @@
       "summary": "Located inside a 130-year-old wrestling arena in Shivajinagar, Bengaluru, Pahilwani Handi offers authentic Dakhni Muslim Bachelor Centre (BC) cuisine known for its hearty mutton chops, organ meats, and traditional recipes."
     }
   ],
-  "Found Delicious, Authentic Malenadu Cuisine At This Rustic Eatery! HALLIMANE HOTEL Chikmagalur": [
+  "Balu's Hallimane Hotel": [
     {
       "title": "Found Delicious, Authentic Malenadu Cuisine At This Rustic Eatery! HALLIMANE HOTEL Chikmagalur",
       "link": "https://www.youtube.com/watch?v=jF5uLLCsEp0",
       "lat": 13.3011919,
       "long": 75.7597605,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Maruthinagar, Chikkamagaluru, Karnataka 577101",
+      "ph_no": "+91 78922 48482",
+      "cuisine": [
+        "Malenadu",
+        "Karnataka",
+        "South Indian",
+        "Indian"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    }
-  ],
-  "Found This Delicious Ragi Idli! #bengaluru #foodvlog #idli #foodie #foodlovers  #indiancuisine": [
-    {
-      "title": "Found This Delicious Ragi Idli! #bengaluru #foodvlog #idli #foodie #foodlovers  #indiancuisine",
-      "link": "https://www.youtube.com/watch?v=dQf8uzQ0bYk",
-      "lat": 12.9257704,
-      "long": 77.5711895,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    }
-  ],
-  "Found A New Place For Andhra Meals & Biryani! #bengaluru #foodvlog #andhrafood #biryani #foodie": [
-    {
-      "title": "Found A New Place For Andhra Meals & Biryani! #bengaluru #foodvlog #andhrafood #biryani #foodie",
-      "link": "https://www.youtube.com/watch?v=NKg7U9nreCI",
-      "lat": 12.841898,
-      "long": 77.6417027,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    }
-  ],
-  "This Andhra Bhojanam Was Worth The Drive! MAYURI Electronic City Bengaluru": [
-    {
-      "title": "This Andhra Bhojanam Was Worth The Drive! MAYURI Electronic City Bengaluru",
-      "link": "https://www.youtube.com/watch?v=409lizF2f7E",
-      "lat": 12.841898,
-      "long": 77.6417027,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Khaima Unde",
+          "summary": "Flavorful minced mutton meatball preparation cooked in traditional Malenadu style.",
+          "price": "Rs. 180"
+        },
+        {
+          "name": "Mutton Chops",
+          "summary": "Tender and rustic mutton chops steeped in home-style spices.",
+          "price": "Rs. 230"
+        },
+        {
+          "name": "Chicken Chops",
+          "summary": "Homely and rich chicken chops with traditional coastal/Malnad flavor profile.",
+          "price": ""
+        },
+        {
+          "name": "Mutton Liver Fry",
+          "summary": "Spiced and pan-fried mutton liver.",
+          "price": "Rs. 160"
+        }
+      ],
+      "summary": "Balu's Hallimane Hotel is a rustic eatery located on the Chikmagalur-Mudigere road, run by Balraj Gowda and his family. The restaurant specializes in serving tasty, traditional, and authentic non-vegetarian Malenadu fare with a focused and wholesome menu."
     }
   ],
   "Organic Mandya Cafe": [
@@ -30716,34 +30789,95 @@
       "summary": "Rajesh Biryani Hotel in Ramanagara is renowned for its signature Naati Koli (country chicken) Biryani, prepared using a self-taught recipe with a special wet green masala by owner Rajesh. The restaurant also serves a range of local Naati non-vegetarian specialties like Mutton Curry, Boti Gojju, and Kaal Soup. Note that Naati Koli Biryani is served exclusively on Wednesdays."
     }
   ],
-  "Car Street, Manguluru - Charmuri & Conversations! Gokul Charmuri": [
+  "Gokul Charmuri (Kamath Condiments)": [
     {
       "title": "Car Street, Manguluru - Charmuri & Conversations! Gokul Charmuri",
       "link": "https://www.youtube.com/watch?v=mkM31z7ZVV0",
       "lat": 12.8701006,
       "long": 74.8372496,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "Car Street, Bhavathi, Bunder, Mangaluru, Karnataka 575001",
+      "ph_no": "+91 98457 71118",
+      "cuisine": [
+        "Mangalorean",
+        "Street Food",
+        "Chaat",
+        "South Indian"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Charmuri (New Style)",
+          "summary": "An elaborate and flavor-packed puffed rice chaat creation.",
+          "price": ""
+        },
+        {
+          "name": "Mango Masala (Amboli Pachodi)",
+          "summary": "Spicy, tangy, and refreshing raw mango preparation.",
+          "price": ""
+        },
+        {
+          "name": "Charmuri (Old Style)",
+          "summary": "Traditional old-fashioned puffed rice chaat reminiscent of village fairs.",
+          "price": ""
+        },
+        {
+          "name": "Cucumber Salad",
+          "summary": "Refreshing local Mangalorean cucumber spiced salad.",
+          "price": ""
+        }
+      ],
+      "summary": "Gokul Charmuri (Kamath Condiments) is a iconic street food spot on Car Street in Mangaluru, serving a variety of traditional and inventive charmuri (puffed rice chaat), boiled-rice charmuri, raw mango masala, and spicy cucumber salads."
     }
   ],
-  "From Home Kitchen to Highway Eatery | Hunsur Bedare\u2019s Kitchen": [
+  "Hunsur Bedare\u2019s Kitchen": [
     {
       "title": "From Home Kitchen to Highway Eatery | Hunsur Bedare\u2019s Kitchen",
       "link": "https://www.youtube.com/watch?v=4QeVps-dEDk",
       "lat": 12.3071231,
       "long": 76.3010343,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
+      "address": "Old BM Road, Near Sai Baba Temple, Beside Indane Gas Agency, Hunsur, Karnataka 571105",
+      "ph_no": "+91 80508 48002",
+      "cuisine": [
+        "South Indian",
+        "Karnataka",
+        "Bhavsar Maratha"
+      ],
+      "price": "$",
       "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "best_dishes": [
+        {
+          "name": "Mutton Palav",
+          "summary": "Rich and fragrant mutton palav prepared using generational family recipes.",
+          "price": "Rs. 180 (half portion)"
+        },
+        {
+          "name": "Mutton Chops Curry",
+          "summary": "Flavorful, rich mutton chops curry.",
+          "price": "Rs. 280"
+        },
+        {
+          "name": "Kshatriya Kabab",
+          "summary": "Crispy kabab influenced by the family's Bhavsar Maratha heritage.",
+          "price": "Rs. 100 (half portion)"
+        },
+        {
+          "name": "Khaima Unde Curry",
+          "summary": "Delicious minced mutton meatball curry.",
+          "price": "Rs. 280"
+        },
+        {
+          "name": "Kaal Soup",
+          "summary": "Traditional mutton leg soup full of authentic flavor.",
+          "price": ""
+        },
+        {
+          "name": "Catla Fry",
+          "summary": "Crispy seasoned Catla fish fry.",
+          "price": ""
+        }
+      ],
+      "summary": "Hunsur Bedare\u2019s Kitchen is a rustic, family-run highway eatery in Hunsur serving traditional non-vegetarian South Indian food. The Bedare family cooks and serves recipes passed down through generations, incorporating subtle Bhavsar Maratha influences."
     }
   ],
   "Mysuru Dasara Special | A Day Eating Out in Mysuru": [
@@ -30752,58 +30886,6 @@
       "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
       "lat": 12.322992,
       "long": 76.6325942,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
-    {
-      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
-      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
-      "lat": 12.3085196,
-      "long": 76.6632781,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
-    {
-      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
-      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
-      "lat": 12.3222506,
-      "long": 76.614962,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
-    {
-      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
-      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
-      "lat": 12.3076851,
-      "long": 76.6453665,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    },
-    {
-      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
-      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
-      "lat": 12.3099709,
-      "long": 76.6500007,
       "address": "",
       "ph_no": null,
       "cuisine": null,
@@ -30827,6 +30909,50 @@
     }
   ],
   "Vinayaka Mylari": [
+    {
+      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
+      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
+      "lat": 12.3085196,
+      "long": 76.6632781,
+      "address": "Mysuru, Karnataka, India",
+      "ph_no": "",
+      "cuisine": [
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Mylari Dosa",
+          "summary": "Iconic soft, airy, and fluffy dosa topped with fresh white butter and served with flavorful sagu and chutney.",
+          "price": ""
+        }
+      ],
+      "summary": "Vinayaka Mylari is one of Mysuru's most famous and iconic eateries, legendary for its unique, cloud-like soft dosas served with white butter and sagu."
+    },
+    {
+      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
+      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
+      "lat": 12.3222506,
+      "long": 76.614962,
+      "address": "Nazarbad, Mysuru, Karnataka, India",
+      "ph_no": "",
+      "cuisine": [
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Mylari Dosa",
+          "summary": "Iconic soft and fluffy butter dosa served with signature coconut chutney and vegetable sagu.",
+          "price": ""
+        }
+      ],
+      "summary": "Vinayaka Mylari is one of Mysuru's most legendary traditional eateries, famously celebrated for its signature soft, melt-in-the-mouth butter dosas."
+    },
     {
       "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
       "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
@@ -30936,6 +31062,50 @@
         }
       ],
       "summary": "Vinayaka Mylari is one of Mysuru's most legendary and iconic breakfast spots, world-famous for its uniquely soft, pillowy, and buttery dosas."
+    },
+    {
+      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
+      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
+      "lat": 12.3076851,
+      "long": 76.6453665,
+      "address": "Mysuru, Karnataka, India",
+      "ph_no": "",
+      "cuisine": [
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Mylari Dosa",
+          "summary": "Iconic soft and airy Mysuru-style dosa served with fresh white butter and coconut chutney.",
+          "price": ""
+        }
+      ],
+      "summary": "A food journey through Mysuru discovering traditional vegetarian culinary heritage, highlighted by the iconic fluffy dosas at Vinayaka Mylari, traditional home-style banana leaf meals, evening dry gobi, and classic Mysore Pak from legendary sweet shops."
+    },
+    {
+      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
+      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
+      "lat": 12.3099709,
+      "long": 76.6500007,
+      "address": "Mysuru, Karnataka, India",
+      "ph_no": "",
+      "cuisine": [
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Mylari Dosa",
+          "summary": "Iconic, soft, and buttery traditional Mysuru dosa.",
+          "price": ""
+        }
+      ],
+      "summary": "Vinayaka Mylari is a legendary vegetarian spot in Mysuru famous for its iconic Mylari dosa, showcased as part of a traditional Mysuru food tour highlighting authentic local flavors."
     }
   ]
 }
