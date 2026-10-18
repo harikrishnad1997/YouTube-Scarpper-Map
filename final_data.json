@@ -30880,35 +30880,29 @@
       "summary": "Hunsur Bedare\u2019s Kitchen is a rustic, family-run highway eatery in Hunsur serving traditional non-vegetarian South Indian food. The Bedare family cooks and serves recipes passed down through generations, incorporating subtle Bhavsar Maratha influences."
     }
   ],
-  "Mysuru Dasara Special | A Day Eating Out in Mysuru": [
+  "Vinayaka Mylari": [
     {
       "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
       "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
       "lat": 12.322992,
       "long": 76.6325942,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
+      "address": "Nazarbad, Mysuru, Karnataka, India",
+      "ph_no": "",
+      "cuisine": [
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Mylari Dosa",
+          "summary": "Iconic, extremely soft and airy Mysore-style dosa served with a rich dollop of butter and fresh coconut chutney.",
+          "price": ""
+        }
+      ],
+      "summary": "Vinayaka Mylari is one of Mysuru's most iconic heritage eateries, renowned for serving legendary, ultra-soft buttery dosas that are a staple of the city's culinary identity."
     },
-    {
-      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
-      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
-      "lat": 12.3101021,
-      "long": 76.6502657,
-      "address": "",
-      "ph_no": null,
-      "cuisine": null,
-      "price": "",
-      "v_n_ng": "Non-veg",
-      "best_dishes": null,
-      "summary": ""
-    }
-  ],
-  "Vinayaka Mylari": [
     {
       "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
       "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
@@ -31106,6 +31100,29 @@
         }
       ],
       "summary": "Vinayaka Mylari is a legendary vegetarian spot in Mysuru famous for its iconic Mylari dosa, showcased as part of a traditional Mysuru food tour highlighting authentic local flavors."
+    },
+    {
+      "title": "Mysuru Dasara Special | A Day Eating Out in Mysuru",
+      "link": "https://www.youtube.com/watch?v=OFZoyFeP6HQ",
+      "lat": 12.3101021,
+      "long": 76.6502657,
+      "address": "Nazarbad, Mysuru, Karnataka, India",
+      "ph_no": "",
+      "cuisine": [
+        "South Indian",
+        "Karnataka",
+        "Mysuru"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Mylari Dosa",
+          "summary": "Iconic soft, fluffy, butter-laden dosa served with coconut chutney and potato sagu.",
+          "price": ""
+        }
+      ],
+      "summary": "Vinayaka Mylari is an iconic food destination in Mysuru, legendary for its unique, pillowy soft butter dosas served with signature coconut chutney and flavorful sagu."
     }
   ]
 }
