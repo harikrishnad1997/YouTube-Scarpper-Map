@@ -31124,5 +31124,56 @@
       ],
       "summary": "Vinayaka Mylari is an iconic food destination in Mysuru, legendary for its unique, pillowy soft butter dosas served with signature coconut chutney and flavorful sagu."
     }
+  ],
+  "JK Fast Food": [
+    {
+      "title": "Mangalore's Local Food Favourite You've Probably Never Heard Of! JK Fast Food",
+      "link": "https://www.youtube.com/watch?v=RqkZ-iCG3ZA",
+      "lat": 12.8787757,
+      "long": 74.8257368,
+      "address": "JK fast Food, Bokkapatna Rd, Gandhinagar, Mangaluru, Karnataka 575003",
+      "ph_no": "",
+      "cuisine": [
+        "Mangalorean",
+        "South Indian",
+        "Fast Food",
+        "Street Food"
+      ],
+      "price": "$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [
+        {
+          "name": "Chicken Biryani",
+          "summary": "Flavourful local style biryani rated 8.5/10.",
+          "price": ""
+        },
+        {
+          "name": "Pepper Chicken",
+          "summary": "Spicy pepper-flavoured chicken dish, rated 8/10.",
+          "price": ""
+        },
+        {
+          "name": "Chicken Chilli",
+          "summary": "Savory chicken cooked with chillies, rated 7.7/10.",
+          "price": ""
+        },
+        {
+          "name": "Mutton boti",
+          "summary": "Traditional organ meat specialty, rated 7.5/10.",
+          "price": ""
+        },
+        {
+          "name": "Chicken Kabab",
+          "summary": "Crispy fried spice-marinated chicken kabab, rated 7/10.",
+          "price": ""
+        },
+        {
+          "name": "Thale Mamsa",
+          "summary": "Mutton head meat dish cooked in local spices, rated 7/10.",
+          "price": ""
+        }
+      ],
+      "summary": "JK Fast Food is a 42-year-old neighbourhood eatery in Bokkapatna, Mangalore, run by Jayanna. The food is home-cooked and brought to the shop to serve every evening starting at 5 PM. Known for simple, hearty non-vegetarian delights like Chicken Biryani, Pepper Chicken, and Mutton Boti at very reasonable prices."
+    }
   ]
 }
