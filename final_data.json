@@ -31175,5 +31175,65 @@
       ],
       "summary": "JK Fast Food is a 42-year-old neighbourhood eatery in Bokkapatna, Mangalore, run by Jayanna. The food is home-cooked and brought to the shop to serve every evening starting at 5 PM. Known for simple, hearty non-vegetarian delights like Chicken Biryani, Pepper Chicken, and Mutton Boti at very reasonable prices."
     }
+  ],
+  "Zafrani Darbar": [
+    {
+      "title": "This Mother Brings the Flavours of Old Delhi to Bengaluru! Zafrani Darbar",
+      "link": "https://www.youtube.com/watch?v=AzTFMpBTbks",
+      "lat": 12.9073599,
+      "long": 77.6299205,
+      "address": "117, Mangammanapalya Main Rd, opposite Salapuriya Serenity, Rajiv Gandhi Nagar, 7th Sector, HSR Layout, Bengaluru, Karnataka 560102",
+      "ph_no": "+91 88495 66693",
+      "cuisine": [
+        "Old Delhi",
+        "Mughlai",
+        "North Indian"
+      ],
+      "price": "$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [
+        {
+          "name": "Mutton Seekh Kebab",
+          "summary": "Juicy and flavor-packed minced mutton kebabs prepared with Old Delhi spices.",
+          "price": "Rs. 299"
+        },
+        {
+          "name": "Chicken Tikka",
+          "summary": "Succulent chicken pieces marinated in spices and grilled to perfection.",
+          "price": "Rs. 185"
+        },
+        {
+          "name": "Safed Butter Chicken",
+          "summary": "A rich, creamy, white-gravy variation of butter chicken.",
+          "price": "Rs. 199"
+        },
+        {
+          "name": "Mutton Malai Kebab",
+          "summary": "Tender mutton kebabs infused with cream and subtle aromatic spices.",
+          "price": "Rs. 369"
+        },
+        {
+          "name": "Chicken Korma",
+          "summary": "Traditional Old Delhi style rich chicken korma curry.",
+          "price": "Rs. 199"
+        },
+        {
+          "name": "Chicken Angara",
+          "summary": "A smoky, spicy chicken curry packed with robust flavors.",
+          "price": "Rs. 199"
+        },
+        {
+          "name": "Chicken Afghani Korma",
+          "summary": "Creamy and mildly spiced Afghan-style chicken gravy.",
+          "price": "Rs. 199"
+        },
+        {
+          "name": "Chicken Biryani",
+          "summary": "Aromatic Mughlai biryani prepared with fragrant rice and tender chicken.",
+          "price": "Rs. 189"
+        }
+      ],
+      "summary": "Zafrani Darbar in HSR Layout, Bengaluru, is run by Mrs. Rizwana, a former home caterer from Old Delhi. The restaurant brings authentic Old Delhi Mughlai flavors to Bengaluru, serving a variety of kebabs, rich kormas, and aromatic biryanis prepared with hand-crafted spice mixes and traditional cooking techniques."
+    }
   ]
 }
