@@ -31235,5 +31235,120 @@
       ],
       "summary": "Zafrani Darbar in HSR Layout, Bengaluru, is run by Mrs. Rizwana, a former home caterer from Old Delhi. The restaurant brings authentic Old Delhi Mughlai flavors to Bengaluru, serving a variety of kebabs, rich kormas, and aromatic biryanis prepared with hand-crafted spice mixes and traditional cooking techniques."
     }
+  ],
+  "Mitra Samaj": [
+    {
+      "title": "A Walk Through Krishna Matha | Udupi's Food & Local Stories",
+      "link": "https://www.youtube.com/watch?v=d0Pt3eHiH_I",
+      "lat": 13.3406729,
+      "long": 74.7496455,
+      "address": "Temple Car St, Sri Krishna Temple Complex, Thenkpete, Maruthi Veethika, Udupi, Karnataka 576101",
+      "ph_no": "+91 98801 99678",
+      "cuisine": [
+        "Udupi",
+        "South Indian",
+        "Karnataka",
+        "Vegetarian"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Mangalore Buns",
+          "summary": "A soft, fluffy, slightly sweet banana-infused fried bread traditional to coastal Karnataka.",
+          "price": ""
+        },
+        {
+          "name": "Goli Bajji",
+          "summary": "Crispy on the outside, soft on the inside flour fritters served with coconut chutney.",
+          "price": ""
+        }
+      ],
+      "summary": "Mitra Samaj is an iconic, historic eatery located near the Sri Krishna Temple in Udupi, renowned for serving classic, authentic Udupi vegetarian breakfast items and traditional snacks."
+    },
+    {
+      "title": "A Walk Through Krishna Matha | Udupi's Food & Local Stories",
+      "link": "https://www.youtube.com/watch?v=d0Pt3eHiH_I",
+      "lat": 13.3401667,
+      "long": 74.7518855,
+      "address": "Temple Car St, Sri Krishna Temple Complex, Thenkpete, Maruthi Veethika, Udupi, Karnataka 576101",
+      "ph_no": "+91 98801 99678",
+      "cuisine": [
+        "Udupi",
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Mangalore Buns",
+          "summary": "Fluffy, slightly sweet deep-fried bread made with banana and flour, served with chutney.",
+          "price": ""
+        },
+        {
+          "name": "Goli Bajji",
+          "summary": "Crispy and light deep-fried fritters made with spiced flour batter.",
+          "price": ""
+        }
+      ],
+      "summary": "Located right in the historic Sri Krishna Temple complex in Udupi, Mitra Samaj is an iconic local institution famous for serving authentic, old-fashioned Udupi vegetarian snacks and breakfast items."
+    },
+    {
+      "title": "A Walk Through Krishna Matha | Udupi's Food & Local Stories",
+      "link": "https://www.youtube.com/watch?v=d0Pt3eHiH_I",
+      "lat": 13.3419597,
+      "long": 74.750388,
+      "address": "Temple Car St, Sri Krishna Temple Complex, Thenkpete, Maruthi Veethika, Udupi, Karnataka 576101",
+      "ph_no": "+91 98801 99678",
+      "cuisine": [
+        "Udupi",
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Mangalore Buns",
+          "summary": "Traditional sweet, soft banana puris popular in Udupi.",
+          "price": ""
+        },
+        {
+          "name": "Goli Bajji",
+          "summary": "Crispy on the outside and soft inside fried fritters.",
+          "price": ""
+        }
+      ],
+      "summary": "Located in the historic Krishna Matha neighbourhood in Udupi, Mitra Samaj is an iconic pure-vegetarian eatery renowned for its classic Udupi snacks, traditional recipes, and rich culinary heritage."
+    },
+    {
+      "title": "A Walk Through Krishna Matha | Udupi's Food & Local Stories",
+      "link": "https://www.youtube.com/watch?v=d0Pt3eHiH_I",
+      "lat": 13.3416083,
+      "long": 74.751699,
+      "address": "Temple Car St, Sri Krishna Temple Complex, Thenkpete, Maruthi Veethika, Udupi, Karnataka 576101",
+      "ph_no": "+91 98801 99678",
+      "cuisine": [
+        "Udupi",
+        "South Indian",
+        "Karnataka"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Mangalore Buns",
+          "summary": "Traditional sweet banana puri served hot with chutney.",
+          "price": ""
+        },
+        {
+          "name": "Goli Bajji",
+          "summary": "Crispy, deep-fried flour fritters popular in Udupi.",
+          "price": ""
+        }
+      ],
+      "summary": "Mitra Samaj is a historic and iconic pure-vegetarian eatery situated in the Sri Krishna Temple Complex in Udupi, renowned for its traditional Udupi breakfast items and classic local snacks."
+    }
   ]
 }
