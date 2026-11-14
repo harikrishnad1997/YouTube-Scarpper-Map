@@ -31350,5 +31350,35 @@
       ],
       "summary": "Mitra Samaj is a historic and iconic pure-vegetarian eatery situated in the Sri Krishna Temple Complex in Udupi, renowned for its traditional Udupi breakfast items and classic local snacks."
     }
+  ],
+  "Hotel Guru Rohit Khaima Vade": [
+    {
+      "title": "Mysuru's Famous Mutton Khaima Vade! 36 Years, 3 Generations",
+      "link": "https://www.youtube.com/watch?v=CBfVOTlHIQU",
+      "lat": 12.3181771,
+      "long": 76.6501123,
+      "address": "Akbar Rd, opposite Mandi Market, Mandi Mohalla, Mysuru, Karnataka 570001",
+      "ph_no": "+91 98453 66271",
+      "cuisine": [
+        "Mysuru",
+        "Karnataka",
+        "South Indian"
+      ],
+      "price": "$",
+      "v_n_ng": "Non-veg",
+      "best_dishes": [
+        {
+          "name": "Khaima Vade",
+          "summary": "Distinctive mutton keema vada with a crunchy exterior and soft, velvety inside, made using a 36-year-old family recipe.",
+          "price": "Rs. 120 for a plate of four"
+        },
+        {
+          "name": "Mutton Palav",
+          "summary": "A delicious and rich mutton palav cooked to perfection.",
+          "price": "Rs. 160 for half portion / Rs. 280 for full portion"
+        }
+      ],
+      "summary": "Hotel Guru Rohit Khaima Vade in Mysuru's Mandi Mohalla is a popular 36-year-old, three-generation eatery renowned for its signature Mutton Khaima Vade. Prepared using a mother's legacy recipe, the signature vada is slow-fried on a tawa to achieve a crisp exterior and soft, flavorful interior."
+    }
   ]
 }
