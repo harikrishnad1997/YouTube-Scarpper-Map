@@ -31380,5 +31380,47 @@
       ],
       "summary": "Hotel Guru Rohit Khaima Vade in Mysuru's Mandi Mohalla is a popular 36-year-old, three-generation eatery renowned for its signature Mutton Khaima Vade. Prepared using a mother's legacy recipe, the signature vada is slow-fried on a tawa to achieve a crisp exterior and soft, flavorful interior."
     }
+  ],
+  "Samosa Centre": [
+    {
+      "title": "From Mathura to Mysuru! A Family's 60-Year Food Legacy: Samosas, Kachoris & Gulab Jamuns",
+      "link": "https://www.youtube.com/watch?v=V7DqWaYW1kk",
+      "lat": 12.3151126,
+      "long": 76.6121851,
+      "address": "2058 MIG/1A, Akbar Rd, Mandi Mohalla, Mysuru, Karnataka 570001",
+      "ph_no": "+91 90366 99344",
+      "cuisine": [
+        "Indian",
+        "North Indian",
+        "Street Food",
+        "Sweets",
+        "Snacks"
+      ],
+      "price": "$",
+      "v_n_ng": "Veg",
+      "best_dishes": [
+        {
+          "name": "Gulab Jamun",
+          "summary": "Melt-in-the-mouth, highly rated classic sweet prepared with family tradition.",
+          "price": "Rs. 28"
+        },
+        {
+          "name": "Samosa and Chutney",
+          "summary": "Crispy traditional North Indian style samosas served with tangy chutney.",
+          "price": "Rs. 28"
+        },
+        {
+          "name": "Kachori and Chutney",
+          "summary": "Flavorful, crispy fried savory kachoris paired with signature chutney.",
+          "price": "Rs. 28"
+        },
+        {
+          "name": "Milk Peda",
+          "summary": "Rich traditional sweet made with reduced milk.",
+          "price": "Rs. 28"
+        }
+      ],
+      "summary": "Established as a humble street side pushcart by Giradhari Lal from Mathura in the 1960s and moved to its present location in 1980, Samosa Centre is a 60-year-old iconic Mysuru eatery currently managed by his son, Naveen Lal. Famous for its North Indian snacks such as samosas, kachoris, and sweet delicacies like gulab jamuns and pedas."
+    }
   ]
 }
